@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1569308891066.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3265784551",
+    "id" : "2F17E9CA",
+    "lastKnownWriteTime" : 1569309287,
+    "last_content_update" : 1569309287305,
+    "path" : "~/1LabDataAnalysis/Lab1.R",
+    "project_path" : "Lab1.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}
