@@ -1,0 +1,3 @@
+A: a; b; 
+E: q0q4q2q6-F; q1q3q5q7; 
+T: q0q4q2q6-a-q1q3q5q7; q1q3q5q7-a-q0q4q2q6; q1q3q5q7-b-q0q4q2q6; q0q4q2q6-b-q1q3q5q7; 

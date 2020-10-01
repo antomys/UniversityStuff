@@ -1,0 +1,3 @@
+A: a; b;
+E: q0-I-F; q1; q2-F; q3; q4-F; q5; q6-F; q7;
+T: q0-a-q1; q0-b-q5; q1-a-q6; q1-b-q2; q2-a-q0; q2-b-q6; q3-a-q3; q3-b-q2; q4-a-q7; q4-b-q5; q5-a-q2; q5-b-q6; q6-a-q6; q6-b-q4; q7-a-q6; q7-b-q2;
