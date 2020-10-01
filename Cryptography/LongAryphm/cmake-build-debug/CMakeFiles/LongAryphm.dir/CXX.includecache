@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../LongAryphm/Lib/LongInts.h
+cstdint
+-
+vector
+-
+iostream
+-
+stdexcept
+-
+algorithm
+-
+sstream
+-
+cctype
+-
+
+../LongAryphm/Lib/chin_theor.h
+LongInts.h
+-
+exception
+-
+vector
+-
+iostream
+-
+
+C:/Users/Igor Volokhovych/CLionProjects/LongAryphm/LongAryphm/Lib/LongInts.h
+cstdint
+-
+vector
+-
+iostream
+-
+stdexcept
+-
+algorithm
+-
+sstream
+-
+cctype
+-
+
+C:/Users/Igor Volokhovych/CLionProjects/LongAryphm/LongAryphm/LongInts.cpp
+Lib/LongInts.h
+C:/Users/Igor Volokhovych/CLionProjects/LongAryphm/LongAryphm/Lib/LongInts.h
+
+C:/Users/Igor Volokhovych/CLionProjects/LongAryphm/LongAryphm/main.cpp
+LongInts.cpp
+C:/Users/Igor Volokhovych/CLionProjects/LongAryphm/LongAryphm/LongInts.cpp
+iostream
+-
+string
+-
+chin_theor.h
+C:/Users/Igor Volokhovych/CLionProjects/LongAryphm/LongAryphm/chin_theor.h
+

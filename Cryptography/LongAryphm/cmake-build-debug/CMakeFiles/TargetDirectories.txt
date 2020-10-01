@@ -1,0 +1,3 @@
+C:/Users/Igor Volokhovych/CLionProjects/LongAryphm/cmake-build-debug/CMakeFiles/LongAryphm.dir
+C:/Users/Igor Volokhovych/CLionProjects/LongAryphm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Igor Volokhovych/CLionProjects/LongAryphm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

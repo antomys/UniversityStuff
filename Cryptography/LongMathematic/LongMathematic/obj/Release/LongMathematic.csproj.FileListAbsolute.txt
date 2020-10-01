@@ -1,0 +1,10 @@
+C:\Users\Ihor\Documents\GitHub\LongMathematic\LongMathematic\bin\Release\LongMathematic.exe.config
+C:\Users\Ihor\Documents\GitHub\LongMathematic\LongMathematic\bin\Release\LongMathematic.exe
+C:\Users\Ihor\Documents\GitHub\LongMathematic\LongMathematic\bin\Release\LongMathematic.pdb
+C:\Users\Ihor\Documents\GitHub\LongMathematic\LongMathematic\obj\Release\LongMathematic.csprojAssemblyReference.cache
+C:\Users\Ihor\Documents\GitHub\LongMathematic\LongMathematic\obj\Release\LongMathematic.MainForm.resources
+C:\Users\Ihor\Documents\GitHub\LongMathematic\LongMathematic\obj\Release\LongMathematic.Properties.Resources.resources
+C:\Users\Ihor\Documents\GitHub\LongMathematic\LongMathematic\obj\Release\LongMathematic.csproj.GenerateResource.cache
+C:\Users\Ihor\Documents\GitHub\LongMathematic\LongMathematic\obj\Release\LongMathematic.csproj.CoreCompileInputs.cache
+C:\Users\Ihor\Documents\GitHub\LongMathematic\LongMathematic\obj\Release\LongMathematic.exe
+C:\Users\Ihor\Documents\GitHub\LongMathematic\LongMathematic\obj\Release\LongMathematic.pdb

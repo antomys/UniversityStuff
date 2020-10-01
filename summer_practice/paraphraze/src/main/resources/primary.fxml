@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane fx:id="anchorpane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="505.0" prefWidth="725.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="PrimaryController">
+    <MenuBar prefHeight="25.0" prefWidth="725.0" AnchorPane.bottomAnchor="480.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <Menu mnemonicParsing="false" text="File">
+            <MenuItem mnemonicParsing="false" onAction="#displayAddFileScene" text="Add" />
+            <MenuItem mnemonicParsing="false" onAction="#displayDeleteFileScene" text="Delete" />
+            <MenuItem mnemonicParsing="false" onAction="#CloseApp" text="Close" />
+        </Menu>
+        <Menu mnemonicParsing="false" text="Help">
+            <MenuItem mnemonicParsing="false" onAction="#ShowHelp" text="About" />
+        </Menu>
+    </MenuBar>
+    <SplitPane fx:id="splitpane" dividerPositions="0.5" layoutY="25.0" prefHeight="443.0" prefWidth="725.0" AnchorPane.bottomAnchor="37.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="25.0">
+        <AnchorPane prefHeight="200.0" prefWidth="200.0">
+            <SplitPane dividerPositions="0.37815126050420167" prefHeight="223.0" prefWidth="359.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                <AnchorPane prefHeight="200.0" prefWidth="200.0" SplitPane.resizableWithParent="false">
+                    <ListView fx:id="textlistview" prefHeight="403.0" prefWidth="114.0" AnchorPane.bottomAnchor="36.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+                    <Button fx:id="addbutton" layoutX="5.0" layoutY="403.0" maxHeight="31.0" mnemonicParsing="false" onAction="#displayAddFileScene" prefHeight="25.0" prefWidth="40.0" text="Add" AnchorPane.bottomAnchor="5.0" />
+                    <Button fx:id="deletebutton" layoutX="55.0" layoutY="403.0" maxHeight="31.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="71.0" text="Delete" AnchorPane.bottomAnchor="5.0" />
+                </AnchorPane>
+                <AnchorPane prefHeight="200.0" prefWidth="200.0" />
+            </SplitPane>
+            <SplitPane dividerPositions="0.7665903890160183" layoutX="140.0" orientation="VERTICAL" prefHeight="439.0" prefWidth="219.0" AnchorPane.bottomAnchor="2.0" AnchorPane.leftAnchor="140.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="326.0" prefWidth="217.0">
+                    <TextArea fx:id="annotationtextarea" prefHeight="184.0" prefWidth="217.0" promptText="Annotation or whole text" wrapText="true" AnchorPane.bottomAnchor="32.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                        <font>
+                            <Font name="Segoe UI" size="12.0" />
+                        </font>
+                    </TextArea>
+                    <Button fx:id="viewtextbutton" layoutX="119.0" layoutY="300.0" maxHeight="25.0" minHeight="25.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="93.0" text="View Text" AnchorPane.bottomAnchor="7.0" AnchorPane.leftAnchor="119.0" AnchorPane.rightAnchor="5.0">
+                        <font>
+                            <Font name="Segoe UI" size="12.0" />
+                        </font>
+                    </Button>
+                    <Button fx:id="refreshbutton" maxHeight="25.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="99.0" text="Refresh" visible="false" AnchorPane.leftAnchor="1.0">
+                        <font>
+                            <Font name="Segoe UI" size="12.0" />
+                        </font>
+                    </Button>
+               <Button fx:id="savebutton" layoutX="14.0" layoutY="300.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="71.0" text="Save" AnchorPane.bottomAnchor="7.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="132.0" />
+                </AnchorPane>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+                    <TextArea fx:id="tagstextarea" layoutX="-8.0" prefHeight="99.0" prefWidth="232.0" promptText="Tags" wrapText="true" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="-8.0" AnchorPane.rightAnchor="-7.0" AnchorPane.topAnchor="0.0">
+                        <font>
+                            <Font name="Segoe UI" size="12.0" />
+                        </font>
+                    </TextArea>
+                </AnchorPane>
+            </SplitPane>
+        </AnchorPane>
+        <AnchorPane prefHeight="200.0" prefWidth="200.0">
+            <SplitPane dividerPositions="0.5" orientation="VERTICAL" prefHeight="441.0" prefWidth="358.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                <AnchorPane prefHeight="200.0" prefWidth="200.0">
+                    <Label fx:id="ALGOlabel" prefHeight="17.0" prefWidth="356.0" text="Algorithm result" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="4.0" />
+                    <TextArea fx:id="ALGOannotationtextarea" editable="false" layoutY="21.0" prefHeight="199.0" prefWidth="354.0" promptText="Text" wrapText="true" AnchorPane.bottomAnchor="-3.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="2.0" AnchorPane.topAnchor="21.0">
+                        <font>
+                            <Font name="Segoe UI" size="12.0" />
+                        </font>
+                    </TextArea>
+                </AnchorPane>
+                <AnchorPane prefHeight="136.0" prefWidth="356.0">
+                    <TextArea fx:id="ALGOtagstextarea" editable="false" layoutY="-1.0" prefHeight="217.0" prefWidth="354.0" promptText="Annotation" wrapText="true" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="2.0" AnchorPane.topAnchor="-1.0" />
+                </AnchorPane>
+            </SplitPane>
+        </AnchorPane>
+    </SplitPane>
+    <Button fx:id="ALGObutton" layoutY="468.0" mnemonicParsing="false" prefHeight="31.0" prefWidth="725.0" text="Algorithm" AnchorPane.bottomAnchor="6.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" />
+</AnchorPane>

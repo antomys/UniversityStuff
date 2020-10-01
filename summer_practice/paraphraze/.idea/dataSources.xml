@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="synsets_ua" uuid="fee36017-21ca-4f13-b8fa-ec2bde1d2185">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Ihor\Desktop\paraphraze\src\main\resources\synsets_ua.db</jdbc-url>
+    </data-source>
+  </component>
+</project>

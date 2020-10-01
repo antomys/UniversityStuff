@@ -1,0 +1,101 @@
+#include <cstdlib>
+#include <iostream>
+#include <cmath>
+#include <iomanip>
+
+using namespace std;
+
+long double f(long double x, long double y) {
+    return ((x+y));  //4 * exp(0.8*x)) - (0.5*y)
+}
+
+// the correct analytical solution
+long double g(long double x) {
+    return (2*exp(x)-x-1);  //(4/1.3)*(exp(0.8*x)-exp(-0.5*x))+2*exp(-0.5*x
+}
+
+// predictor
+long double hf0(long double x1, long double y1, long double h) {
+    return y1 + (f(x1, y1) * h);
+}
+
+// corrector
+long double hf0_corrector(long double x1, long double y1, long double x2, long double y2, long double h) {
+    return y1 + (((f(x1, y1) + f(x2, y2)) / 2)*h);
+}
+
+// get error
+long double get_error(long double a, long double b) {
+    return abs(((a-b)*100/a));
+}
+
+int main(int argc, char** argv) {
+    cout << fixed;
+    cout << setprecision (10);
+
+    long double x0 = 0; // initial condition
+    long double y0 = 1; // initial condition
+    long double step = 0.1;  // stepping
+    long double x_max = 0.5;  // evaluate integral from x0 to x_max
+
+    long double predictor = 0;
+    long double target_error = 2e-5; // using the error approximation
+    long double error = 100; // error place holder
+    long double corrector_new = 0;
+    unsigned long int i = 0;
+    long double y_true; // true value of y based on g(x) above
+    long double e_true = 100; // previous true error
+    long double e_true_now = 100; // current true error
+    long double corrector; // corrector place holder
+
+    long double true_max_error = 0;
+
+    for (x0 = 0; x0<=x_max; x0=x0+step) {
+        target_error = 2e-5;
+        error = 100;
+        e_true = 100;
+        e_true_now = 101;
+        corrector_new = 0;
+        i = 0;
+    cout<<"--------------------------------------------\n";
+        y_true = g(x0 + step);
+         cout << "true y: " << y_true << endl;
+
+        predictor = hf0(x0, y0, step);
+         cout << "predictor = " << predictor << endl;
+
+        corrector = hf0_corrector(x0, y0, (x0 + step), predictor, step);
+         cout << "corrector = " << corrector << endl<<endl;
+
+        while (e_true > 1) {
+            corrector_new = hf0_corrector(x0, y0, (x0 + step), corrector, step);
+            error = get_error(corrector, corrector_new);
+            e_true_now = get_error(corrector, y_true);
+            corrector = corrector_new;
+            i++;
+
+            // cout << "true e: " << e_true << endl;
+            if (e_true_now == e_true) break;
+
+            e_true = e_true_now;
+        }
+
+        cout << "Iteration " << i<<endl;
+        cout << "Estd. y " << corrector<<endl;
+        cout << "true E "  << e_true << endl;
+        cout << endl;
+
+        if (true_max_error < e_true) {
+            true_max_error = e_true;
+        }
+        y0 = corrector;
+    }
+
+    cout << "at f(" << x0 << "): " << endl;
+    cout << "estd y: " << corrector << endl;
+    cout << "true y: " << y_true << endl;
+    cout << "true e: " << e_true << endl;
+    cout << "true_max_error: " << true_max_error << endl;
+
+    return 0;
+}

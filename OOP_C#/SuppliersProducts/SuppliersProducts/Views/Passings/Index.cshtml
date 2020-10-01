@@ -1,0 +1,75 @@
+﻿@model IEnumerable<SuppliersProducts.Models.Passing>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<div class="form-actions no-color">
+    <form asp-action="Index" method="get">
+        <p>
+            Name:  <input type="text" name="SearchStringName" value="@ViewData["CurrentNameFilter"]" /><br /><br />
+            Place: <input type="text" name="SearchStringPlace" value="@ViewData["CurrentPlaceFilter"]" /><br /><br />
+            Date:  <input type="date" name="SearchStringDate" value="@ViewData["CurrentDateFilter"]" />
+        </p>
+        <p>
+            <br />
+            <input type="submit" value="Search"  class="btn btn-dark" /> |
+            <a asp-action="Index">Back to Full List</a>
+        </p>
+    </form>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["NameSortParm"]">@Html.DisplayNameFor(model => model.Name)</a>
+            </th>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["DateSortParm"]">@Html.DisplayNameFor(model => model.Date)</a>
+            </th>
+            <th>
+                <a  asp-action="Index" asp-route-sortOrder="@ViewData["PlaceSortParm"]">@Html.DisplayNameFor(model => model.Place)</a>
+            </th>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["ProductSortParm"]">@Html.DisplayNameFor(model => model.LabWork)</a>
+            </th>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["BuyerSortParm"]">@Html.DisplayNameFor(model => model.Teacher)</a>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Place)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LabWork.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Teacher.Address)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DataBaseTable>
+  <Game
+    NAME="Avtomat Kalashnikova"
+    COMPANY="Kontsern Kalashnikov"
+    COUNTRY="Russia"
+    YEAR="1951"
+    RATE="9.1"
+    NATO="NO"
+    GA="7.62x39">
+  </Game>
+  <Game
+    NAME="M4A1"
+    COMPANY="Colt"
+    COUNTRY="United States of America"
+    YEAR="1994"
+    RATE="8.5"
+    NATO="YES"
+    GA="5.56×45">
+  </Game>
+  <Game
+    NAME="m16a4"
+    COMPANY="Colt"
+    COUNTRY="United States of America"
+    YEAR="1964"
+    RATE="6.4"
+    NATO="YES"
+    GA="5.56×45">
+  </Game>
+  <Game
+    NAME="TAR-21"
+    COMPANY="Israel Weapon Industries"
+    COUNTRY="Israel"
+    YEAR="2004"
+    RATE="8.3"
+    NATO="YES"
+    GA="5.56×45">
+  </Game>
+  <Game
+    NAME="FAMAS"
+    COMPANY="GIAT Industries"
+    COUNTRY="France"
+    YEAR="1977"
+    RATE="5.5"
+    NATO="YES"
+    GA="5.56×45">
+  </Game>
+  <Game
+    NAME="UZI"
+    COMPANY="IMI"
+    COUNTRY="Israel"
+    YEAR="1954"
+    RATE="4.5"
+    NATO="YES"
+    GA="9mm">
+  </Game>
+  <Game
+    NAME="Desert Eagle"
+    COMPANY="IMI"
+    COUNTRY="Israel"
+    YEAR="1983"
+    RATE="3.5"
+    NATO="NO"
+    GA=".50">
+  </Game>
+  <Game
+    NAME="Nagant M1895 Revolver"
+    COMPANY="EmileAndLeon"
+    COUNTRY="Belgium"
+    YEAR="1985"
+    RATE="2.5"
+    NATO="NO"
+    GA="7.62×38">
+  </Game>
+  <Game
+    NAME="Accuracy International Arctic Warfare"
+    COMPANY="Accuracy International"
+    COUNTRY="United Kingdom"
+    YEAR="1982"
+    RATE="10"
+    NATO="YES"
+    GA="7.62×51">
+  </Game>
+  <Game
+    NAME="Dragunov SVD"
+    COMPANY="Izhmash"
+    COUNTRY="Soviet Union"
+    YEAR="2018"
+    RATE="7.5"
+    NATO="NO"
+    GA="7.62×54">
+  </Game>
+  <Game
+    NAME="Dragunov SVU"
+    COMPANY="KBP Instrument Design Bureau"
+    COUNTRY="Russia"
+    YEAR="1994"
+    RATE="4.5"
+    NATO="NO"
+    GA="7.62×54">
+  </Game>
+  <Game
+    NAME="Makarov PM"
+    COMPANY="Izhevsk Mechanical Plant"
+    COUNTRY="Soviet Union"
+    YEAR="1951"
+    RATE="10"
+    NATO="NO"
+    GA="9×18">
+  </Game>
+  <Game
+    NAME="Fort 17"
+    COMPANY="	RPC Fort"
+    COUNTRY="Ukraine"
+    YEAR="2004"
+    RATE="8.2"
+    NATO="NO"
+    GA="9×18">
+  </Game>
+  <Game
+    NAME="IWI Tavor"
+    COMPANY="RPC Fort"
+    COUNTRY="Ukraine"
+    YEAR="2001"
+    RATE="7.2"
+    NATO="YES"
+    GA="5.56×45">
+  </Game>
+</DataBaseTable>
