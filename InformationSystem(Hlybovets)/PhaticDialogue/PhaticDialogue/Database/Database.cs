@@ -10,6 +10,7 @@ namespace PhaticDialogue
 {
     public class Database : IDatabase
     {
+        static Random Rand = new Random();
         public AnswerTypes answerTypes { get; set; }
         
         public Dictionary<Persons,List<string>> answers { get; set; }
@@ -89,22 +90,55 @@ namespace PhaticDialogue
             var deserializedDatabase = JsonConvert.DeserializeObject<List<Database>>(File.ReadAllText("database.bin"));
             var answerType = ManageAnswerType(answer, deserializedDatabase);
             
-            int total = 0;
             if (answerType != null && answerType.Item1.Equals(AnswerTypes.Hello))
             {
-                total = deserializedDatabase
+                return GetRandomValue(deserializedDatabase
                     .Where(x => x.answerTypes
                         .Equals(answerType.Item1))
-                    .Select(x => x.answers.Values
-                        .Sum(collection => collection.Count))
-                    .FirstOrDefault();
+                    .Select(x => x.answers).ToList());
+                /*var returned = deserializedDatabase
+                    .Where(x => x.answerTypes
+                        .Equals(answerType.Item1))
+                    .Select(x => x.answers).ToList();*/
+            }
+            if (answerType != null && answerType.Item1.Equals(AnswerTypes.Bye))
+            {
+                return GetRandomValue(deserializedDatabase
+                    .Where(x => x.answerTypes
+                        .Equals(AnswerTypes.Bye))
+                    .Select(x => x.answers).ToList());
+            }
+            var result = deserializedDatabase
+                .Where(x => x.answerTypes.Equals(answerType.Item1) 
+                            && x.answers.Keys.Contains(answerType.Item2))
+                .Select(x=> x.answers).ToList();
+            var output = GetRandomValue(result);
+            if (output == null)
+            {
+                return GetRandomValue(deserializedDatabase
+                    .Where(x => x.answerTypes
+                        .Equals(AnswerTypes.Question))
+                    .Select(x => x.answers).ToList());
+            }
+            return output;
+        }
+
+        private static string GetRandomValue(IReadOnlyList<Dictionary<Persons, List<string>>> result)
+        {
+            var rand = new Random();
+            try
+            {
+                foreach (var (_, value) in result[rand.Next(result.Count)])
+                {
+                    var fileIndex = rand.Next(value.Count);
+                    return value[fileIndex];
+                }
+            }
+            catch
+            {
+                return null;
             }
 
-            var ztotal = deserializedDatabase.Where(x =>
-                x.answerTypes.Equals(answerType.Item1)).Select(x=>x.answers.Keys.Where(x=>x == answerType.Item2)).ToList();
-
-            var result = deserializedDatabase.Where(x => x.answerTypes.Equals(answerType.Item1) && x.answers.Keys.Contains(answerType.Item2)).Select(x=> x.answers).ToList();
-            //return  result[0].ElementAt(rand.Next(result[0].Count));
             return null;
         }
 
@@ -112,12 +146,14 @@ namespace PhaticDialogue
             IEnumerable<Database> deserializedDatabase)
         {
             var chunks = answer.Split(" ");
+            var personType = CheckPerson(answer);
             foreach (var database in deserializedDatabase)
             {
                 if(database.answerTypes == AnswerTypes.Question)
                     foreach (var (key, value) in database.answers)
                     {
-                        if (answer.Contains("do") || Enum.GetNames(typeof(QuestionWords)).Any(x => chunks[0].Equals(x)))
+                        
+                        if ((answer.Contains("do") || Enum.GetNames(typeof(QuestionWords)).Any(x => chunks[0].Equals(x))) && key.Equals(personType))
                         {
                             return Tuple.Create(AnswerTypes.AnswerToQuestion, key);
                         }
@@ -143,10 +179,16 @@ namespace PhaticDialogue
         private static void GetUnknownAnswerToFile(string[] chunks)
         {
             Console.WriteLine("Wow! I didn't know that.\n Thanks for making me smarter");
+            if (chunks.Contains("bye"))
+            {
+                AddData(AnswerTypes.Bye,string.Join(" ",chunks));
+                return;
+            }
             AddData(
                 Enum.GetNames(typeof(QuestionWords)).Any(x => chunks[0].Equals(x))
                     ? AnswerTypes.Question
                     : AnswerTypes.GeneralAnswer, string.Join(" ", chunks));
+            
         }
     }
 }

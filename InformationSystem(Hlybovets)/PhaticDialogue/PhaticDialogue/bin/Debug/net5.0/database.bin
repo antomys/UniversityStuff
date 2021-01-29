@@ -6,10 +6,13 @@
         "You know, i have found a penny!",
         "Yes",
         "Good for you",
-        "I don't want to answer you!"
+        "I don't want to answer you!",
+        "me too"
       ],
       "gen": [
-        "wazzup"
+        "wazzup",
+        "want some coffee",
+        "okay"
       ]
     }
   },
@@ -113,9 +116,19 @@
     "answers": {
       "gen": [
         "Well, dunno!",
-        "Yes",
+        "OK",
         "Good for you",
         "I don't want to answer you!"
+      ]
+    }
+  },
+  {
+    "answerTypes": 4,
+    "answers": {
+      "gen": [
+        "bye",
+        "goodbye",
+        "sweet dreams"
       ]
     }
   }
