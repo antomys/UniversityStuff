@@ -1,5 +1,4 @@
 ﻿using System;
-using System.IO;
 using System.Text.RegularExpressions;
 
 namespace PhaticDialogue
@@ -16,12 +15,9 @@ namespace PhaticDialogue
                 var fixedInput = r.Replace(input!, string.Empty);
                 var answer = Database.PerformDialogue(fixedInput);
                 Console.Write($"Bot: {answer}\n");
+                if(answer.ToLower().Equals("bye"))
+                    return;
             }
-            /*var strings = File.ReadAllLines("greetings2.txt");
-            foreach (var VARIABLE in strings)
-            {
-                Database.AddData(AnswerTypes.Hello,VARIABLE.Trim());
-            }*/
         }
     }
 }

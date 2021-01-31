@@ -14,36 +14,36 @@ namespace PhaticDialogue
 
     public enum QuestionWords
     {
-        what,
-        when,
-        why,
-        which,
-        who,
-        how,
-        whose,
-        whom,
-        am,
-        are,
-        will,
-        would,
-        shall,
-        should,
-        does
+        What,
+        When,
+        Why,
+        Which,
+        Who,
+        How,
+        Whose,
+        Whom,
+        Am,
+        Are,
+        Will,
+        Would,
+        Shall,
+        Should,
+        Does
     }
 
     public enum Persons
     {
-        you,
-        me,
-        i,
-        gen
+        You,
+        Me,
+        I,
+        Gen
     }
     public interface IDatabase
     {
         [JsonPropertyName("type")]
-        AnswerTypes answerTypes { get; set; }
+        AnswerTypes AnswerTypes { get; set; }
             
         [JsonPropertyName("values")]
-        Dictionary<Persons,List<string>> answers { get; set; }
+        Dictionary<Persons,List<string>> Answers { get; set; }
     }
 }
