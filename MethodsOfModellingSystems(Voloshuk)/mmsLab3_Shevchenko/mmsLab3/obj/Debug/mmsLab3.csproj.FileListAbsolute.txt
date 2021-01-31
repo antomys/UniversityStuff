@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\mmsLab3\mmsLab3\bin\Debug\mmsLab3.exe.config
+C:\Users\Admin\Desktop\mmsLab3\mmsLab3\bin\Debug\mmsLab3.exe
+C:\Users\Admin\Desktop\mmsLab3\mmsLab3\bin\Debug\mmsLab3.pdb
+C:\Users\Admin\Desktop\mmsLab3\mmsLab3\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\Admin\Desktop\mmsLab3\mmsLab3\obj\Debug\mmsLab3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\mmsLab3\mmsLab3\obj\Debug\mmsLab3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\mmsLab3\mmsLab3\obj\Debug\mmsLab3.csproj.CopyComplete
+C:\Users\Admin\Desktop\mmsLab3\mmsLab3\obj\Debug\mmsLab3.exe
+C:\Users\Admin\Desktop\mmsLab3\mmsLab3\obj\Debug\mmsLab3.pdb

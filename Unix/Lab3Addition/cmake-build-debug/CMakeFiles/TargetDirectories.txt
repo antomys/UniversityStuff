@@ -1,0 +1,3 @@
+/home/nhva/CLionProjects/Lab3Addition/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nhva/CLionProjects/Lab3Addition/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nhva/CLionProjects/Lab3Addition/cmake-build-debug/CMakeFiles/Lab3Addition.dir

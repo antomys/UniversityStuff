@@ -1,0 +1,39 @@
+C:\Users\maksy\Desktop\mmsLab4\mmsLab4\bin\Debug\netcoreapp3.1\mmsLab4.exe
+C:\Users\maksy\Desktop\mmsLab4\mmsLab4\bin\Debug\netcoreapp3.1\mmsLab4.deps.json
+C:\Users\maksy\Desktop\mmsLab4\mmsLab4\bin\Debug\netcoreapp3.1\mmsLab4.runtimeconfig.json
+C:\Users\maksy\Desktop\mmsLab4\mmsLab4\bin\Debug\netcoreapp3.1\mmsLab4.runtimeconfig.dev.json
+C:\Users\maksy\Desktop\mmsLab4\mmsLab4\bin\Debug\netcoreapp3.1\mmsLab4.dll
+C:\Users\maksy\Desktop\mmsLab4\mmsLab4\bin\Debug\netcoreapp3.1\mmsLab4.pdb
+C:\Users\maksy\Desktop\mmsLab4\mmsLab4\obj\Debug\netcoreapp3.1\mmsLab4.csprojAssemblyReference.cache
+C:\Users\maksy\Desktop\mmsLab4\mmsLab4\obj\Debug\netcoreapp3.1\mmsLab4.csproj.CoreCompileInputs.cache
+C:\Users\maksy\Desktop\mmsLab4\mmsLab4\obj\Debug\netcoreapp3.1\mmsLab4.AssemblyInfoInputs.cache
+C:\Users\maksy\Desktop\mmsLab4\mmsLab4\obj\Debug\netcoreapp3.1\mmsLab4.AssemblyInfo.cs
+C:\Users\maksy\Desktop\mmsLab4\mmsLab4\obj\Debug\netcoreapp3.1\mmsLab4.dll
+C:\Users\maksy\Desktop\mmsLab4\mmsLab4\obj\Debug\netcoreapp3.1\mmsLab4.pdb
+C:\Users\maksy\Desktop\mmsLab4\mmsLab4\obj\Debug\netcoreapp3.1\mmsLab4.genruntimeconfig.cache
+D:\1A_KNU\Моделювання систем\mmsLab4\mmsLab4\bin\Debug\netcoreapp3.1\mmsLab4.exe
+D:\1A_KNU\Моделювання систем\mmsLab4\mmsLab4\bin\Debug\netcoreapp3.1\mmsLab4.deps.json
+D:\1A_KNU\Моделювання систем\mmsLab4\mmsLab4\bin\Debug\netcoreapp3.1\mmsLab4.runtimeconfig.json
+D:\1A_KNU\Моделювання систем\mmsLab4\mmsLab4\bin\Debug\netcoreapp3.1\mmsLab4.runtimeconfig.dev.json
+D:\1A_KNU\Моделювання систем\mmsLab4\mmsLab4\bin\Debug\netcoreapp3.1\mmsLab4.dll
+D:\1A_KNU\Моделювання систем\mmsLab4\mmsLab4\bin\Debug\netcoreapp3.1\mmsLab4.pdb
+D:\1A_KNU\Моделювання систем\mmsLab4\mmsLab4\obj\Debug\netcoreapp3.1\mmsLab4.csprojAssemblyReference.cache
+D:\1A_KNU\Моделювання систем\mmsLab4\mmsLab4\obj\Debug\netcoreapp3.1\mmsLab4.csproj.CoreCompileInputs.cache
+D:\1A_KNU\Моделювання систем\mmsLab4\mmsLab4\obj\Debug\netcoreapp3.1\mmsLab4.AssemblyInfoInputs.cache
+D:\1A_KNU\Моделювання систем\mmsLab4\mmsLab4\obj\Debug\netcoreapp3.1\mmsLab4.AssemblyInfo.cs
+D:\1A_KNU\Моделювання систем\mmsLab4\mmsLab4\obj\Debug\netcoreapp3.1\mmsLab4.dll
+D:\1A_KNU\Моделювання систем\mmsLab4\mmsLab4\obj\Debug\netcoreapp3.1\mmsLab4.pdb
+D:\1A_KNU\Моделювання систем\mmsLab4\mmsLab4\obj\Debug\netcoreapp3.1\mmsLab4.genruntimeconfig.cache
+D:\1A_KNU\Методи моделювання систем\mmsLab4\mmsLab4\bin\Debug\netcoreapp3.1\mmsLab4.exe
+D:\1A_KNU\Методи моделювання систем\mmsLab4\mmsLab4\bin\Debug\netcoreapp3.1\mmsLab4.deps.json
+D:\1A_KNU\Методи моделювання систем\mmsLab4\mmsLab4\bin\Debug\netcoreapp3.1\mmsLab4.runtimeconfig.json
+D:\1A_KNU\Методи моделювання систем\mmsLab4\mmsLab4\bin\Debug\netcoreapp3.1\mmsLab4.runtimeconfig.dev.json
+D:\1A_KNU\Методи моделювання систем\mmsLab4\mmsLab4\bin\Debug\netcoreapp3.1\mmsLab4.dll
+D:\1A_KNU\Методи моделювання систем\mmsLab4\mmsLab4\bin\Debug\netcoreapp3.1\mmsLab4.pdb
+D:\1A_KNU\Методи моделювання систем\mmsLab4\mmsLab4\obj\Debug\netcoreapp3.1\mmsLab4.csprojAssemblyReference.cache
+D:\1A_KNU\Методи моделювання систем\mmsLab4\mmsLab4\obj\Debug\netcoreapp3.1\mmsLab4.csproj.CoreCompileInputs.cache
+D:\1A_KNU\Методи моделювання систем\mmsLab4\mmsLab4\obj\Debug\netcoreapp3.1\mmsLab4.AssemblyInfoInputs.cache
+D:\1A_KNU\Методи моделювання систем\mmsLab4\mmsLab4\obj\Debug\netcoreapp3.1\mmsLab4.AssemblyInfo.cs
+D:\1A_KNU\Методи моделювання систем\mmsLab4\mmsLab4\obj\Debug\netcoreapp3.1\mmsLab4.dll
+D:\1A_KNU\Методи моделювання систем\mmsLab4\mmsLab4\obj\Debug\netcoreapp3.1\mmsLab4.pdb
+D:\1A_KNU\Методи моделювання систем\mmsLab4\mmsLab4\obj\Debug\netcoreapp3.1\mmsLab4.genruntimeconfig.cache

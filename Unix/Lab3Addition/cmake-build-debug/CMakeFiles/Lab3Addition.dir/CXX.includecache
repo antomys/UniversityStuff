@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nhva/CLionProjects/Lab3Addition/main.cpp
+sys/ptrace.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+unistd.h
+-
+sys/user.h
+-
+sys/reg.h
+-
+sys/syscall.h
+-
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Lab3Addition.dir/main.cpp.o  -o Lab3Addition 
