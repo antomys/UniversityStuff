@@ -1,7 +1,0 @@
-C:\Users\Admin\Desktop\kaLab2\kaLab2\bin\Debug\kaLab2.exe.config
-C:\Users\Admin\Desktop\kaLab2\kaLab2\bin\Debug\kaLab2.exe
-C:\Users\Admin\Desktop\kaLab2\kaLab2\bin\Debug\kaLab2.pdb
-C:\Users\Admin\Desktop\kaLab2\kaLab2\obj\Debug\kaLab2.csprojAssemblyReference.cache
-C:\Users\Admin\Desktop\kaLab2\kaLab2\obj\Debug\kaLab2.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\kaLab2\kaLab2\obj\Debug\kaLab2.exe
-C:\Users\Admin\Desktop\kaLab2\kaLab2\obj\Debug\kaLab2.pdb

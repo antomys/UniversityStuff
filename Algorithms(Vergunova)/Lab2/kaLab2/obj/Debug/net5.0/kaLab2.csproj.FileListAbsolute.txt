@@ -1,0 +1,16 @@
+C:\Users\deqqu\RiderProjects\kaLab2\kaLab2\bin\Debug\net5.0\kaLab2.exe
+C:\Users\deqqu\RiderProjects\kaLab2\kaLab2\bin\Debug\net5.0\kaLab2.deps.json
+C:\Users\deqqu\RiderProjects\kaLab2\kaLab2\bin\Debug\net5.0\kaLab2.runtimeconfig.json
+C:\Users\deqqu\RiderProjects\kaLab2\kaLab2\bin\Debug\net5.0\kaLab2.runtimeconfig.dev.json
+C:\Users\deqqu\RiderProjects\kaLab2\kaLab2\bin\Debug\net5.0\kaLab2.dll
+C:\Users\deqqu\RiderProjects\kaLab2\kaLab2\bin\Debug\net5.0\ref\kaLab2.dll
+C:\Users\deqqu\RiderProjects\kaLab2\kaLab2\bin\Debug\net5.0\kaLab2.pdb
+C:\Users\deqqu\RiderProjects\kaLab2\kaLab2\obj\Debug\net5.0\kaLab2.csprojAssemblyReference.cache
+C:\Users\deqqu\RiderProjects\kaLab2\kaLab2\obj\Debug\net5.0\kaLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deqqu\RiderProjects\kaLab2\kaLab2\obj\Debug\net5.0\kaLab2.AssemblyInfoInputs.cache
+C:\Users\deqqu\RiderProjects\kaLab2\kaLab2\obj\Debug\net5.0\kaLab2.AssemblyInfo.cs
+C:\Users\deqqu\RiderProjects\kaLab2\kaLab2\obj\Debug\net5.0\kaLab2.csproj.CoreCompileInputs.cache
+C:\Users\deqqu\RiderProjects\kaLab2\kaLab2\obj\Debug\net5.0\kaLab2.dll
+C:\Users\deqqu\RiderProjects\kaLab2\kaLab2\obj\Debug\net5.0\ref\kaLab2.dll
+C:\Users\deqqu\RiderProjects\kaLab2\kaLab2\obj\Debug\net5.0\kaLab2.pdb
+C:\Users\deqqu\RiderProjects\kaLab2\kaLab2\obj\Debug\net5.0\kaLab2.genruntimeconfig.cache

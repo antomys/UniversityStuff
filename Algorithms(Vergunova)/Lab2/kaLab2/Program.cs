@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using System.Collections;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace kaLab2
 {
@@ -24,7 +22,7 @@ namespace kaLab2
         private static char[] GENERATOR = new char[] { '+', '?', '+', '?', '-' }; //множина генерувальних команд
         private const int GENERATOR_MAX_NUMBER = 5; //доступна к-сть елементів із множини генерувальних команд
 
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             List<string>[] table = new List<string>[m];
 
