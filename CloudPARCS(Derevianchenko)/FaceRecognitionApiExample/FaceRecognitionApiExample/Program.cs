@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Threading.Tasks;
+using FaceRecognitionApiExample.Apis;
 
 namespace FaceRecognitionApiExample
 {
@@ -11,6 +12,13 @@ namespace FaceRecognitionApiExample
             var input = Console.ReadLine();
             var result = new Api();
             await result.GetDataFromApi(input);
+
+            Console.Write("Please insert link to face image: ");
+            input = Console.ReadLine();
+            var face = new FaceRecognition(input);
+            await face.Recognise();
+            
+            SendToMail.SendHtmlMessage();
         }
     }
 }

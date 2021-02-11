@@ -1,10 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "+L2oByKaOaUH8Mv983wlX2iaxJuwW40SxIOFV5FN+8E3XUbIZ7WpqJYAcZjISsjQ1BOpUCY54uQN5tSZ3bvnQA==",
+  "dgSpecHash": "vyhOp8uttlclOO104ZxfTXcO1cigNsLW93UW/D9Ze6a8Wuk2063q+x76f/r5NsoQ2CeTsgqk9oYeFy0ZIGpZkw==",
   "success": true,
   "projectFilePath": "C:\\Users\\deqqu\\Documents\\GitHub\\UniversityStuff\\CloudPARCS(Derevianchenko)\\FaceRecognitionApiExample\\FaceRecognitionApiExample\\FaceRecognitionApiExample.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\deqqu\\.nuget\\packages\\newtonsoft.json\\13.0.1-beta1\\newtonsoft.json.13.0.1-beta1.nupkg.sha512"
+    "C:\\Users\\deqqu\\.nuget\\packages\\base64urlencoder\\1.0.1\\base64urlencoder.1.0.1.nupkg.sha512",
+    "C:\\Users\\deqqu\\.nuget\\packages\\google.apis\\1.50.0\\google.apis.1.50.0.nupkg.sha512",
+    "C:\\Users\\deqqu\\.nuget\\packages\\google.apis.auth\\1.50.0\\google.apis.auth.1.50.0.nupkg.sha512",
+    "C:\\Users\\deqqu\\.nuget\\packages\\google.apis.core\\1.50.0\\google.apis.core.1.50.0.nupkg.sha512",
+    "C:\\Users\\deqqu\\.nuget\\packages\\google.apis.gmail.v1\\1.50.0.2202\\google.apis.gmail.v1.1.50.0.2202.nupkg.sha512",
+    "C:\\Users\\deqqu\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\deqqu\\.nuget\\packages\\mimekit\\2.10.1\\mimekit.2.10.1.nupkg.sha512",
+    "C:\\Users\\deqqu\\.nuget\\packages\\newtonsoft.json\\13.0.1-beta1\\newtonsoft.json.13.0.1-beta1.nupkg.sha512",
+    "C:\\Users\\deqqu\\.nuget\\packages\\portable.bouncycastle\\1.8.8\\portable.bouncycastle.1.8.8.nupkg.sha512",
+    "C:\\Users\\deqqu\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\deqqu\\.nuget\\packages\\system.reflection.typeextensions\\4.4.0\\system.reflection.typeextensions.4.4.0.nupkg.sha512",
+    "C:\\Users\\deqqu\\.nuget\\packages\\system.security.cryptography.cng\\4.7.0\\system.security.cryptography.cng.4.7.0.nupkg.sha512",
+    "C:\\Users\\deqqu\\.nuget\\packages\\system.security.cryptography.pkcs\\4.7.0\\system.security.cryptography.pkcs.4.7.0.nupkg.sha512",
+    "C:\\Users\\deqqu\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512"
   ],
   "logs": []
 }

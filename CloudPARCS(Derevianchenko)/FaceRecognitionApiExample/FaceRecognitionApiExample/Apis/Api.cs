@@ -1,17 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Net;
 using System.Net.Http;
-using System.Text;
 using System.Threading.Tasks;
-using System.Xml;
-using System.Xml.Serialization;
 using Newtonsoft.Json;
-
 namespace FaceRecognitionApiExample
 {
-    
     public class Api
     {
         private string Body { get; set; }
@@ -24,8 +17,8 @@ namespace FaceRecognitionApiExample
                 RequestUri = new Uri($"https://community-open-weather-map.p.rapidapi.com/weather?q={city}&lang=Russian&units=metric"),
                 Headers =
                 {
-                    { "x-rapidapi-key", "" }, //todo:add key 
-                    { "x-rapidapi-host", "" }, //todo: add host
+                    { "x-rapidapi-key", "<REQUIRED>" },
+                    { "x-rapidapi-host", "community-open-weather-map.p.rapidapi.com" },
                 },
             };
             using (var response = await client.SendAsync(request))
@@ -42,15 +35,13 @@ namespace FaceRecognitionApiExample
         private void ToJson()
         {
             var deserialize = JsonConvert.DeserializeObject(Body);
-            File.WriteAllText("test.json",deserialize?.ToString());
+            File.WriteAllText("weather.json",deserialize?.ToString());
         }
 
         private void LoadFromJsonString()
         {
-            var deserializeResult = JsonConvert.DeserializeObject<Result>(File.ReadAllText("test.json"));
-            /*var deserializeMain = JsonConvert.DeserializeObject<Main>(File.ReadAllText("test.json"));
-            var deserializeWind = JsonConvert.DeserializeObject<Wind>(File.ReadAllText("test.json"));*/
-            
+            var deserializeResult = JsonConvert.DeserializeObject<Result>(File.ReadAllText("weather.json"));
+
             Print(deserializeResult);
         }
 

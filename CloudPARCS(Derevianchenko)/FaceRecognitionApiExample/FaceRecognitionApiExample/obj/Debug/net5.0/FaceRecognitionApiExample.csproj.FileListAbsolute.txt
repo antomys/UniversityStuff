@@ -16,3 +16,13 @@ C:\Users\deqqu\Documents\GitHub\UniversityStuff\CloudPARCS(Derevianchenko)\FaceR
 C:\Users\deqqu\Documents\GitHub\UniversityStuff\CloudPARCS(Derevianchenko)\FaceRecognitionApiExample\FaceRecognitionApiExample\obj\Debug\net5.0\FaceRecognitionApiExample.genruntimeconfig.cache
 C:\Users\deqqu\Documents\GitHub\UniversityStuff\CloudPARCS(Derevianchenko)\FaceRecognitionApiExample\FaceRecognitionApiExample\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\deqqu\Documents\GitHub\UniversityStuff\CloudPARCS(Derevianchenko)\FaceRecognitionApiExample\FaceRecognitionApiExample\obj\Debug\net5.0\FaceRecognitionApiExample.csproj.CopyComplete
+C:\Users\deqqu\Documents\GitHub\UniversityStuff\CloudPARCS(Derevianchenko)\FaceRecognitionApiExample\FaceRecognitionApiExample\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\deqqu\Documents\GitHub\UniversityStuff\CloudPARCS(Derevianchenko)\FaceRecognitionApiExample\FaceRecognitionApiExample\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\deqqu\Documents\GitHub\UniversityStuff\CloudPARCS(Derevianchenko)\FaceRecognitionApiExample\FaceRecognitionApiExample\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\deqqu\Documents\GitHub\UniversityStuff\CloudPARCS(Derevianchenko)\FaceRecognitionApiExample\FaceRecognitionApiExample\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\deqqu\Documents\GitHub\UniversityStuff\CloudPARCS(Derevianchenko)\FaceRecognitionApiExample\FaceRecognitionApiExample\bin\Debug\net5.0\Google.Apis.Gmail.v1.dll
+C:\Users\deqqu\Documents\GitHub\UniversityStuff\CloudPARCS(Derevianchenko)\FaceRecognitionApiExample\FaceRecognitionApiExample\bin\Debug\net5.0\Base64UrlEncoder.dll
+C:\Users\deqqu\Documents\GitHub\UniversityStuff\CloudPARCS(Derevianchenko)\FaceRecognitionApiExample\FaceRecognitionApiExample\bin\Debug\net5.0\MimeKit.dll
+C:\Users\deqqu\Documents\GitHub\UniversityStuff\CloudPARCS(Derevianchenko)\FaceRecognitionApiExample\FaceRecognitionApiExample\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\deqqu\Documents\GitHub\UniversityStuff\CloudPARCS(Derevianchenko)\FaceRecognitionApiExample\FaceRecognitionApiExample\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\deqqu\Documents\GitHub\UniversityStuff\CloudPARCS(Derevianchenko)\FaceRecognitionApiExample\FaceRecognitionApiExample\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
