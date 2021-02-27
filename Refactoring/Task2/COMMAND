@@ -1,0 +1,179 @@
+*********************************************************************** 00010000
+*                                                                     * 00020000
+*           B A S E   D E   D O N N E E S   C O M M A N D E S         * 00030000
+*                   INDEX SECONDAIRE SUR NO ARTICLE                   * 00040000
+*                   INDEX SECONDAIRE SUR DA                           * 00041000
+*                                A M A                                * 00042000
+*          *********************************************              * 00043000
+*          *******     VALIDATION ET PRODUCTION   ******              * 00044000
+*          *********************************************              * 00045000
+*                                                                     * 00046000
+*  AJOUT D UN INDEX SECONDAIRE SUR DA LE 18/11/92 C.PORTET            * 00047000
+*  AGRANDISSEMENT ECHECOM ET FACTCOM LE 24/10/95  M.COLONGES          * 00048000
+*                             4  MARS  82                             * 00049000
+*********************************************************************** 00049100
+*  LE 16/09/00  :  BL   MODIF RAA                                     * 00049200
+*********************************************************************** 00049300
+*                                                                     * 00050000
+*                                                                     * 00060000
+*                             ***********                             * 00060100
+*                             * DEBCOM  *                             * 00060200
+*                             * LG=130  *                             * 00060300
+*                             * COMTA40 *                             * 00060400
+*                             ***********                             * 00060500
+*                                  !           D D 1                  * 00060600
+*                          !---------------!---------------!-------!  * 00060700
+*                          !               !               !       !  * 00060800
+*                     ***********     ***********     ***********  !  * 00060900
+*                     * SUITCOM *     * FACTCOM *     * DEBRECP *  !  * 00061000
+*                     * LG= 100 *     * LG =100 *     * LG =100 *  !  * 00062000
+*                     * COMTA41 *     * COMTA13 *     * COMTA31 *  !  * 00063000
+*                     ***********     ***********     ***********  !  * 00064000
+*                          !                               !       !  * 00065000
+*          !---------------!---------------!               !       !  * 00066000
+*          !               !               !               !       !  * 00067000
+*     ***********     ***********     ***********     ***********  !  * 00068000
+*     * TEXTDEB *     * POSTCOM *     * TEXTFIN *     * POSRECP *  !  * 00069000
+*     * LG = 70 *     * LG= 120 *     * LG= 70  *     * LG =200 *  !  * 00070000
+*     * COMTA14 *     * COMTA44 *     * COMTA14 *     * COMTA32E*  !  * 00080000
+*     ***********     ***********     ***********     ***********  !  * 00090000
+*                          !                               !       !  * 00100000
+*          !---------------!---------------!               !       !  * 00110000
+*          !               !               !               !       !  * 00120000
+*     ***********     ***********     ***********     ***********  !  * 00130000
+*     * DESPOST *     * ECHECOM *     * TEXTPOS *     * MRNFREG *  !  * 00140000
+*     * LG= 30  *     * LG = 50 *     * LG= 70  *     * LG = 80 *  !  * 00150000
+*     * COMTA16 *     * COMTA17 *     * COMTA14 *     * COMTA67 *  !  * 00160000
+*     ***********     ***********     ***********     ***********  !  * 00170000
+*                                  !                               !  * 00180000
+*                                  ! ------------------------------!  * 00190000
+*                                  !                                  * 00200000
+*         !----------------!-------!-------!----------------!         * 00210000
+*         !                !               !                !         * 00220000
+*     ***********     ***********     ***********     ***********     * 00230000
+*     * AVANCOM *     * REAVCOM *     * RTGRCOM *     * PTGRCOM *     * 00240000
+*     * LG = 60 *     * LG = 60 *     * LG = 60 *     * LG = 60 *     * 00250000
+*     * COMTA64 *     * COMTA65 *     * COMTA69 *     * COMTA70 *     * 00260000
+*     ***********     ***********     ***********     ***********     * 00270000
+*                                CLES:                                * 00280000
+*                                *****                                * 00290000
+*     NUCOM  LG=6 DANS DEBCOM           NUFIRE  LG=6  DANS DEBRECP    * 00300000
+*     NUPOST LG=3 DANS POSTCOM          POSTE   LG=3  DANS POSRECP    * 00310000
+*     NRFACT LG=9 DANS FACTCOM          MVTMRNF LG=2  DANS MRNFREG    * 00320000
+*     FACTURIE LG=60 DANS AVANCOM - REAVCOM - RTGRCOM - PTGRCOM.      * 00330000
+*                                                                     * 00340000
+*********************************************************************** 00350000
+         DBD   NAME=COMMAND,                                           *00360000
+               ACCESS=(HDAM,OSAM),RMNAME=(DFSHDC40,2,120000,3500)       00371000
+*              ACCESS=(HDAM,OSAM),RMNAME=(DFSHDC40,3,80000,4000)        00372000
+*                                                                       00380000
+*               + MRNFREG                                               00390000
+CD1      DATASET DD1=CDED1,                                            *00400000
+               DEVICE=3350,FRSPC=(99,0),BLOCK=6128,SCAN=0               00410000
+         SEGM  NAME=DEBCOM,BYTES=130,FREQ=5000                          00420000
+         FIELD NAME=(NUCOM,SEQ,U),BYTES=6,START=1                       00430000
+         FIELD NAME=NUMCOMDE,BYTES=6,START=1                            00440000
+         FIELD NAME=DATCDE,BYTES=8,START=9                              00450000
+         FIELD NAME=AVENANT,BYTES=2,START=17                            00460000
+         FIELD NAME=CFOUR,BYTES=5,START=28                              00470000
+         FIELD NAME=CDPAYS,BYTES=3,START=34                             00480000
+         FIELD NAME=ACHET,BYTES=3,START=37                              00490000
+         FIELD NAME=ACHETEUR,BYTES=2,START=38                           00500000
+         FIELD NAME=AGENT,BYTES=2,START=40                              00510000
+         FIELD NAME=CDESTIN,BYTES=2,START=54                            00520000
+         FIELD NAME=AVION,BYTES=1,START=70                              00530000
+         FIELD NAME=NANTIS,BYTES=1,START=97                             00540000
+         FIELD NAME=CDEVI,BYTES=2,START=99                              00550000
+         FIELD NAME=MTCDHT,BYTES=7,START=105,TYPE=P                     00560000
+         FIELD NAME=SIGNEE,BYTES=1,START=121                            00570000
+         FIELD NAME=ORIGINE,BYTES=1,START=123                           00580000
+*                                                                       00590000
+         SEGM  NAME=SUITCOM,PARENT=DEBCOM,BYTES=100,FREQ=1,PTR=(NT)     00600000
+         FIELD NAME=COMOUV,BYTES=6,START=1                              00610000
+         FIELD NAME=DA,BYTES=8,START=11                                 00620000
+         LCHILD NAME=(INDXDA,COMMANI2),PTR=INDX                         00630000
+         XDFLD NAME=NUMDA,SEGMENT=SUITCOM,NULLVAL=C' ',                *00640000
+               SRCH=DA,SUBSEQ=/SX001                                    00650000
+         FIELD NAME=/SX001                                              00660000
+         FIELD NAME=AFFAIRE,BYTES=6,START=27                            00670000
+         FIELD NAME=REMISAN,BYTES=1,START=54                            00680000
+         FIELD NAME=REMISCDE,BYTES=4,START=55                           00690000
+         FIELD NAME=DESCOMP,BYTES=3,START=72                            00700000
+*                                                                       00710000
+CD2      DATASET DD1=CDED2,                                            *00720000
+               DEVICE=3350,FRSPC=(99,10),BLOCK=6140,SCAN=0              00730000
+         SEGM  NAME=TEXTDEB,BYTES=70,PARENT=SUITCOM,FREQ=3,            *00740000
+               RULES=(,HERE)                                            00750000
+*                                                                       00760000
+CD1      DATASET                                                        00770000
+         SEGM  NAME=POSTCOM,BYTES=200,PARENT=SUITCOM,FREQ=10            00780000
+         FIELD NAME=(NUPOST,SEQ,U),BYTES=3,START=1                      00790000
+         LCHILD NAME=(INDXARTI,COMMANI1),PTR=INDX                       00800000
+         XDFLD NAME=CCODCMS,SEGMENT=POSTCOM,NULLVAL=C' ',              *00810000
+               SRCH=CODCMS,SUBSEQ=(DATINDX,NUPOST,/SX001)               00820000
+         FIELD NAME=/SX001                                              00830000
+         FIELD NAME=NATPRIX,BYTES=1,START=14                            00840000
+         FIELD NAME=CODCMS,BYTES=14,START=36                            00850000
+         FIELD NAME=GROUPDOS,BYTES=5,START=57                           00860000
+         FIELD NAME=SUPOST,BYTES=1,START=79                             00870000
+         FIELD NAME=SOLDE,BYTES=1,START=130                             00880000
+         FIELD NAME=AVENANT,BYTES=2,START=142                           00890000
+         FIELD NAME=DATINDX,BYTES=6,START=144                           00900000
+         FIELD NAME=DATSOLD,BYTES=6,START=150                           00910000
+*                                                                       00920000
+         SEGM  NAME=DESPOST,BYTES=30,PARENT=POSTCOM,FREQ=5              00930000
+*                                                                       00940000
+         SEGM  NAME=ECHECOM,BYTES=50,PARENT=POSTCOM,FREQ=1,            *00950000
+               RULES=(,HERE)                                            00960000
+         FIELD NAME=DATLIVR,BYTES=4,START=1                             00970000
+         FIELD NAME=SEMAINE,BYTES=2,START=1                             00980000
+         FIELD NAME=ANNEE,BYTES=2,START=3                               00990000
+         FIELD NAME=SIECLE,BYTES=2,START=10                             00991000
+*                                                                       00992000
+         SEGM  NAME=TEXTPOS,BYTES=70,PARENT=POSTCOM,FREQ=1,            *00993000
+               RULES=(,HERE)                                            00994000
+         FIELD NAME=DOSSIER,BYTES=10,START=1                            00995000
+*                                                                       00996000
+CD2      DATASET                                                        00997000
+         SEGM  NAME=TEXTFIN,BYTES=70,PARENT=SUITCOM,FREQ=15,           *00998000
+               RULES=(,HERE)                                            00999000
+*                                                                       01000000
+CD1      DATASET                                                        01010000
+         SEGM  NAME=FACTCOM,BYTES=100,PARENT=DEBCOM,FREQ=8              01020000
+         FIELD NAME=(NRFACT,SEQ,U),BYTES=9,START=1                      01030000
+*                                                                       01040000
+         SEGM  NAME=DEBRECP,BYTES=100,PARENT=DEBCOM,FREQ=8              01050000
+         FIELD NAME=(NUFISU,SEQ,U),BYTES=6,START=1                      01060000
+         FIELD NAME=NUFIRE,BYTES=5,START=1                              01070000
+         FIELD NAME=DAFISU,BYTES=6,START=7                              01080000
+         FIELD NAME=NUMILOT,BYTES=1,START=13                            01090000
+         FIELD NAME=NUBLIV,BYTES=15,START=35                            01100000
+*                                                                       01110000
+         SEGM  NAME=POSRECP,BYTES=200,PARENT=DEBRECP,FREQ=8             01120000
+         FIELD NAME=(POSTE,SEQ,U),BYTES=3,START=1                       01130000
+         FIELD NAME=CMS,BYTES=14,START=4                                01140000
+         FIELD NAME=FICHLIGN,BYTES=3,START=43                           01150000
+         FIELD NAME=BRPMA,BYTES=8,START=48                              01160000
+         FIELD NAME=MAGASIN,BYTES=2,START=46                            01170000
+         FIELD NAME=ETAPOS,BYTES=2,START=56                             01180000
+         FIELD NAME=DATEMRNF,BYTES=6,START=103                          01190000
+         FIELD NAME=CODEPMA,BYTES=1,START=158                           01200000
+*                                                                       01210000
+         SEGM  NAME=MRNFREG,BYTES=80,PARENT=POSRECP,FREQ=2              01220000
+         FIELD NAME=(MVTMRNF,SEQ,U),BYTES=2,START=1                     01230000
+*                                                                       01240000
+         SEGM  NAME=AVANCOM,BYTES=60,PARENT=DEBCOM,FREQ=8               01250000
+         FIELD NAME=(FACTURIE,SEQ,U),BYTES=6,START=1                    01260000
+*                                                                       01270000
+         SEGM  NAME=REAVCOM,BYTES=60,PARENT=DEBCOM,FREQ=8               01280000
+         FIELD NAME=(FACTURIE,SEQ,U),BYTES=6,START=1                    01290000
+*                                                                       01300000
+         SEGM  NAME=RTGRCOM,BYTES=60,PARENT=DEBCOM,FREQ=8               01310000
+         FIELD NAME=(FACTURIE,SEQ,U),BYTES=6,START=1                    01320000
+*                                                                       01330000
+         SEGM  NAME=PTGRCOM,BYTES=60,PARENT=DEBCOM,FREQ=8               01340000
+         FIELD NAME=(FACTURIE,SEQ,U),BYTES=6,START=1                    01350000
+*                                                                       01360000
+         DBDGEN                                                         01370000
+         FINISH                                                         01380000
+         END                                                            01390000

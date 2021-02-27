@@ -1,0 +1,35 @@
+ DBD NAME=AMS,ACCESS=(HIDAM,OSAM)                                       00001000
+ DATASET DD1=AMSD,DEVICE=3350,BLOCK=6136,FRSPC=(20,5)                   00001100
+         SEGM  NAME=AMSSEG,BYTES=1100                                   00001200
+         FIELD NAME=(AMSNUM,SEQ,U),BYTES=15,START=1,TYPE=C              00001300
+         FIELD NAME=AMSAPP,BYTES=4,START=1,TYPE=C                       00001400
+         FIELD NAME=AMSNO,BYTES=8,START=5,TYPE=C                        00001500
+         FIELD NAME=AMSPAG,BYTES=3,START=13,TYPE=C                      00001600
+         FIELD NAME=AMSTYPE,BYTES=1,START=16,TYPE=C                     00001700
+         FIELD NAME=AMSCLASS,BYTES=1,START=17,TYPE=C                    00001800
+         FIELD NAME=AMSDTCR,BYTES=4,START=18,TYPE=C                     00001900
+         FIELD NAME=AMSDTMD,BYTES=4,START=22,TYPE=C                     00002000
+         FIELD NAME=AMSDAAPP,BYTES=8,START=903,TYPE=C                   00002100
+         FIELD NAME=AMSDATIS,BYTES=8,START=911,TYPE=C                   00002200
+         FIELD NAME=AMSDAISD,BYTES=8,START=919,TYPE=C                   00002300
+         FIELD NAME=AMSINSTP,BYTES=14,START=149,TYPE=C                  00002400
+         FIELD NAME=AMSDID,BYTES=8,START=619,TYPE=C                     00002500
+         LCHILD NAME=(AMSNUMI,AMSDX),PTR=INDX                           00002600
+         SEGM  NAME=RANGSEG,PARENT=AMSSEG,BYTES=500                     00002700
+         FIELD NAME=(RANGNUM,SEQ,U),BYTES=6,START=1,TYPE=C              00002800
+         FIELD NAME=RANGRS,BYTES=1,START=5,TYPE=C                       00002900
+         FIELD NAME=RANGAPPA,BYTES=6,START=8,TYPE=C                     00003000
+         SEGM  NAME=COMSEG,PARENT=AMSSEG,BYTES=70                       00003100
+         FIELD NAME=(COMNUM,SEQ,U),BYTES=2,START=1,TYPE=C               00003200
+         SEGM  NAME=EXPSEG,PARENT=AMSSEG,BYTES=20                       00003300
+         FIELD NAME=(EXPNUM,SEQ,U),BYTES=9,START=1,TYPE=C               00003400
+         FIELD NAME=EXPREPP,BYTES=1,START=1,TYPE=C                      00003500
+         FIELD NAME=EXPROGM,BYTES=2,START=2,TYPE=C                      00003600
+         FIELD NAME=EXPCODEX,BYTES=6,START=4,TYPE=C                     00003700
+         SEGM  NAME=SUIVISEG,PARENT=AMSSEG,BYTES=60                     00003800
+         FIELD NAME=(RGINDNUM,SEQ,U),BYTES=9,START=1,TYPE=C             00003900
+         FIELD NAME=SUIRANG,BYTES=6,START=1,TYPE=C                      00004000
+         FIELD NAME=SUIVIND,BYTES=3,START=7,TYPE=C                      00004100
+         DBDGEN                                                         00004200
+         FINISH                                                         00004300
+         END                                                            00004400
