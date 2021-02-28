@@ -1,0 +1,7 @@
+ DATASET DD1=AMSD,DEVICE=3350,BLOCK=6136,FRSPC=(20,5)                   00001100
+DS1      DATASET DD1=AVAPPAR,                                          *00004011
+CD1      DATASET DD1=CDED1,                                            *00400000
+CD2      DATASET DD1=CDED2,                                            *00720000
+CD1      DATASET                                                        00770000
+CD2      DATASET                                                        00997000
+CD1      DATASET                                                        01010000

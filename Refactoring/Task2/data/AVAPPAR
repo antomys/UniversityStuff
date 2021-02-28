@@ -1,0 +1,18 @@
+         DBD   NAME=AVAPPAR,ACCESS=(HIDAM,OSAM)                         00001010
+DS1      DATASET DD1=AVAPPAR,                                          *00004011
+               DEVICE=3380,FRSPC=(99,2),BLOCK=23468,SCAN=0              00005000
+         SEGM  NAME=TYPE,BYTES=132,FREQ=025,PTR=TB                      00007005
+         FIELD NAME=(CTYPE,SEQ,U),BYTES=4,START=1                       00008000
+         FIELD NAME=PREFIX,BYTES=2,START=5                              00009000
+         FIELD NAME=LCOM,BYTES=25,START=7                               00009100
+         FIELD NAME=CFAM,BYTES=2,START=32                               00009213
+         FIELD NAME=LCOMP,BYTES=25,START=57                             00009400
+         FIELD NAME=CAT,BYTES=1,START=82                                00009500
+         FIELD NAME=LCAT,BYTES=25,START=83                              00009600
+         LCHILD NAME=(TYP,AVAPPARI),PTR=INDX                            00010405
+         SEGM  NAME=VERSION,PARENT=TYPE,BYTES=53,FREQ=5                 00010612
+         FIELD NAME=(CVERS,SEQ,U),BYTES=3,START=1                       00010700
+         FIELD NAME=LVERS,BYTES=25,START=4                              00010806
+       DBDGEN                                                           00037200
+       FINISH                                                           00037300
+       END                                                              00037400
