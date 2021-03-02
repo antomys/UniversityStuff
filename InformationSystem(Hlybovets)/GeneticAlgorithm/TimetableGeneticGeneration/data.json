@@ -1,0 +1,45 @@
+{
+    "Subject_lecturer": {
+        "Methods of system modelling": "Voloshuk",
+        "Cryptography": "Anisimov",
+        "Machine learning": "Bobyl",
+        "OOP": "Omelchuk",
+        "AI": "Ryabokon",
+        "Web programming": "Panchenko"
+    },
+    "Teacher": [ "Voloshuk", "Anisimov", "Bobyl", "Omelchuk", "Panchenko", "Ryabokon", "Panchenko", "Shyshatska", "Krak" ],
+
+    "Audience": [ 1, 2, 3, 4, 5, 6, 7, 8, 9 ],
+    "AudienceForLectures": [2, 4, 5, 7],
+
+    "WorkingDays": [ "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" ],
+
+
+    "Subject": [ "Methods of system modelling", "Cryptography", "AI", "OOP", "AI", "Web programming" ],
+
+    "Specialty": [ "MI", "TK", "TTP" ],
+    "MI_groups": [ "MI1", "MI2", "MI3" ],
+    "TK_groups": [ "TK1", "TK2", "TK3" ],
+    "TTP_groups": [ "TTP1", "TTP2"],
+
+    "MI_subjects": [ "Methods of system modelling", "Cryptography", "AI" ],
+    "TK_subjects": [ "AI", "OOP", "Web programming" ],
+    "TTP_subjects": [ "OOP", "Methods of system modelling", "AI" ],
+
+    "Lessons_time": [ "8:30 - 10:15", "10:35 - 12:10", "12:20 - 13:55", "14:05 - 15:40"],
+
+    "MI1": [ "Student1", "Student2", "Student3" ],
+    "MI2": [ "Student4", "Student5" ],
+    "MI3": [ "Student6", "Student7", "Student8" ],
+    "MI4": [ "Student9", "Student10" ],
+
+    "TK1": [ "Student11", "Student12", "Student13" ],
+    "TK2": [ "Student14", "Student15" ],
+    "TK3": [ "Student16", "Student17", "Student18" ],
+    "TK4": [ "Student19", "Student20" ],
+
+    "TTP1": [ "Student21", "Student22", "Student23" ],
+    "TTP2": [ "Student24", "Student25" ],
+    "TTP3": [ "Student26", "Student27", "Student28" ]
+
+}

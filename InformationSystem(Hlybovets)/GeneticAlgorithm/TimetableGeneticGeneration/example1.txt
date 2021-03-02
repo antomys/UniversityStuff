@@ -1,0 +1,1945 @@
+Generation number = 0
+Chromosome 1 , Likelihood: 4,0300055 % , Fitness: 20
+Chromosome 2 , Likelihood: 5,757151 % , Fitness: 14
+Chromosome 3 , Likelihood: 5,037507 % , Fitness: 16
+Chromosome 4 , Likelihood: 4,741183 % , Fitness: 17
+Chromosome 5 , Likelihood: 6,200009 % , Fitness: 13
+Chromosome 6 , Likelihood: 8,060011 % , Fitness: 10
+Chromosome 7 , Likelihood: 7,3272834 % , Fitness: 11
+Chromosome 8 , Likelihood: 6,200009 % , Fitness: 13
+Chromosome 9 , Likelihood: 8,955568 % , Fitness: 9
+Chromosome 10 , Likelihood: 6,716676 % , Fitness: 12
+Chromosome 11 , Likelihood: 7,3272834 % , Fitness: 11
+Chromosome 12 , Likelihood: 7,3272834 % , Fitness: 11
+Chromosome 13 , Likelihood: 6,200009 % , Fitness: 13
+Chromosome 14 , Likelihood: 8,060011 % , Fitness: 10
+Chromosome 15 , Likelihood: 8,060011 % , Fitness: 10
+Average fitness: 11,875
+
+Generation number = 1
+Chromosome 1 , Likelihood: 7,1238203 % , Fitness: 10
+Chromosome 2 , Likelihood: 7,1238203 % , Fitness: 10
+Chromosome 3 , Likelihood: 4,452388 % , Fitness: 16
+Chromosome 4 , Likelihood: 5,0884433 % , Fitness: 14
+Chromosome 5 , Likelihood: 7,915356 % , Fitness: 9
+Chromosome 6 , Likelihood: 7,915356 % , Fitness: 9
+Chromosome 7 , Likelihood: 4,1904826 % , Fitness: 17
+Chromosome 8 , Likelihood: 5,4798617 % , Fitness: 13
+Chromosome 9 , Likelihood: 10,176887 % , Fitness: 7
+Chromosome 10 , Likelihood: 5,936517 % , Fitness: 12
+Chromosome 11 , Likelihood: 5,936517 % , Fitness: 12
+Chromosome 12 , Likelihood: 5,0884433 % , Fitness: 14
+Chromosome 13 , Likelihood: 10,176887 % , Fitness: 7
+Chromosome 14 , Likelihood: 5,4798617 % , Fitness: 13
+Chromosome 15 , Likelihood: 7,915356 % , Fitness: 9
+Average fitness: 10,75
+
+Generation number = 2
+Chromosome 1 , Likelihood: 11,700114 % , Fitness: 7
+Chromosome 2 , Likelihood: 5,4600534 % , Fitness: 15
+Chromosome 3 , Likelihood: 4,550044 % , Fitness: 18
+Chromosome 4 , Likelihood: 10,2376 % , Fitness: 8
+Chromosome 5 , Likelihood: 6,300061 % , Fitness: 13
+Chromosome 6 , Likelihood: 6,300061 % , Fitness: 13
+Chromosome 7 , Likelihood: 5,1188 % , Fitness: 16
+Chromosome 8 , Likelihood: 7,445527 % , Fitness: 11
+Chromosome 9 , Likelihood: 5,1188 % , Fitness: 16
+Chromosome 10 , Likelihood: 6,300061 % , Fitness: 13
+Chromosome 11 , Likelihood: 4,817694 % , Fitness: 17
+Chromosome 12 , Likelihood: 7,445527 % , Fitness: 11
+Chromosome 13 , Likelihood: 5,4600534 % , Fitness: 15
+Chromosome 14 , Likelihood: 7,445527 % , Fitness: 11
+Chromosome 15 , Likelihood: 6,300061 % , Fitness: 13
+Average fitness: 12,3125
+
+Generation number = 3
+Chromosome 1 , Likelihood: 6,173153 % , Fitness: 11
+Chromosome 2 , Likelihood: 6,173153 % , Fitness: 11
+Chromosome 3 , Likelihood: 8,488085 % , Fitness: 8
+Chromosome 4 , Likelihood: 5,6587234 % , Fitness: 12
+Chromosome 5 , Likelihood: 5,6587234 % , Fitness: 12
+Chromosome 6 , Likelihood: 6,173153 % , Fitness: 11
+Chromosome 7 , Likelihood: 4,850334 % , Fitness: 14
+Chromosome 8 , Likelihood: 5,6587234 % , Fitness: 12
+Chromosome 9 , Likelihood: 5,223437 % , Fitness: 13
+Chromosome 10 , Likelihood: 6,173153 % , Fitness: 11
+Chromosome 11 , Likelihood: 6,173153 % , Fitness: 11
+Chromosome 12 , Likelihood: 5,223437 % , Fitness: 13
+Chromosome 13 , Likelihood: 6,173153 % , Fitness: 11
+Chromosome 14 , Likelihood: 16,97617 % , Fitness: 4
+Chromosome 15 , Likelihood: 5,223437 % , Fitness: 13
+Average fitness: 10,4375
+
+Generation number = 4
+Chromosome 1 , Likelihood: 5,334167 % , Fitness: 11
+Chromosome 2 , Likelihood: 8,382263 % , Fitness: 7
+Chromosome 3 , Likelihood: 5,8675838 % , Fitness: 10
+Chromosome 4 , Likelihood: 11,7351675 % , Fitness: 5
+Chromosome 5 , Likelihood: 4,513526 % , Fitness: 13
+Chromosome 6 , Likelihood: 7,33448 % , Fitness: 8
+Chromosome 7 , Likelihood: 4,889653 % , Fitness: 12
+Chromosome 8 , Likelihood: 4,889653 % , Fitness: 12
+Chromosome 9 , Likelihood: 3,911723 % , Fitness: 15
+Chromosome 10 , Likelihood: 5,8675838 % , Fitness: 10
+Chromosome 11 , Likelihood: 9,779306 % , Fitness: 6
+Chromosome 12 , Likelihood: 4,513526 % , Fitness: 13
+Chromosome 13 , Likelihood: 5,8675838 % , Fitness: 10
+Chromosome 14 , Likelihood: 9,779306 % , Fitness: 6
+Chromosome 15 , Likelihood: 7,33448 % , Fitness: 8
+Average fitness: 9,125
+
+Generation number = 5
+Chromosome 1 , Likelihood: 6,1268725 % , Fitness: 10
+Chromosome 2 , Likelihood: 6,807636 % , Fitness: 9
+Chromosome 3 , Likelihood: 5,5698843 % , Fitness: 11
+Chromosome 4 , Likelihood: 5,105727 % , Fitness: 12
+Chromosome 5 , Likelihood: 5,105727 % , Fitness: 12
+Chromosome 6 , Likelihood: 4,7129793 % , Fitness: 13
+Chromosome 7 , Likelihood: 8,752675 % , Fitness: 7
+Chromosome 8 , Likelihood: 6,1268725 % , Fitness: 10
+Chromosome 9 , Likelihood: 10,211454 % , Fitness: 6
+Chromosome 10 , Likelihood: 5,5698843 % , Fitness: 11
+Chromosome 11 , Likelihood: 10,211454 % , Fitness: 6
+Chromosome 12 , Likelihood: 6,807636 % , Fitness: 9
+Chromosome 13 , Likelihood: 7,6585903 % , Fitness: 8
+Chromosome 14 , Likelihood: 6,1268725 % , Fitness: 10
+Chromosome 15 , Likelihood: 5,105727 % , Fitness: 12
+Average fitness: 9,125
+
+Generation number = 6
+Chromosome 1 , Likelihood: 9,866458 % , Fitness: 6
+Chromosome 2 , Likelihood: 7,3998437 % , Fitness: 8
+Chromosome 3 , Likelihood: 9,866458 % , Fitness: 6
+Chromosome 4 , Likelihood: 3,2888193 % , Fitness: 18
+Chromosome 5 , Likelihood: 6,5776386 % , Fitness: 9
+Chromosome 6 , Likelihood: 6,5776386 % , Fitness: 9
+Chromosome 7 , Likelihood: 3,9465833 % , Fitness: 15
+Chromosome 8 , Likelihood: 4,933229 % , Fitness: 12
+Chromosome 9 , Likelihood: 7,3998437 % , Fitness: 8
+Chromosome 10 , Likelihood: 8,4569645 % , Fitness: 7
+Chromosome 11 , Likelihood: 7,3998437 % , Fitness: 8
+Chromosome 12 , Likelihood: 4,5537496 % , Fitness: 13
+Chromosome 13 , Likelihood: 6,5776386 % , Fitness: 9
+Chromosome 14 , Likelihood: 6,5776386 % , Fitness: 9
+Chromosome 15 , Likelihood: 6,5776386 % , Fitness: 9
+Average fitness: 9,125
+
+Generation number = 7
+Chromosome 1 , Likelihood: 7,0323544 % , Fitness: 9
+Chromosome 2 , Likelihood: 5,7537446 % , Fitness: 11
+Chromosome 3 , Likelihood: 3,331115 % , Fitness: 19
+Chromosome 4 , Likelihood: 10,548532 % , Fitness: 6
+Chromosome 5 , Likelihood: 5,7537446 % , Fitness: 11
+Chromosome 6 , Likelihood: 7,0323544 % , Fitness: 9
+Chromosome 7 , Likelihood: 5,7537446 % , Fitness: 11
+Chromosome 8 , Likelihood: 9,041598 % , Fitness: 7
+Chromosome 9 , Likelihood: 9,041598 % , Fitness: 7
+Chromosome 10 , Likelihood: 4,8685527 % , Fitness: 13
+Chromosome 11 , Likelihood: 5,274266 % , Fitness: 12
+Chromosome 12 , Likelihood: 6,3291183 % , Fitness: 10
+Chromosome 13 , Likelihood: 4,8685527 % , Fitness: 13
+Chromosome 14 , Likelihood: 6,3291183 % , Fitness: 10
+Chromosome 15 , Likelihood: 9,041598 % , Fitness: 7
+Average fitness: 9,6875
+
+Generation number = 8
+Chromosome 1 , Likelihood: 8,223901 % , Fitness: 9
+Chromosome 2 , Likelihood: 6,7286463 % , Fitness: 11
+Chromosome 3 , Likelihood: 6,167926 % , Fitness: 12
+Chromosome 4 , Likelihood: 3,5245287 % , Fitness: 21
+Chromosome 5 , Likelihood: 10,573587 % , Fitness: 7
+Chromosome 6 , Likelihood: 4,1119504 % , Fitness: 18
+Chromosome 7 , Likelihood: 4,625944 % , Fitness: 16
+Chromosome 8 , Likelihood: 7,401511 % , Fitness: 10
+Chromosome 9 , Likelihood: 6,7286463 % , Fitness: 11
+Chromosome 10 , Likelihood: 9,251888 % , Fitness: 8
+Chromosome 11 , Likelihood: 6,7286463 % , Fitness: 11
+Chromosome 12 , Likelihood: 6,7286463 % , Fitness: 11
+Chromosome 13 , Likelihood: 5,69347 % , Fitness: 13
+Chromosome 14 , Likelihood: 5,2867937 % , Fitness: 14
+Chromosome 15 , Likelihood: 8,223901 % , Fitness: 9
+Average fitness: 11,3125
+
+Generation number = 9
+Chromosome 1 , Likelihood: 5,4467535 % , Fitness: 11
+Chromosome 2 , Likelihood: 5,9914293 % , Fitness: 10
+Chromosome 3 , Likelihood: 3,7446432 % , Fitness: 16
+Chromosome 4 , Likelihood: 5,4467535 % , Fitness: 11
+Chromosome 5 , Likelihood: 4,279592 % , Fitness: 14
+Chromosome 6 , Likelihood: 5,9914293 % , Fitness: 10
+Chromosome 7 , Likelihood: 11,982859 % , Fitness: 5
+Chromosome 8 , Likelihood: 5,4467535 % , Fitness: 11
+Chromosome 9 , Likelihood: 8,559184 % , Fitness: 7
+Chromosome 10 , Likelihood: 8,559184 % , Fitness: 7
+Chromosome 11 , Likelihood: 3,5243702 % , Fitness: 17
+Chromosome 12 , Likelihood: 4,9928575 % , Fitness: 12
+Chromosome 13 , Likelihood: 7,4892864 % , Fitness: 8
+Chromosome 14 , Likelihood: 8,559184 % , Fitness: 7
+Chromosome 15 , Likelihood: 9,985715 % , Fitness: 6
+Average fitness: 9,5
+
+Generation number = 10
+Chromosome 1 , Likelihood: 7,633588 % , Fitness: 7
+Chromosome 2 , Likelihood: 5,343511 % , Fitness: 10
+Chromosome 3 , Likelihood: 5,9372344 % , Fitness: 9
+Chromosome 4 , Likelihood: 6,679389 % , Fitness: 8
+Chromosome 5 , Likelihood: 7,633588 % , Fitness: 7
+Chromosome 6 , Likelihood: 6,679389 % , Fitness: 8
+Chromosome 7 , Likelihood: 5,9372344 % , Fitness: 9
+Chromosome 8 , Likelihood: 5,9372344 % , Fitness: 9
+Chromosome 9 , Likelihood: 7,633588 % , Fitness: 7
+Chromosome 10 , Likelihood: 5,343511 % , Fitness: 10
+Chromosome 11 , Likelihood: 5,343511 % , Fitness: 10
+Chromosome 12 , Likelihood: 13,358778 % , Fitness: 4
+Chromosome 13 , Likelihood: 4,4529257 % , Fitness: 12
+Chromosome 14 , Likelihood: 7,633588 % , Fitness: 7
+Chromosome 15 , Likelihood: 4,4529257 % , Fitness: 12
+Average fitness: 8,0625
+
+Generation number = 11
+Chromosome 1 , Likelihood: 6,7302294 % , Fitness: 7
+Chromosome 2 , Likelihood: 11,7779 % , Fitness: 4
+Chromosome 3 , Likelihood: 3,9259667 % , Fitness: 12
+Chromosome 4 , Likelihood: 6,7302294 % , Fitness: 7
+Chromosome 5 , Likelihood: 4,7111607 % , Fitness: 10
+Chromosome 6 , Likelihood: 7,8519335 % , Fitness: 6
+Chromosome 7 , Likelihood: 6,7302294 % , Fitness: 7
+Chromosome 8 , Likelihood: 5,2346225 % , Fitness: 9
+Chromosome 9 , Likelihood: 5,2346225 % , Fitness: 9
+Chromosome 10 , Likelihood: 4,7111607 % , Fitness: 10
+Chromosome 11 , Likelihood: 6,7302294 % , Fitness: 7
+Chromosome 12 , Likelihood: 5,88895 % , Fitness: 8
+Chromosome 13 , Likelihood: 11,7779 % , Fitness: 4
+Chromosome 14 , Likelihood: 5,2346225 % , Fitness: 9
+Chromosome 15 , Likelihood: 6,7302294 % , Fitness: 7
+Average fitness: 7,25
+
+Generation number = 12
+Chromosome 1 , Likelihood: 4,954054 % , Fitness: 9
+Chromosome 2 , Likelihood: 6,369498 % , Fitness: 7
+Chromosome 3 , Likelihood: 6,369498 % , Fitness: 7
+Chromosome 4 , Likelihood: 11,146621 % , Fitness: 4
+Chromosome 5 , Likelihood: 3,184749 % , Fitness: 14
+Chromosome 6 , Likelihood: 6,369498 % , Fitness: 7
+Chromosome 7 , Likelihood: 4,954054 % , Fitness: 9
+Chromosome 8 , Likelihood: 4,954054 % , Fitness: 9
+Chromosome 9 , Likelihood: 11,146621 % , Fitness: 4
+Chromosome 10 , Likelihood: 8,917296 % , Fitness: 5
+Chromosome 11 , Likelihood: 3,4297295 % , Fitness: 13
+Chromosome 12 , Likelihood: 5,5733104 % , Fitness: 8
+Chromosome 13 , Likelihood: 4,0533166 % , Fitness: 11
+Chromosome 14 , Likelihood: 14,862162 % , Fitness: 3
+Chromosome 15 , Likelihood: 3,7155404 % , Fitness: 12
+Average fitness: 7,625
+
+Generation number = 13
+Chromosome 1 , Likelihood: 10,643543 % , Fitness: 4
+Chromosome 2 , Likelihood: 7,0956955 % , Fitness: 6
+Chromosome 3 , Likelihood: 8,514835 % , Fitness: 5
+Chromosome 4 , Likelihood: 2,8382783 % , Fitness: 15
+Chromosome 5 , Likelihood: 3,0410123 % , Fitness: 14
+Chromosome 6 , Likelihood: 6,0820246 % , Fitness: 7
+Chromosome 7 , Likelihood: 14,191391 % , Fitness: 3
+Chromosome 8 , Likelihood: 3,2749367 % , Fitness: 13
+Chromosome 9 , Likelihood: 14,191391 % , Fitness: 3
+Chromosome 10 , Likelihood: 2,504363 % , Fitness: 17
+Chromosome 11 , Likelihood: 3,0410123 % , Fitness: 14
+Chromosome 12 , Likelihood: 7,0956955 % , Fitness: 6
+Chromosome 13 , Likelihood: 6,0820246 % , Fitness: 7
+Chromosome 14 , Likelihood: 5,3217716 % , Fitness: 8
+Chromosome 15 , Likelihood: 6,0820246 % , Fitness: 7
+Average fitness: 8,0625
+
+Generation number = 14
+Chromosome 1 , Likelihood: 3,8424857 % , Fitness: 13
+Chromosome 2 , Likelihood: 16,650772 % , Fitness: 3
+Chromosome 3 , Likelihood: 3,8424857 % , Fitness: 13
+Chromosome 4 , Likelihood: 4,5411196 % , Fitness: 11
+Chromosome 5 , Likelihood: 9,990462 % , Fitness: 5
+Chromosome 6 , Likelihood: 3,8424857 % , Fitness: 13
+Chromosome 7 , Likelihood: 4,5411196 % , Fitness: 11
+Chromosome 8 , Likelihood: 3,5680227 % , Fitness: 14
+Chromosome 9 , Likelihood: 16,650772 % , Fitness: 3
+Chromosome 10 , Likelihood: 4,5411196 % , Fitness: 11
+Chromosome 11 , Likelihood: 8,325386 % , Fitness: 6
+Chromosome 12 , Likelihood: 2,7751286 % , Fitness: 18
+Chromosome 13 , Likelihood: 4,995231 % , Fitness: 10
+Chromosome 14 , Likelihood: 8,325386 % , Fitness: 6
+Chromosome 15 , Likelihood: 3,5680227 % , Fitness: 14
+Average fitness: 9,4375
+
+Generation number = 15
+Chromosome 1 , Likelihood: 16,652548 % , Fitness: 3
+Chromosome 2 , Likelihood: 6,2447057 % , Fitness: 8
+Chromosome 3 , Likelihood: 4,541604 % , Fitness: 11
+Chromosome 4 , Likelihood: 4,163137 % , Fitness: 12
+Chromosome 5 , Likelihood: 4,163137 % , Fitness: 12
+Chromosome 6 , Likelihood: 4,9957643 % , Fitness: 10
+Chromosome 7 , Likelihood: 7,136807 % , Fitness: 7
+Chromosome 8 , Likelihood: 4,541604 % , Fitness: 11
+Chromosome 9 , Likelihood: 4,541604 % , Fitness: 11
+Chromosome 10 , Likelihood: 5,5508494 % , Fitness: 9
+Chromosome 11 , Likelihood: 6,2447057 % , Fitness: 8
+Chromosome 12 , Likelihood: 6,2447057 % , Fitness: 8
+Chromosome 13 , Likelihood: 16,652548 % , Fitness: 3
+Chromosome 14 , Likelihood: 4,163137 % , Fitness: 12
+Chromosome 15 , Likelihood: 4,163137 % , Fitness: 12
+Average fitness: 8,5625
+
+Generation number = 16
+Chromosome 1 , Likelihood: 4,340366 % , Fitness: 11
+Chromosome 2 , Likelihood: 5,3048916 % , Fitness: 9
+Chromosome 3 , Likelihood: 4,340366 % , Fitness: 11
+Chromosome 4 , Likelihood: 4,340366 % , Fitness: 11
+Chromosome 5 , Likelihood: 15,914676 % , Fitness: 3
+Chromosome 6 , Likelihood: 4,340366 % , Fitness: 11
+Chromosome 7 , Likelihood: 3,1829352 % , Fitness: 15
+Chromosome 8 , Likelihood: 4,340366 % , Fitness: 11
+Chromosome 9 , Likelihood: 3,6726172 % , Fitness: 13
+Chromosome 10 , Likelihood: 15,914676 % , Fitness: 3
+Chromosome 11 , Likelihood: 3,978669 % , Fitness: 12
+Chromosome 12 , Likelihood: 3,6726172 % , Fitness: 13
+Chromosome 13 , Likelihood: 15,914676 % , Fitness: 3
+Chromosome 14 , Likelihood: 5,968003 % , Fitness: 8
+Chromosome 15 , Likelihood: 4,7744026 % , Fitness: 10
+Average fitness: 9
+
+Generation number = 17
+Chromosome 1 , Likelihood: 6,7474804 % , Fitness: 12
+Chromosome 2 , Likelihood: 4,4983206 % , Fitness: 18
+Chromosome 3 , Likelihood: 5,783555 % , Fitness: 14
+Chromosome 4 , Likelihood: 8,096976 % , Fitness: 10
+Chromosome 5 , Likelihood: 7,3608885 % , Fitness: 11
+Chromosome 6 , Likelihood: 4,4983206 % , Fitness: 18
+Chromosome 7 , Likelihood: 5,783555 % , Fitness: 14
+Chromosome 8 , Likelihood: 6,7474804 % , Fitness: 12
+Chromosome 9 , Likelihood: 5,397985 % , Fitness: 15
+Chromosome 10 , Likelihood: 10,121222 % , Fitness: 8
+Chromosome 11 , Likelihood: 10,121222 % , Fitness: 8
+Chromosome 12 , Likelihood: 7,3608885 % , Fitness: 11
+Chromosome 13 , Likelihood: 5,060611 % , Fitness: 16
+Chromosome 14 , Likelihood: 5,060611 % , Fitness: 16
+Chromosome 15 , Likelihood: 7,3608885 % , Fitness: 11
+Average fitness: 12,125
+
+Generation number = 18
+Chromosome 1 , Likelihood: 4,51915 % , Fitness: 18
+Chromosome 2 , Likelihood: 9,0383 % , Fitness: 9
+Chromosome 3 , Likelihood: 4,7849817 % , Fitness: 17
+Chromosome 4 , Likelihood: 6,2572846 % , Fitness: 13
+Chromosome 5 , Likelihood: 9,0383 % , Fitness: 9
+Chromosome 6 , Likelihood: 6,2572846 % , Fitness: 13
+Chromosome 7 , Likelihood: 9,0383 % , Fitness: 9
+Chromosome 8 , Likelihood: 9,0383 % , Fitness: 9
+Chromosome 9 , Likelihood: 9,0383 % , Fitness: 9
+Chromosome 10 , Likelihood: 5,42298 % , Fitness: 15
+Chromosome 11 , Likelihood: 5,42298 % , Fitness: 15
+Chromosome 12 , Likelihood: 6,7787247 % , Fitness: 12
+Chromosome 13 , Likelihood: 5,42298 % , Fitness: 15
+Chromosome 14 , Likelihood: 5,42298 % , Fitness: 15
+Chromosome 15 , Likelihood: 4,51915 % , Fitness: 18
+Average fitness: 12,25
+
+Generation number = 19
+Chromosome 1 , Likelihood: 3,9599173 % , Fitness: 19
+Chromosome 2 , Likelihood: 7,523843 % , Fitness: 10
+Chromosome 3 , Likelihood: 9,404804 % , Fitness: 8
+Chromosome 4 , Likelihood: 5,787572 % , Fitness: 13
+Chromosome 5 , Likelihood: 6,2698693 % , Fitness: 12
+Chromosome 6 , Likelihood: 5,787572 % , Fitness: 13
+Chromosome 7 , Likelihood: 6,2698693 % , Fitness: 12
+Chromosome 8 , Likelihood: 8,359825 % , Fitness: 9
+Chromosome 9 , Likelihood: 5,787572 % , Fitness: 13
+Chromosome 10 , Likelihood: 6,2698693 % , Fitness: 12
+Chromosome 11 , Likelihood: 6,839857 % , Fitness: 11
+Chromosome 12 , Likelihood: 8,359825 % , Fitness: 9
+Chromosome 13 , Likelihood: 6,2698693 % , Fitness: 12
+Chromosome 14 , Likelihood: 6,2698693 % , Fitness: 12
+Chromosome 15 , Likelihood: 6,839857 % , Fitness: 11
+Average fitness: 11
+
+Generation number = 20
+Chromosome 1 , Likelihood: 6,1550884 % , Fitness: 12
+Chromosome 2 , Likelihood: 5,68162 % , Fitness: 13
+Chromosome 3 , Likelihood: 6,1550884 % , Fitness: 12
+Chromosome 4 , Likelihood: 4,924071 % , Fitness: 15
+Chromosome 5 , Likelihood: 7,3861065 % , Fitness: 10
+Chromosome 6 , Likelihood: 5,68162 % , Fitness: 13
+Chromosome 7 , Likelihood: 10,55158 % , Fitness: 7
+Chromosome 8 , Likelihood: 4,924071 % , Fitness: 15
+Chromosome 9 , Likelihood: 6,714642 % , Fitness: 11
+Chromosome 10 , Likelihood: 6,714642 % , Fitness: 11
+Chromosome 11 , Likelihood: 5,68162 % , Fitness: 13
+Chromosome 12 , Likelihood: 8,206785 % , Fitness: 9
+Chromosome 13 , Likelihood: 6,714642 % , Fitness: 11
+Chromosome 14 , Likelihood: 5,27579 % , Fitness: 14
+Chromosome 15 , Likelihood: 9,232632 % , Fitness: 8
+Average fitness: 10,875
+
+Generation number = 21
+Chromosome 1 , Likelihood: 8,483312 % , Fitness: 8
+Chromosome 2 , Likelihood: 4,524433 % , Fitness: 15
+Chromosome 3 , Likelihood: 3,9921467 % , Fitness: 17
+Chromosome 4 , Likelihood: 6,169681 % , Fitness: 11
+Chromosome 5 , Likelihood: 9,695214 % , Fitness: 7
+Chromosome 6 , Likelihood: 6,7866497 % , Fitness: 10
+Chromosome 7 , Likelihood: 5,2204995 % , Fitness: 13
+Chromosome 8 , Likelihood: 7,5407214 % , Fitness: 9
+Chromosome 9 , Likelihood: 4,847607 % , Fitness: 14
+Chromosome 10 , Likelihood: 4,847607 % , Fitness: 14
+Chromosome 11 , Likelihood: 5,6555414 % , Fitness: 12
+Chromosome 12 , Likelihood: 8,483312 % , Fitness: 8
+Chromosome 13 , Likelihood: 11,311083 % , Fitness: 6
+Chromosome 14 , Likelihood: 6,7866497 % , Fitness: 10
+Chromosome 15 , Likelihood: 5,6555414 % , Fitness: 12
+Average fitness: 10,375
+
+Generation number = 22
+Chromosome 1 , Likelihood: 6,2546015 % , Fitness: 12
+Chromosome 2 , Likelihood: 8,339468 % , Fitness: 9
+Chromosome 3 , Likelihood: 7,505522 % , Fitness: 10
+Chromosome 4 , Likelihood: 5,003681 % , Fitness: 15
+Chromosome 5 , Likelihood: 6,823202 % , Fitness: 11
+Chromosome 6 , Likelihood: 5,7734785 % , Fitness: 13
+Chromosome 7 , Likelihood: 6,2546015 % , Fitness: 12
+Chromosome 8 , Likelihood: 4,6909513 % , Fitness: 16
+Chromosome 9 , Likelihood: 6,2546015 % , Fitness: 12
+Chromosome 10 , Likelihood: 8,339468 % , Fitness: 9
+Chromosome 11 , Likelihood: 9,381903 % , Fitness: 8
+Chromosome 12 , Likelihood: 4,169734 % , Fitness: 18
+Chromosome 13 , Likelihood: 6,823202 % , Fitness: 11
+Chromosome 14 , Likelihood: 9,381903 % , Fitness: 8
+Chromosome 15 , Likelihood: 5,003681 % , Fitness: 15
+Average fitness: 11,1875
+
+Generation number = 23
+Chromosome 1 , Likelihood: 7,420255 % , Fitness: 10
+Chromosome 2 , Likelihood: 8,244727 % , Fitness: 9
+Chromosome 3 , Likelihood: 6,183546 % , Fitness: 12
+Chromosome 4 , Likelihood: 4,364856 % , Fitness: 17
+Chromosome 5 , Likelihood: 4,946837 % , Fitness: 15
+Chromosome 6 , Likelihood: 6,7456865 % , Fitness: 11
+Chromosome 7 , Likelihood: 10,600365 % , Fitness: 7
+Chromosome 8 , Likelihood: 6,7456865 % , Fitness: 11
+Chromosome 9 , Likelihood: 5,3001823 % , Fitness: 14
+Chromosome 10 , Likelihood: 5,7078886 % , Fitness: 13
+Chromosome 11 , Likelihood: 4,946837 % , Fitness: 15
+Chromosome 12 , Likelihood: 7,420255 % , Fitness: 10
+Chromosome 13 , Likelihood: 7,420255 % , Fitness: 10
+Chromosome 14 , Likelihood: 8,244727 % , Fitness: 9
+Chromosome 15 , Likelihood: 5,7078886 % , Fitness: 13
+Average fitness: 11
+
+Generation number = 24
+Chromosome 1 , Likelihood: 4,980822 % , Fitness: 15
+Chromosome 2 , Likelihood: 4,669521 % , Fitness: 16
+Chromosome 3 , Likelihood: 5,7471027 % , Fitness: 13
+Chromosome 4 , Likelihood: 4,669521 % , Fitness: 16
+Chromosome 5 , Likelihood: 6,226028 % , Fitness: 12
+Chromosome 6 , Likelihood: 6,226028 % , Fitness: 12
+Chromosome 7 , Likelihood: 6,226028 % , Fitness: 12
+Chromosome 8 , Likelihood: 6,7920303 % , Fitness: 11
+Chromosome 9 , Likelihood: 5,3365955 % , Fitness: 14
+Chromosome 10 , Likelihood: 9,339042 % , Fitness: 8
+Chromosome 11 , Likelihood: 6,226028 % , Fitness: 12
+Chromosome 12 , Likelihood: 12,452056 % , Fitness: 6
+Chromosome 13 , Likelihood: 8,301371 % , Fitness: 9
+Chromosome 14 , Likelihood: 5,3365955 % , Fitness: 14
+Chromosome 15 , Likelihood: 7,4712334 % , Fitness: 10
+Average fitness: 11,25
+
+Generation number = 25
+Chromosome 1 , Likelihood: 4,220822 % , Fitness: 20
+Chromosome 2 , Likelihood: 5,2760277 % , Fitness: 16
+Chromosome 3 , Likelihood: 4,4429708 % , Fitness: 19
+Chromosome 4 , Likelihood: 4,220822 % , Fitness: 20
+Chromosome 5 , Likelihood: 10,552055 % , Fitness: 8
+Chromosome 6 , Likelihood: 7,6742225 % , Fitness: 11
+Chromosome 7 , Likelihood: 5,2760277 % , Fitness: 16
+Chromosome 8 , Likelihood: 6,0297465 % , Fitness: 14
+Chromosome 9 , Likelihood: 4,4429708 % , Fitness: 19
+Chromosome 10 , Likelihood: 5,6277633 % , Fitness: 15
+Chromosome 11 , Likelihood: 8,441644 % , Fitness: 10
+Chromosome 12 , Likelihood: 6,4935727 % , Fitness: 13
+Chromosome 13 , Likelihood: 10,552055 % , Fitness: 8
+Chromosome 14 , Likelihood: 4,6898026 % , Fitness: 18
+Chromosome 15 , Likelihood: 12,059493 % , Fitness: 7
+Average fitness: 13,375
+
+Generation number = 26
+Chromosome 1 , Likelihood: 4,525296 % , Fitness: 20
+Chromosome 2 , Likelihood: 4,525296 % , Fitness: 20
+Chromosome 3 , Likelihood: 5,0281067 % , Fitness: 18
+Chromosome 4 , Likelihood: 9,050592 % , Fitness: 10
+Chromosome 5 , Likelihood: 8,227811 % , Fitness: 11
+Chromosome 6 , Likelihood: 10,056213 % , Fitness: 9
+Chromosome 7 , Likelihood: 9,050592 % , Fitness: 10
+Chromosome 8 , Likelihood: 7,54216 % , Fitness: 12
+Chromosome 9 , Likelihood: 4,525296 % , Fitness: 20
+Chromosome 10 , Likelihood: 5,0281067 % , Fitness: 18
+Chromosome 11 , Likelihood: 3,9350402 % , Fitness: 23
+Chromosome 12 , Likelihood: 6,9619937 % , Fitness: 13
+Chromosome 13 , Likelihood: 6,9619937 % , Fitness: 13
+Chromosome 14 , Likelihood: 10,056213 % , Fitness: 9
+Chromosome 15 , Likelihood: 4,525296 % , Fitness: 20
+Average fitness: 14,125
+
+Generation number = 27
+Chromosome 1 , Likelihood: 4,6977496 % , Fitness: 18
+Chromosome 2 , Likelihood: 6,5045767 % , Fitness: 13
+Chromosome 3 , Likelihood: 4,4504995 % , Fitness: 19
+Chromosome 4 , Likelihood: 8,455949 % , Fitness: 10
+Chromosome 5 , Likelihood: 6,5045767 % , Fitness: 13
+Chromosome 6 , Likelihood: 9,395499 % , Fitness: 9
+Chromosome 7 , Likelihood: 7,046625 % , Fitness: 12
+Chromosome 8 , Likelihood: 4,974088 % , Fitness: 17
+Chromosome 9 , Likelihood: 8,455949 % , Fitness: 10
+Chromosome 10 , Likelihood: 5,6373 % , Fitness: 15
+Chromosome 11 , Likelihood: 5,2849684 % , Fitness: 16
+Chromosome 12 , Likelihood: 5,6373 % , Fitness: 15
+Chromosome 13 , Likelihood: 10,569937 % , Fitness: 8
+Chromosome 14 , Likelihood: 7,687227 % , Fitness: 11
+Chromosome 15 , Likelihood: 4,6977496 % , Fitness: 18
+Average fitness: 12,75
+
+Generation number = 28
+Chromosome 1 , Likelihood: 8,699272 % , Fitness: 9
+Chromosome 2 , Likelihood: 5,219564 % , Fitness: 15
+Chromosome 3 , Likelihood: 6,5244546 % , Fitness: 12
+Chromosome 4 , Likelihood: 6,0225735 % , Fitness: 13
+Chromosome 5 , Likelihood: 7,8293457 % , Fitness: 10
+Chromosome 6 , Likelihood: 5,219564 % , Fitness: 15
+Chromosome 7 , Likelihood: 5,5923896 % , Fitness: 14
+Chromosome 8 , Likelihood: 7,1175866 % , Fitness: 11
+Chromosome 9 , Likelihood: 8,699272 % , Fitness: 9
+Chromosome 10 , Likelihood: 7,8293457 % , Fitness: 10
+Chromosome 11 , Likelihood: 7,8293457 % , Fitness: 10
+Chromosome 12 , Likelihood: 7,8293457 % , Fitness: 10
+Chromosome 13 , Likelihood: 4,349636 % , Fitness: 18
+Chromosome 14 , Likelihood: 4,1207085 % , Fitness: 19
+Chromosome 15 , Likelihood: 7,1175866 % , Fitness: 11
+Average fitness: 11,625
+
+Generation number = 29
+Chromosome 1 , Likelihood: 7,161521 % , Fitness: 9
+Chromosome 2 , Likelihood: 6,4453692 % , Fitness: 10
+Chromosome 3 , Likelihood: 7,161521 % , Fitness: 9
+Chromosome 4 , Likelihood: 5,371141 % , Fitness: 12
+Chromosome 5 , Likelihood: 5,859427 % , Fitness: 11
+Chromosome 6 , Likelihood: 10,742282 % , Fitness: 6
+Chromosome 7 , Likelihood: 6,4453692 % , Fitness: 10
+Chromosome 8 , Likelihood: 4,9579763 % , Fitness: 13
+Chromosome 9 , Likelihood: 6,4453692 % , Fitness: 10
+Chromosome 10 , Likelihood: 5,371141 % , Fitness: 12
+Chromosome 11 , Likelihood: 9,20767 % , Fitness: 7
+Chromosome 12 , Likelihood: 8,056711 % , Fitness: 8
+Chromosome 13 , Likelihood: 4,9579763 % , Fitness: 13
+Chromosome 14 , Likelihood: 5,371141 % , Fitness: 12
+Chromosome 15 , Likelihood: 6,4453692 % , Fitness: 10
+Average fitness: 9,5
+
+Generation number = 30
+Chromosome 1 , Likelihood: 5,204402 % , Fitness: 13
+Chromosome 2 , Likelihood: 6,7657223 % , Fitness: 10
+Chromosome 3 , Likelihood: 5,204402 % , Fitness: 13
+Chromosome 4 , Likelihood: 9,665318 % , Fitness: 7
+Chromosome 5 , Likelihood: 11,276204 % , Fitness: 6
+Chromosome 6 , Likelihood: 5,204402 % , Fitness: 13
+Chromosome 7 , Likelihood: 6,1506567 % , Fitness: 11
+Chromosome 8 , Likelihood: 6,1506567 % , Fitness: 11
+Chromosome 9 , Likelihood: 5,638102 % , Fitness: 12
+Chromosome 10 , Likelihood: 7,517469 % , Fitness: 9
+Chromosome 11 , Likelihood: 5,204402 % , Fitness: 13
+Chromosome 12 , Likelihood: 7,517469 % , Fitness: 9
+Chromosome 13 , Likelihood: 6,1506567 % , Fitness: 11
+Chromosome 14 , Likelihood: 4,832659 % , Fitness: 14
+Chromosome 15 , Likelihood: 7,517469 % , Fitness: 9
+Average fitness: 10,0625
+
+Generation number = 31
+Chromosome 1 , Likelihood: 3,9336271 % , Fitness: 18
+Chromosome 2 , Likelihood: 6,436845 % , Fitness: 11
+Chromosome 3 , Likelihood: 6,436845 % , Fitness: 11
+Chromosome 4 , Likelihood: 7,8672543 % , Fitness: 9
+Chromosome 5 , Likelihood: 5,446561 % , Fitness: 13
+Chromosome 6 , Likelihood: 5,900441 % , Fitness: 12
+Chromosome 7 , Likelihood: 6,436845 % , Fitness: 11
+Chromosome 8 , Likelihood: 5,446561 % , Fitness: 13
+Chromosome 9 , Likelihood: 6,436845 % , Fitness: 11
+Chromosome 10 , Likelihood: 8,850661 % , Fitness: 8
+Chromosome 11 , Likelihood: 5,900441 % , Fitness: 12
+Chromosome 12 , Likelihood: 7,8672543 % , Fitness: 9
+Chromosome 13 , Likelihood: 5,0575213 % , Fitness: 14
+Chromosome 14 , Likelihood: 10,115043 % , Fitness: 7
+Chromosome 15 , Likelihood: 7,8672543 % , Fitness: 9
+Average fitness: 10,5
+
+Generation number = 32
+Chromosome 1 , Likelihood: 3,8837285 % , Fitness: 18
+Chromosome 2 , Likelihood: 6,3551917 % , Fitness: 11
+Chromosome 3 , Likelihood: 8,738389 % , Fitness: 8
+Chromosome 4 , Likelihood: 5,825593 % , Fitness: 12
+Chromosome 5 , Likelihood: 6,990711 % , Fitness: 10
+Chromosome 6 , Likelihood: 5,3774705 % , Fitness: 13
+Chromosome 7 , Likelihood: 8,738389 % , Fitness: 8
+Chromosome 8 , Likelihood: 6,990711 % , Fitness: 10
+Chromosome 9 , Likelihood: 5,3774705 % , Fitness: 13
+Chromosome 10 , Likelihood: 6,990711 % , Fitness: 10
+Chromosome 11 , Likelihood: 9,986731 % , Fitness: 7
+Chromosome 12 , Likelihood: 6,990711 % , Fitness: 10
+Chromosome 13 , Likelihood: 4,9933653 % , Fitness: 14
+Chromosome 14 , Likelihood: 4,9933653 % , Fitness: 14
+Chromosome 15 , Likelihood: 7,767457 % , Fitness: 9
+Average fitness: 10,4375
+
+Generation number = 33
+Chromosome 1 , Likelihood: 9,130459 % , Fitness: 7
+Chromosome 2 , Likelihood: 4,9164014 % , Fitness: 13
+Chromosome 3 , Likelihood: 7,989152 % , Fitness: 8
+Chromosome 4 , Likelihood: 7,101468 % , Fitness: 9
+Chromosome 5 , Likelihood: 7,101468 % , Fitness: 9
+Chromosome 6 , Likelihood: 4,2608814 % , Fitness: 15
+Chromosome 7 , Likelihood: 7,101468 % , Fitness: 9
+Chromosome 8 , Likelihood: 9,130459 % , Fitness: 7
+Chromosome 9 , Likelihood: 6,391321 % , Fitness: 10
+Chromosome 10 , Likelihood: 6,391321 % , Fitness: 10
+Chromosome 11 , Likelihood: 5,3261013 % , Fitness: 12
+Chromosome 12 , Likelihood: 7,101468 % , Fitness: 9
+Chromosome 13 , Likelihood: 6,391321 % , Fitness: 10
+Chromosome 14 , Likelihood: 7,101468 % , Fitness: 9
+Chromosome 15 , Likelihood: 4,5652294 % , Fitness: 14
+Average fitness: 9,4375
+
+Generation number = 34
+Chromosome 1 , Likelihood: 9,435915 % , Fitness: 7
+Chromosome 2 , Likelihood: 7,3390446 % , Fitness: 9
+Chromosome 3 , Likelihood: 6,004673 % , Fitness: 11
+Chromosome 4 , Likelihood: 7,3390446 % , Fitness: 9
+Chromosome 5 , Likelihood: 5,504284 % , Fitness: 12
+Chromosome 6 , Likelihood: 5,504284 % , Fitness: 12
+Chromosome 7 , Likelihood: 5,504284 % , Fitness: 12
+Chromosome 8 , Likelihood: 6,004673 % , Fitness: 11
+Chromosome 9 , Likelihood: 6,004673 % , Fitness: 11
+Chromosome 10 , Likelihood: 8,256425 % , Fitness: 8
+Chromosome 11 , Likelihood: 7,3390446 % , Fitness: 9
+Chromosome 12 , Likelihood: 5,0808773 % , Fitness: 13
+Chromosome 13 , Likelihood: 7,3390446 % , Fitness: 9
+Chromosome 14 , Likelihood: 7,3390446 % , Fitness: 9
+Chromosome 15 , Likelihood: 6,004673 % , Fitness: 11
+Average fitness: 9,5625
+
+Generation number = 35
+Chromosome 1 , Likelihood: 3,7000299 % , Fitness: 17
+Chromosome 2 , Likelihood: 6,9889455 % , Fitness: 9
+Chromosome 3 , Likelihood: 5,241709 % , Fitness: 12
+Chromosome 4 , Likelihood: 6,2900505 % , Fitness: 10
+Chromosome 5 , Likelihood: 7,8625636 % , Fitness: 8
+Chromosome 6 , Likelihood: 7,8625636 % , Fitness: 8
+Chromosome 7 , Likelihood: 7,8625636 % , Fitness: 8
+Chromosome 8 , Likelihood: 5,241709 % , Fitness: 12
+Chromosome 9 , Likelihood: 6,2900505 % , Fitness: 10
+Chromosome 10 , Likelihood: 6,9889455 % , Fitness: 9
+Chromosome 11 , Likelihood: 6,9889455 % , Fitness: 9
+Chromosome 12 , Likelihood: 8,985787 % , Fitness: 7
+Chromosome 13 , Likelihood: 6,9889455 % , Fitness: 9
+Chromosome 14 , Likelihood: 5,7182283 % , Fitness: 11
+Chromosome 15 , Likelihood: 6,9889455 % , Fitness: 9
+Average fitness: 9,25
+
+Generation number = 36
+Chromosome 1 , Likelihood: 5,854704 % , Fitness: 11
+Chromosome 2 , Likelihood: 7,1557493 % , Fitness: 9
+Chromosome 3 , Likelihood: 7,1557493 % , Fitness: 9
+Chromosome 4 , Likelihood: 5,3668118 % , Fitness: 12
+Chromosome 5 , Likelihood: 5,3668118 % , Fitness: 12
+Chromosome 6 , Likelihood: 9,200249 % , Fitness: 7
+Chromosome 7 , Likelihood: 8,050218 % , Fitness: 8
+Chromosome 8 , Likelihood: 4,6001244 % , Fitness: 14
+Chromosome 9 , Likelihood: 7,1557493 % , Fitness: 9
+Chromosome 10 , Likelihood: 4,95398 % , Fitness: 13
+Chromosome 11 , Likelihood: 8,050218 % , Fitness: 8
+Chromosome 12 , Likelihood: 9,200249 % , Fitness: 7
+Chromosome 13 , Likelihood: 5,3668118 % , Fitness: 12
+Chromosome 14 , Likelihood: 7,1557493 % , Fitness: 9
+Chromosome 15 , Likelihood: 5,3668118 % , Fitness: 12
+Average fitness: 9,5
+
+Generation number = 37
+Chromosome 1 , Likelihood: 7,750669 % , Fitness: 9
+Chromosome 2 , Likelihood: 5,8130016 % , Fitness: 12
+Chromosome 3 , Likelihood: 4,359751 % , Fitness: 16
+Chromosome 4 , Likelihood: 8,719502 % , Fitness: 8
+Chromosome 5 , Likelihood: 9,965146 % , Fitness: 7
+Chromosome 6 , Likelihood: 8,719502 % , Fitness: 8
+Chromosome 7 , Likelihood: 7,750669 % , Fitness: 9
+Chromosome 8 , Likelihood: 4,6504016 % , Fitness: 15
+Chromosome 9 , Likelihood: 4,982573 % , Fitness: 14
+Chromosome 10 , Likelihood: 7,750669 % , Fitness: 9
+Chromosome 11 , Likelihood: 5,8130016 % , Fitness: 12
+Chromosome 12 , Likelihood: 4,982573 % , Fitness: 14
+Chromosome 13 , Likelihood: 6,3414564 % , Fitness: 11
+Chromosome 14 , Likelihood: 4,6504016 % , Fitness: 15
+Chromosome 15 , Likelihood: 7,750669 % , Fitness: 9
+Average fitness: 10,5
+
+Generation number = 38
+Chromosome 1 , Likelihood: 7,07753 % , Fitness: 9
+Chromosome 2 , Likelihood: 6,369777 % , Fitness: 10
+Chromosome 3 , Likelihood: 7,07753 % , Fitness: 9
+Chromosome 4 , Likelihood: 6,369777 % , Fitness: 10
+Chromosome 5 , Likelihood: 5,7907066 % , Fitness: 11
+Chromosome 6 , Likelihood: 7,07753 % , Fitness: 9
+Chromosome 7 , Likelihood: 7,9622216 % , Fitness: 8
+Chromosome 8 , Likelihood: 5,7907066 % , Fitness: 11
+Chromosome 9 , Likelihood: 6,369777 % , Fitness: 10
+Chromosome 10 , Likelihood: 7,9622216 % , Fitness: 8
+Chromosome 11 , Likelihood: 4,5498414 % , Fitness: 14
+Chromosome 12 , Likelihood: 7,07753 % , Fitness: 9
+Chromosome 13 , Likelihood: 7,07753 % , Fitness: 9
+Chromosome 14 , Likelihood: 6,369777 % , Fitness: 10
+Chromosome 15 , Likelihood: 7,07753 % , Fitness: 9
+Average fitness: 9,125
+
+Generation number = 39
+Chromosome 1 , Likelihood: 7,5733347 % , Fitness: 9
+Chromosome 2 , Likelihood: 4,544001 % , Fitness: 15
+Chromosome 3 , Likelihood: 7,5733347 % , Fitness: 9
+Chromosome 4 , Likelihood: 6,196365 % , Fitness: 11
+Chromosome 5 , Likelihood: 7,5733347 % , Fitness: 9
+Chromosome 6 , Likelihood: 6,8160014 % , Fitness: 10
+Chromosome 7 , Likelihood: 6,8160014 % , Fitness: 10
+Chromosome 8 , Likelihood: 4,8685727 % , Fitness: 14
+Chromosome 9 , Likelihood: 8,520001 % , Fitness: 8
+Chromosome 10 , Likelihood: 4,544001 % , Fitness: 15
+Chromosome 11 , Likelihood: 6,8160014 % , Fitness: 10
+Chromosome 12 , Likelihood: 6,196365 % , Fitness: 11
+Chromosome 13 , Likelihood: 6,8160014 % , Fitness: 10
+Chromosome 14 , Likelihood: 7,5733347 % , Fitness: 9
+Chromosome 15 , Likelihood: 7,5733347 % , Fitness: 9
+Average fitness: 9,9375
+
+Generation number = 40
+Chromosome 1 , Likelihood: 4,5484266 % , Fitness: 16
+Chromosome 2 , Likelihood: 9,096853 % , Fitness: 8
+Chromosome 3 , Likelihood: 8,086092 % , Fitness: 9
+Chromosome 4 , Likelihood: 8,086092 % , Fitness: 9
+Chromosome 5 , Likelihood: 8,086092 % , Fitness: 9
+Chromosome 6 , Likelihood: 4,2808723 % , Fitness: 17
+Chromosome 7 , Likelihood: 6,064569 % , Fitness: 12
+Chromosome 8 , Likelihood: 7,277483 % , Fitness: 10
+Chromosome 9 , Likelihood: 8,086092 % , Fitness: 9
+Chromosome 10 , Likelihood: 7,277483 % , Fitness: 10
+Chromosome 11 , Likelihood: 7,277483 % , Fitness: 10
+Chromosome 12 , Likelihood: 4,8516555 % , Fitness: 15
+Chromosome 13 , Likelihood: 4,043046 % , Fitness: 18
+Chromosome 14 , Likelihood: 4,8516555 % , Fitness: 15
+Chromosome 15 , Likelihood: 8,086092 % , Fitness: 9
+Average fitness: 11
+
+Generation number = 41
+Chromosome 1 , Likelihood: 6,5029197 % , Fitness: 10
+Chromosome 2 , Likelihood: 6,5029197 % , Fitness: 10
+Chromosome 3 , Likelihood: 8,12865 % , Fitness: 8
+Chromosome 4 , Likelihood: 7,2254667 % , Fitness: 9
+Chromosome 5 , Likelihood: 7,2254667 % , Fitness: 9
+Chromosome 6 , Likelihood: 7,2254667 % , Fitness: 9
+Chromosome 7 , Likelihood: 7,2254667 % , Fitness: 9
+Chromosome 8 , Likelihood: 5,9117455 % , Fitness: 11
+Chromosome 9 , Likelihood: 5,9117455 % , Fitness: 11
+Chromosome 10 , Likelihood: 4,33528 % , Fitness: 15
+Chromosome 11 , Likelihood: 7,2254667 % , Fitness: 9
+Chromosome 12 , Likelihood: 7,2254667 % , Fitness: 9
+Chromosome 13 , Likelihood: 5,4191003 % , Fitness: 12
+Chromosome 14 , Likelihood: 9,289886 % , Fitness: 7
+Chromosome 15 , Likelihood: 4,644943 % , Fitness: 14
+Average fitness: 9,5
+
+Generation number = 42
+Chromosome 1 , Likelihood: 5,75842 % , Fitness: 11
+Chromosome 2 , Likelihood: 5,75842 % , Fitness: 11
+Chromosome 3 , Likelihood: 7,9178276 % , Fitness: 8
+Chromosome 4 , Likelihood: 7,038069 % , Fitness: 9
+Chromosome 5 , Likelihood: 9,048946 % , Fitness: 7
+Chromosome 6 , Likelihood: 7,9178276 % , Fitness: 8
+Chromosome 7 , Likelihood: 5,75842 % , Fitness: 11
+Chromosome 8 , Likelihood: 7,038069 % , Fitness: 9
+Chromosome 9 , Likelihood: 6,3342614 % , Fitness: 10
+Chromosome 10 , Likelihood: 6,3342614 % , Fitness: 10
+Chromosome 11 , Likelihood: 5,75842 % , Fitness: 11
+Chromosome 12 , Likelihood: 4,2228417 % , Fitness: 15
+Chromosome 13 , Likelihood: 7,038069 % , Fitness: 9
+Chromosome 14 , Likelihood: 7,038069 % , Fitness: 9
+Chromosome 15 , Likelihood: 7,038069 % , Fitness: 9
+Average fitness: 9,1875
+
+Generation number = 43
+Chromosome 1 , Likelihood: 6,011163 % , Fitness: 9
+Chromosome 2 , Likelihood: 6,011163 % , Fitness: 9
+Chromosome 3 , Likelihood: 6,011163 % , Fitness: 9
+Chromosome 4 , Likelihood: 5,410047 % , Fitness: 10
+Chromosome 5 , Likelihood: 6,011163 % , Fitness: 9
+Chromosome 6 , Likelihood: 5,410047 % , Fitness: 10
+Chromosome 7 , Likelihood: 6,011163 % , Fitness: 9
+Chromosome 8 , Likelihood: 6,762559 % , Fitness: 8
+Chromosome 9 , Likelihood: 4,508373 % , Fitness: 12
+Chromosome 10 , Likelihood: 13,525118 % , Fitness: 4
+Chromosome 11 , Likelihood: 5,410047 % , Fitness: 10
+Chromosome 12 , Likelihood: 9,016746 % , Fitness: 6
+Chromosome 13 , Likelihood: 5,410047 % , Fitness: 10
+Chromosome 14 , Likelihood: 6,762559 % , Fitness: 8
+Chromosome 15 , Likelihood: 7,728639 % , Fitness: 7
+Average fitness: 8,125
+
+Generation number = 44
+Chromosome 1 , Likelihood: 4,6373124 % , Fitness: 10
+Chromosome 2 , Likelihood: 5,796641 % , Fitness: 8
+Chromosome 3 , Likelihood: 6,624732 % , Fitness: 7
+Chromosome 4 , Likelihood: 9,274625 % , Fitness: 5
+Chromosome 5 , Likelihood: 4,215739 % , Fitness: 11
+Chromosome 6 , Likelihood: 5,1525693 % , Fitness: 9
+Chromosome 7 , Likelihood: 11,593282 % , Fitness: 4
+Chromosome 8 , Likelihood: 5,796641 % , Fitness: 8
+Chromosome 9 , Likelihood: 4,215739 % , Fitness: 11
+Chromosome 10 , Likelihood: 7,7288547 % , Fitness: 6
+Chromosome 11 , Likelihood: 3,8644273 % , Fitness: 12
+Chromosome 12 , Likelihood: 11,593282 % , Fitness: 4
+Chromosome 13 , Likelihood: 7,7288547 % , Fitness: 6
+Chromosome 14 , Likelihood: 5,1525693 % , Fitness: 9
+Chromosome 15 , Likelihood: 6,624732 % , Fitness: 7
+Average fitness: 7,3125
+
+Generation number = 45
+Chromosome 1 , Likelihood: 5,8977714 % , Fitness: 8
+Chromosome 2 , Likelihood: 6,7403107 % , Fitness: 7
+Chromosome 3 , Likelihood: 4,7182174 % , Fitness: 10
+Chromosome 4 , Likelihood: 5,2424636 % , Fitness: 9
+Chromosome 5 , Likelihood: 7,863696 % , Fitness: 6
+Chromosome 6 , Likelihood: 7,863696 % , Fitness: 6
+Chromosome 7 , Likelihood: 15,727392 % , Fitness: 3
+Chromosome 8 , Likelihood: 5,8977714 % , Fitness: 8
+Chromosome 9 , Likelihood: 3,3701553 % , Fitness: 14
+Chromosome 10 , Likelihood: 4,7182174 % , Fitness: 10
+Chromosome 11 , Likelihood: 4,7182174 % , Fitness: 10
+Chromosome 12 , Likelihood: 6,7403107 % , Fitness: 7
+Chromosome 13 , Likelihood: 5,8977714 % , Fitness: 8
+Chromosome 14 , Likelihood: 6,7403107 % , Fitness: 7
+Chromosome 15 , Likelihood: 7,863696 % , Fitness: 6
+Average fitness: 7,4375
+
+Generation number = 46
+Chromosome 1 , Likelihood: 5,341287 % , Fitness: 9
+Chromosome 2 , Likelihood: 6,86737 % , Fitness: 7
+Chromosome 3 , Likelihood: 6,86737 % , Fitness: 7
+Chromosome 4 , Likelihood: 8,011931 % , Fitness: 6
+Chromosome 5 , Likelihood: 5,341287 % , Fitness: 9
+Chromosome 6 , Likelihood: 9,614317 % , Fitness: 5
+Chromosome 7 , Likelihood: 4,3701444 % , Fitness: 11
+Chromosome 8 , Likelihood: 3,433685 % , Fitness: 14
+Chromosome 9 , Likelihood: 4,3701444 % , Fitness: 11
+Chromosome 10 , Likelihood: 6,86737 % , Fitness: 7
+Chromosome 11 , Likelihood: 8,011931 % , Fitness: 6
+Chromosome 12 , Likelihood: 6,008948 % , Fitness: 8
+Chromosome 13 , Likelihood: 12,017896 % , Fitness: 4
+Chromosome 14 , Likelihood: 6,008948 % , Fitness: 8
+Chromosome 15 , Likelihood: 6,86737 % , Fitness: 7
+Average fitness: 7,4375
+
+Generation number = 47
+Chromosome 1 , Likelihood: 7,7006407 % , Fitness: 6
+Chromosome 2 , Likelihood: 4,2003493 % , Fitness: 11
+Chromosome 3 , Likelihood: 11,550961 % , Fitness: 4
+Chromosome 4 , Likelihood: 6,600549 % , Fitness: 7
+Chromosome 5 , Likelihood: 7,7006407 % , Fitness: 6
+Chromosome 6 , Likelihood: 4,620384 % , Fitness: 10
+Chromosome 7 , Likelihood: 5,7754803 % , Fitness: 8
+Chromosome 8 , Likelihood: 5,1337605 % , Fitness: 9
+Chromosome 9 , Likelihood: 5,1337605 % , Fitness: 9
+Chromosome 10 , Likelihood: 5,1337605 % , Fitness: 9
+Chromosome 11 , Likelihood: 9,240768 % , Fitness: 5
+Chromosome 12 , Likelihood: 5,1337605 % , Fitness: 9
+Chromosome 13 , Likelihood: 5,1337605 % , Fitness: 9
+Chromosome 14 , Likelihood: 9,240768 % , Fitness: 5
+Chromosome 15 , Likelihood: 7,7006407 % , Fitness: 6
+Average fitness: 7,0625
+
+Generation number = 48
+Chromosome 1 , Likelihood: 3,6525447 % , Fitness: 11
+Chromosome 2 , Likelihood: 6,6963315 % , Fitness: 6
+Chromosome 3 , Likelihood: 6,6963315 % , Fitness: 6
+Chromosome 4 , Likelihood: 5,739713 % , Fitness: 7
+Chromosome 5 , Likelihood: 4,464221 % , Fitness: 9
+Chromosome 6 , Likelihood: 10,0444975 % , Fitness: 4
+Chromosome 7 , Likelihood: 5,0222487 % , Fitness: 8
+Chromosome 8 , Likelihood: 8,035598 % , Fitness: 5
+Chromosome 9 , Likelihood: 6,6963315 % , Fitness: 6
+Chromosome 10 , Likelihood: 5,739713 % , Fitness: 7
+Chromosome 11 , Likelihood: 6,6963315 % , Fitness: 6
+Chromosome 12 , Likelihood: 8,035598 % , Fitness: 5
+Chromosome 13 , Likelihood: 6,6963315 % , Fitness: 6
+Chromosome 14 , Likelihood: 10,0444975 % , Fitness: 4
+Chromosome 15 , Likelihood: 5,739713 % , Fitness: 7
+Average fitness: 6,0625
+
+Generation number = 49
+Chromosome 1 , Likelihood: 6,2826233 % , Fitness: 7
+Chromosome 2 , Likelihood: 6,2826233 % , Fitness: 7
+Chromosome 3 , Likelihood: 3,6648636 % , Fitness: 12
+Chromosome 4 , Likelihood: 8,795671 % , Fitness: 5
+Chromosome 5 , Likelihood: 7,329727 % , Fitness: 6
+Chromosome 6 , Likelihood: 8,795671 % , Fitness: 5
+Chromosome 7 , Likelihood: 4,886484 % , Fitness: 9
+Chromosome 8 , Likelihood: 7,329727 % , Fitness: 6
+Chromosome 9 , Likelihood: 4,886484 % , Fitness: 9
+Chromosome 10 , Likelihood: 8,795671 % , Fitness: 5
+Chromosome 11 , Likelihood: 5,4972944 % , Fitness: 8
+Chromosome 12 , Likelihood: 7,329727 % , Fitness: 6
+Chromosome 13 , Likelihood: 8,795671 % , Fitness: 5
+Chromosome 14 , Likelihood: 3,9980326 % , Fitness: 11
+Chromosome 15 , Likelihood: 7,329727 % , Fitness: 6
+Average fitness: 6,6875
+
+Generation number = 50
+Chromosome 1 , Likelihood: 7,356208 % , Fitness: 7
+Chromosome 2 , Likelihood: 10,29869 % , Fitness: 5
+Chromosome 3 , Likelihood: 4,681223 % , Fitness: 11
+Chromosome 4 , Likelihood: 5,7214947 % , Fitness: 9
+Chromosome 5 , Likelihood: 7,356208 % , Fitness: 7
+Chromosome 6 , Likelihood: 5,7214947 % , Fitness: 9
+Chromosome 7 , Likelihood: 3,2183404 % , Fitness: 16
+Chromosome 8 , Likelihood: 6,436681 % , Fitness: 8
+Chromosome 9 , Likelihood: 5,7214947 % , Fitness: 9
+Chromosome 10 , Likelihood: 3,0290265 % , Fitness: 17
+Chromosome 11 , Likelihood: 8,582242 % , Fitness: 6
+Chromosome 12 , Likelihood: 8,582242 % , Fitness: 6
+Chromosome 13 , Likelihood: 7,356208 % , Fitness: 7
+Chromosome 14 , Likelihood: 7,356208 % , Fitness: 7
+Chromosome 15 , Likelihood: 8,582242 % , Fitness: 6
+Average fitness: 8,125
+
+Generation number = 51
+Chromosome 1 , Likelihood: 7,4074073 % , Fitness: 6
+Chromosome 2 , Likelihood: 4,9382715 % , Fitness: 9
+Chromosome 3 , Likelihood: 4,9382715 % , Fitness: 9
+Chromosome 4 , Likelihood: 11,111112 % , Fitness: 4
+Chromosome 5 , Likelihood: 5,555556 % , Fitness: 8
+Chromosome 6 , Likelihood: 5,555556 % , Fitness: 8
+Chromosome 7 , Likelihood: 7,4074073 % , Fitness: 6
+Chromosome 8 , Likelihood: 7,4074073 % , Fitness: 6
+Chromosome 9 , Likelihood: 7,4074073 % , Fitness: 6
+Chromosome 10 , Likelihood: 5,555556 % , Fitness: 8
+Chromosome 11 , Likelihood: 4,9382715 % , Fitness: 9
+Chromosome 12 , Likelihood: 7,4074073 % , Fitness: 6
+Chromosome 13 , Likelihood: 5,555556 % , Fitness: 8
+Chromosome 14 , Likelihood: 7,4074073 % , Fitness: 6
+Chromosome 15 , Likelihood: 7,4074073 % , Fitness: 6
+Average fitness: 6,5625
+
+Generation number = 52
+Chromosome 1 , Likelihood: 6,615215 % , Fitness: 6
+Chromosome 2 , Likelihood: 7,9382577 % , Fitness: 5
+Chromosome 3 , Likelihood: 6,615215 % , Fitness: 6
+Chromosome 4 , Likelihood: 6,615215 % , Fitness: 6
+Chromosome 5 , Likelihood: 3,9691288 % , Fitness: 10
+Chromosome 6 , Likelihood: 9,922822 % , Fitness: 4
+Chromosome 7 , Likelihood: 4,961411 % , Fitness: 8
+Chromosome 8 , Likelihood: 6,615215 % , Fitness: 6
+Chromosome 9 , Likelihood: 4,410143 % , Fitness: 9
+Chromosome 10 , Likelihood: 7,9382577 % , Fitness: 5
+Chromosome 11 , Likelihood: 6,615215 % , Fitness: 6
+Chromosome 12 , Likelihood: 6,615215 % , Fitness: 6
+Chromosome 13 , Likelihood: 6,615215 % , Fitness: 6
+Chromosome 14 , Likelihood: 7,9382577 % , Fitness: 5
+Chromosome 15 , Likelihood: 6,615215 % , Fitness: 6
+Average fitness: 5,875
+
+Generation number = 53
+Chromosome 1 , Likelihood: 9,110628 % , Fitness: 4
+Chromosome 2 , Likelihood: 5,2060733 % , Fitness: 7
+Chromosome 3 , Likelihood: 6,0737524 % , Fitness: 6
+Chromosome 4 , Likelihood: 7,2885027 % , Fitness: 5
+Chromosome 5 , Likelihood: 7,2885027 % , Fitness: 5
+Chromosome 6 , Likelihood: 6,0737524 % , Fitness: 6
+Chromosome 7 , Likelihood: 5,2060733 % , Fitness: 7
+Chromosome 8 , Likelihood: 6,0737524 % , Fitness: 6
+Chromosome 9 , Likelihood: 7,2885027 % , Fitness: 5
+Chromosome 10 , Likelihood: 4,555314 % , Fitness: 8
+Chromosome 11 , Likelihood: 7,2885027 % , Fitness: 5
+Chromosome 12 , Likelihood: 6,0737524 % , Fitness: 6
+Chromosome 13 , Likelihood: 7,2885027 % , Fitness: 5
+Chromosome 14 , Likelihood: 9,110628 % , Fitness: 4
+Chromosome 15 , Likelihood: 6,0737524 % , Fitness: 6
+Average fitness: 5,3125
+
+Generation number = 54
+Chromosome 1 , Likelihood: 7,112617 % , Fitness: 5
+Chromosome 2 , Likelihood: 8,890771 % , Fitness: 4
+Chromosome 3 , Likelihood: 7,112617 % , Fitness: 5
+Chromosome 4 , Likelihood: 5,927181 % , Fitness: 6
+Chromosome 5 , Likelihood: 8,890771 % , Fitness: 4
+Chromosome 6 , Likelihood: 5,0804405 % , Fitness: 7
+Chromosome 7 , Likelihood: 5,927181 % , Fitness: 6
+Chromosome 8 , Likelihood: 5,927181 % , Fitness: 6
+Chromosome 9 , Likelihood: 7,112617 % , Fitness: 5
+Chromosome 10 , Likelihood: 7,112617 % , Fitness: 5
+Chromosome 11 , Likelihood: 5,927181 % , Fitness: 6
+Chromosome 12 , Likelihood: 5,927181 % , Fitness: 6
+Chromosome 13 , Likelihood: 8,890771 % , Fitness: 4
+Chromosome 14 , Likelihood: 5,0804405 % , Fitness: 7
+Chromosome 15 , Likelihood: 5,0804405 % , Fitness: 7
+Average fitness: 5,1875
+
+Generation number = 55
+Chromosome 1 , Likelihood: 7,560756 % , Fitness: 5
+Chromosome 2 , Likelihood: 5,4005404 % , Fitness: 7
+Chromosome 3 , Likelihood: 6,3006306 % , Fitness: 6
+Chromosome 4 , Likelihood: 6,3006306 % , Fitness: 6
+Chromosome 5 , Likelihood: 7,560756 % , Fitness: 5
+Chromosome 6 , Likelihood: 6,3006306 % , Fitness: 6
+Chromosome 7 , Likelihood: 6,3006306 % , Fitness: 6
+Chromosome 8 , Likelihood: 5,4005404 % , Fitness: 7
+Chromosome 9 , Likelihood: 6,3006306 % , Fitness: 6
+Chromosome 10 , Likelihood: 7,560756 % , Fitness: 5
+Chromosome 11 , Likelihood: 9,450945 % , Fitness: 4
+Chromosome 12 , Likelihood: 7,560756 % , Fitness: 5
+Chromosome 13 , Likelihood: 6,3006306 % , Fitness: 6
+Chromosome 14 , Likelihood: 6,3006306 % , Fitness: 6
+Chromosome 15 , Likelihood: 5,4005404 % , Fitness: 7
+Average fitness: 5,4375
+
+Generation number = 56
+Chromosome 1 , Likelihood: 10,156485 % , Fitness: 5
+Chromosome 2 , Likelihood: 3,1739016 % , Fitness: 16
+Chromosome 3 , Likelihood: 8,4637375 % , Fitness: 6
+Chromosome 4 , Likelihood: 5,6424913 % , Fitness: 9
+Chromosome 5 , Likelihood: 8,4637375 % , Fitness: 6
+Chromosome 6 , Likelihood: 5,0782423 % , Fitness: 10
+Chromosome 7 , Likelihood: 5,6424913 % , Fitness: 9
+Chromosome 8 , Likelihood: 7,2546325 % , Fitness: 7
+Chromosome 9 , Likelihood: 8,4637375 % , Fitness: 6
+Chromosome 10 , Likelihood: 7,2546325 % , Fitness: 7
+Chromosome 11 , Likelihood: 6,347803 % , Fitness: 8
+Chromosome 12 , Likelihood: 3,9063406 % , Fitness: 13
+Chromosome 13 , Likelihood: 5,6424913 % , Fitness: 9
+Chromosome 14 , Likelihood: 7,2546325 % , Fitness: 7
+Chromosome 15 , Likelihood: 7,2546325 % , Fitness: 7
+Average fitness: 7,8125
+
+Generation number = 57
+Chromosome 1 , Likelihood: 6,8153515 % , Fitness: 7
+Chromosome 2 , Likelihood: 9,541492 % , Fitness: 5
+Chromosome 3 , Likelihood: 3,975622 % , Fitness: 12
+Chromosome 4 , Likelihood: 5,963433 % , Fitness: 8
+Chromosome 5 , Likelihood: 6,8153515 % , Fitness: 7
+Chromosome 6 , Likelihood: 7,951244 % , Fitness: 6
+Chromosome 7 , Likelihood: 6,8153515 % , Fitness: 7
+Chromosome 8 , Likelihood: 7,951244 % , Fitness: 6
+Chromosome 9 , Likelihood: 9,541492 % , Fitness: 5
+Chromosome 10 , Likelihood: 7,951244 % , Fitness: 6
+Chromosome 11 , Likelihood: 3,6698048 % , Fitness: 13
+Chromosome 12 , Likelihood: 6,8153515 % , Fitness: 7
+Chromosome 13 , Likelihood: 9,541492 % , Fitness: 5
+Chromosome 14 , Likelihood: 3,6698048 % , Fitness: 13
+Chromosome 15 , Likelihood: 2,9817164 % , Fitness: 16
+Average fitness: 7,6875
+
+Generation number = 58
+Chromosome 1 , Likelihood: 7,7716274 % , Fitness: 6
+Chromosome 2 , Likelihood: 4,2390695 % , Fitness: 11
+Chromosome 3 , Likelihood: 6,661395 % , Fitness: 7
+Chromosome 4 , Likelihood: 4,2390695 % , Fitness: 11
+Chromosome 5 , Likelihood: 7,7716274 % , Fitness: 6
+Chromosome 6 , Likelihood: 7,7716274 % , Fitness: 6
+Chromosome 7 , Likelihood: 4,2390695 % , Fitness: 11
+Chromosome 8 , Likelihood: 5,8287206 % , Fitness: 8
+Chromosome 9 , Likelihood: 9,325953 % , Fitness: 5
+Chromosome 10 , Likelihood: 5,8287206 % , Fitness: 8
+Chromosome 11 , Likelihood: 6,661395 % , Fitness: 7
+Chromosome 12 , Likelihood: 9,325953 % , Fitness: 5
+Chromosome 13 , Likelihood: 5,8287206 % , Fitness: 8
+Chromosome 14 , Likelihood: 9,325953 % , Fitness: 5
+Chromosome 15 , Likelihood: 5,181085 % , Fitness: 9
+Average fitness: 7,0625
+
+Generation number = 59
+Chromosome 1 , Likelihood: 6,168608 % , Fitness: 7
+Chromosome 2 , Likelihood: 7,1967096 % , Fitness: 6
+Chromosome 3 , Likelihood: 3,5983548 % , Fitness: 12
+Chromosome 4 , Likelihood: 6,168608 % , Fitness: 7
+Chromosome 5 , Likelihood: 5,397532 % , Fitness: 8
+Chromosome 6 , Likelihood: 6,168608 % , Fitness: 7
+Chromosome 7 , Likelihood: 5,397532 % , Fitness: 8
+Chromosome 8 , Likelihood: 8,63605 % , Fitness: 5
+Chromosome 9 , Likelihood: 7,1967096 % , Fitness: 6
+Chromosome 10 , Likelihood: 8,63605 % , Fitness: 5
+Chromosome 11 , Likelihood: 8,63605 % , Fitness: 5
+Chromosome 12 , Likelihood: 4,797806 % , Fitness: 9
+Chromosome 13 , Likelihood: 6,168608 % , Fitness: 7
+Chromosome 14 , Likelihood: 8,63605 % , Fitness: 5
+Chromosome 15 , Likelihood: 7,1967096 % , Fitness: 6
+Average fitness: 6,4375
+
+Generation number = 60
+Chromosome 1 , Likelihood: 5,454545 % , Fitness: 7
+Chromosome 2 , Likelihood: 6,363636 % , Fitness: 6
+Chromosome 3 , Likelihood: 7,636363 % , Fitness: 5
+Chromosome 4 , Likelihood: 4,772727 % , Fitness: 8
+Chromosome 5 , Likelihood: 6,363636 % , Fitness: 6
+Chromosome 6 , Likelihood: 7,636363 % , Fitness: 5
+Chromosome 7 , Likelihood: 9,545454 % , Fitness: 4
+Chromosome 8 , Likelihood: 5,454545 % , Fitness: 7
+Chromosome 9 , Likelihood: 7,636363 % , Fitness: 5
+Chromosome 10 , Likelihood: 9,545454 % , Fitness: 4
+Chromosome 11 , Likelihood: 6,363636 % , Fitness: 6
+Chromosome 12 , Likelihood: 3,181818 % , Fitness: 12
+Chromosome 13 , Likelihood: 4,772727 % , Fitness: 8
+Chromosome 14 , Likelihood: 7,636363 % , Fitness: 5
+Chromosome 15 , Likelihood: 7,636363 % , Fitness: 5
+Average fitness: 5,8125
+
+Generation number = 61
+Chromosome 1 , Likelihood: 6,1358657 % , Fitness: 6
+Chromosome 2 , Likelihood: 9,203798 % , Fitness: 4
+Chromosome 3 , Likelihood: 4,090577 % , Fitness: 9
+Chromosome 4 , Likelihood: 7,3630385 % , Fitness: 5
+Chromosome 5 , Likelihood: 5,2593136 % , Fitness: 7
+Chromosome 6 , Likelihood: 4,090577 % , Fitness: 9
+Chromosome 7 , Likelihood: 4,601899 % , Fitness: 8
+Chromosome 8 , Likelihood: 7,3630385 % , Fitness: 5
+Chromosome 9 , Likelihood: 9,203798 % , Fitness: 4
+Chromosome 10 , Likelihood: 7,3630385 % , Fitness: 5
+Chromosome 11 , Likelihood: 5,2593136 % , Fitness: 7
+Chromosome 12 , Likelihood: 7,3630385 % , Fitness: 5
+Chromosome 13 , Likelihood: 7,3630385 % , Fitness: 5
+Chromosome 14 , Likelihood: 6,1358657 % , Fitness: 6
+Chromosome 15 , Likelihood: 9,203798 % , Fitness: 4
+Average fitness: 5,5625
+
+Generation number = 62
+Chromosome 1 , Likelihood: 5,5342045 % , Fitness: 7
+Chromosome 2 , Likelihood: 4,8424287 % , Fitness: 8
+Chromosome 3 , Likelihood: 9,684857 % , Fitness: 4
+Chromosome 4 , Likelihood: 7,7478857 % , Fitness: 5
+Chromosome 5 , Likelihood: 4,8424287 % , Fitness: 8
+Chromosome 6 , Likelihood: 5,5342045 % , Fitness: 7
+Chromosome 7 , Likelihood: 9,684857 % , Fitness: 4
+Chromosome 8 , Likelihood: 5,5342045 % , Fitness: 7
+Chromosome 9 , Likelihood: 6,4565716 % , Fitness: 6
+Chromosome 10 , Likelihood: 4,304381 % , Fitness: 9
+Chromosome 11 , Likelihood: 7,7478857 % , Fitness: 5
+Chromosome 12 , Likelihood: 4,8424287 % , Fitness: 8
+Chromosome 13 , Likelihood: 7,7478857 % , Fitness: 5
+Chromosome 14 , Likelihood: 7,7478857 % , Fitness: 5
+Chromosome 15 , Likelihood: 7,7478857 % , Fitness: 5
+Average fitness: 5,8125
+
+Generation number = 63
+Chromosome 1 , Likelihood: 5,6700892 % , Fitness: 10
+Chromosome 2 , Likelihood: 4,3616076 % , Fitness: 13
+Chromosome 3 , Likelihood: 5,154627 % , Fitness: 11
+Chromosome 4 , Likelihood: 4,3616076 % , Fitness: 13
+Chromosome 5 , Likelihood: 5,154627 % , Fitness: 11
+Chromosome 6 , Likelihood: 6,3000994 % , Fitness: 9
+Chromosome 7 , Likelihood: 6,3000994 % , Fitness: 9
+Chromosome 8 , Likelihood: 4,050064 % , Fitness: 14
+Chromosome 9 , Likelihood: 6,3000994 % , Fitness: 9
+Chromosome 10 , Likelihood: 7,087611 % , Fitness: 8
+Chromosome 11 , Likelihood: 8,100128 % , Fitness: 7
+Chromosome 12 , Likelihood: 3,5438056 % , Fitness: 16
+Chromosome 13 , Likelihood: 14,175222 % , Fitness: 4
+Chromosome 14 , Likelihood: 11,3401785 % , Fitness: 5
+Chromosome 15 , Likelihood: 8,100128 % , Fitness: 7
+Average fitness: 9,125
+
+Generation number = 64
+Chromosome 1 , Likelihood: 5,8977714 % , Fitness: 8
+Chromosome 2 , Likelihood: 5,8977714 % , Fitness: 8
+Chromosome 3 , Likelihood: 7,863696 % , Fitness: 6
+Chromosome 4 , Likelihood: 7,863696 % , Fitness: 6
+Chromosome 5 , Likelihood: 5,2424636 % , Fitness: 9
+Chromosome 6 , Likelihood: 5,2424636 % , Fitness: 9
+Chromosome 7 , Likelihood: 5,8977714 % , Fitness: 8
+Chromosome 8 , Likelihood: 5,8977714 % , Fitness: 8
+Chromosome 9 , Likelihood: 5,2424636 % , Fitness: 9
+Chromosome 10 , Likelihood: 5,8977714 % , Fitness: 8
+Chromosome 11 , Likelihood: 11,795543 % , Fitness: 4
+Chromosome 12 , Likelihood: 5,2424636 % , Fitness: 9
+Chromosome 13 , Likelihood: 4,7182174 % , Fitness: 10
+Chromosome 14 , Likelihood: 9,436435 % , Fitness: 5
+Chromosome 15 , Likelihood: 7,863696 % , Fitness: 6
+Average fitness: 7,0625
+
+Generation number = 65
+Chromosome 1 , Likelihood: 5,666643 % , Fitness: 8
+Chromosome 2 , Likelihood: 5,666643 % , Fitness: 8
+Chromosome 3 , Likelihood: 7,5555243 % , Fitness: 6
+Chromosome 4 , Likelihood: 5,666643 % , Fitness: 8
+Chromosome 5 , Likelihood: 11,333286 % , Fitness: 4
+Chromosome 6 , Likelihood: 5,666643 % , Fitness: 8
+Chromosome 7 , Likelihood: 3,7777622 % , Fitness: 12
+Chromosome 8 , Likelihood: 11,333286 % , Fitness: 4
+Chromosome 9 , Likelihood: 9,066628 % , Fitness: 5
+Chromosome 10 , Likelihood: 5,037016 % , Fitness: 9
+Chromosome 11 , Likelihood: 3,487165 % , Fitness: 13
+Chromosome 12 , Likelihood: 6,476164 % , Fitness: 7
+Chromosome 13 , Likelihood: 5,666643 % , Fitness: 8
+Chromosome 14 , Likelihood: 4,533314 % , Fitness: 10
+Chromosome 15 , Likelihood: 9,066628 % , Fitness: 5
+Average fitness: 7,1875
+
+Generation number = 66
+Chromosome 1 , Likelihood: 11,300759 % , Fitness: 4
+Chromosome 2 , Likelihood: 3,2287884 % , Fitness: 14
+Chromosome 3 , Likelihood: 9,040607 % , Fitness: 5
+Chromosome 4 , Likelihood: 3,76692 % , Fitness: 12
+Chromosome 5 , Likelihood: 9,040607 % , Fitness: 5
+Chromosome 6 , Likelihood: 11,300759 % , Fitness: 4
+Chromosome 7 , Likelihood: 5,6503797 % , Fitness: 8
+Chromosome 8 , Likelihood: 9,040607 % , Fitness: 5
+Chromosome 9 , Likelihood: 2,5112798 % , Fitness: 18
+Chromosome 10 , Likelihood: 6,4575768 % , Fitness: 7
+Chromosome 11 , Likelihood: 3,4771569 % , Fitness: 13
+Chromosome 12 , Likelihood: 6,4575768 % , Fitness: 7
+Chromosome 13 , Likelihood: 6,4575768 % , Fitness: 7
+Chromosome 14 , Likelihood: 9,040607 % , Fitness: 5
+Chromosome 15 , Likelihood: 3,2287884 % , Fitness: 14
+Average fitness: 8
+
+Generation number = 67
+Chromosome 1 , Likelihood: 7,6636443 % , Fitness: 4
+Chromosome 2 , Likelihood: 7,6636443 % , Fitness: 4
+Chromosome 3 , Likelihood: 6,1309156 % , Fitness: 5
+Chromosome 4 , Likelihood: 4,3792257 % , Fitness: 7
+Chromosome 5 , Likelihood: 6,1309156 % , Fitness: 5
+Chromosome 6 , Likelihood: 1,6133988 % , Fitness: 19
+Chromosome 7 , Likelihood: 4,3792257 % , Fitness: 7
+Chromosome 8 , Likelihood: 4,3792257 % , Fitness: 7
+Chromosome 9 , Likelihood: 10,218193 % , Fitness: 3
+Chromosome 10 , Likelihood: 4,3792257 % , Fitness: 7
+Chromosome 11 , Likelihood: 2,1896129 % , Fitness: 14
+Chromosome 12 , Likelihood: 15,327289 % , Fitness: 2
+Chromosome 13 , Likelihood: 7,6636443 % , Fitness: 4
+Chromosome 14 , Likelihood: 10,218193 % , Fitness: 3
+Chromosome 15 , Likelihood: 7,6636443 % , Fitness: 4
+Average fitness: 5,9375
+
+Generation number = 68
+Chromosome 1 , Likelihood: 5,2369075 % , Fitness: 5
+Chromosome 2 , Likelihood: 3,7406485 % , Fitness: 7
+Chromosome 3 , Likelihood: 3,7406485 % , Fitness: 7
+Chromosome 4 , Likelihood: 8,728179 % , Fitness: 3
+Chromosome 5 , Likelihood: 6,5461345 % , Fitness: 4
+Chromosome 6 , Likelihood: 6,5461345 % , Fitness: 4
+Chromosome 7 , Likelihood: 6,5461345 % , Fitness: 4
+Chromosome 8 , Likelihood: 6,5461345 % , Fitness: 4
+Chromosome 9 , Likelihood: 6,5461345 % , Fitness: 4
+Chromosome 10 , Likelihood: 8,728179 % , Fitness: 3
+Chromosome 11 , Likelihood: 4,3640895 % , Fitness: 6
+Chromosome 12 , Likelihood: 8,728179 % , Fitness: 3
+Chromosome 13 , Likelihood: 4,3640895 % , Fitness: 6
+Chromosome 14 , Likelihood: 6,5461345 % , Fitness: 4
+Chromosome 15 , Likelihood: 13,092269 % , Fitness: 2
+Average fitness: 4,125
+
+Generation number = 69
+Chromosome 1 , Likelihood: 5,0000005 % , Fitness: 4
+Chromosome 2 , Likelihood: 6,666668 % , Fitness: 3
+Chromosome 3 , Likelihood: 10,000001 % , Fitness: 2
+Chromosome 4 , Likelihood: 5,0000005 % , Fitness: 4
+Chromosome 5 , Likelihood: 10,000001 % , Fitness: 2
+Chromosome 6 , Likelihood: 5,0000005 % , Fitness: 4
+Chromosome 7 , Likelihood: 6,666668 % , Fitness: 3
+Chromosome 8 , Likelihood: 6,666668 % , Fitness: 3
+Chromosome 9 , Likelihood: 6,666668 % , Fitness: 3
+Chromosome 10 , Likelihood: 5,0000005 % , Fitness: 4
+Chromosome 11 , Likelihood: 10,000001 % , Fitness: 2
+Chromosome 12 , Likelihood: 5,0000005 % , Fitness: 4
+Chromosome 13 , Likelihood: 10,000001 % , Fitness: 2
+Chromosome 14 , Likelihood: 3,333334 % , Fitness: 6
+Chromosome 15 , Likelihood: 5,0000005 % , Fitness: 4
+Average fitness: 3,125
+
+Generation number = 70
+Chromosome 1 , Likelihood: 10,810809 % , Fitness: 2
+Chromosome 2 , Likelihood: 5,4054046 % , Fitness: 4
+Chromosome 3 , Likelihood: 7,2072067 % , Fitness: 3
+Chromosome 4 , Likelihood: 5,4054046 % , Fitness: 4
+Chromosome 5 , Likelihood: 7,2072067 % , Fitness: 3
+Chromosome 6 , Likelihood: 3,6036034 % , Fitness: 6
+Chromosome 7 , Likelihood: 5,4054046 % , Fitness: 4
+Chromosome 8 , Likelihood: 7,2072067 % , Fitness: 3
+Chromosome 9 , Likelihood: 10,810809 % , Fitness: 2
+Chromosome 10 , Likelihood: 5,4054046 % , Fitness: 4
+Chromosome 11 , Likelihood: 5,4054046 % , Fitness: 4
+Chromosome 12 , Likelihood: 2,7027023 % , Fitness: 8
+Chromosome 13 , Likelihood: 10,810809 % , Fitness: 2
+Chromosome 14 , Likelihood: 5,4054046 % , Fitness: 4
+Chromosome 15 , Likelihood: 7,2072067 % , Fitness: 3
+Average fitness: 3,5
+
+Generation number = 71
+Chromosome 1 , Likelihood: 1,8274024 % , Fitness: 12
+Chromosome 2 , Likelihood: 10,964414 % , Fitness: 2
+Chromosome 3 , Likelihood: 5,482207 % , Fitness: 4
+Chromosome 4 , Likelihood: 10,964414 % , Fitness: 2
+Chromosome 5 , Likelihood: 5,482207 % , Fitness: 4
+Chromosome 6 , Likelihood: 5,482207 % , Fitness: 4
+Chromosome 7 , Likelihood: 10,964414 % , Fitness: 2
+Chromosome 8 , Likelihood: 10,964414 % , Fitness: 2
+Chromosome 9 , Likelihood: 1,1541488 % , Fitness: 19
+Chromosome 10 , Likelihood: 1,9935299 % , Fitness: 11
+Chromosome 11 , Likelihood: 10,964414 % , Fitness: 2
+Chromosome 12 , Likelihood: 10,964414 % , Fitness: 2
+Chromosome 13 , Likelihood: 3,6548047 % , Fitness: 6
+Chromosome 14 , Likelihood: 7,3096094 % , Fitness: 3
+Chromosome 15 , Likelihood: 1,8274024 % , Fitness: 12
+Average fitness: 5,4375
+
+Generation number = 72
+Chromosome 1 , Likelihood: 9,183673 % , Fitness: 2
+Chromosome 2 , Likelihood: 4,5918365 % , Fitness: 4
+Chromosome 3 , Likelihood: 4,5918365 % , Fitness: 4
+Chromosome 4 , Likelihood: 9,183673 % , Fitness: 2
+Chromosome 5 , Likelihood: 9,183673 % , Fitness: 2
+Chromosome 6 , Likelihood: 6,122449 % , Fitness: 3
+Chromosome 7 , Likelihood: 3,0612245 % , Fitness: 6
+Chromosome 8 , Likelihood: 4,5918365 % , Fitness: 4
+Chromosome 9 , Likelihood: 2,0408163 % , Fitness: 9
+Chromosome 10 , Likelihood: 9,183673 % , Fitness: 2
+Chromosome 11 , Likelihood: 6,122449 % , Fitness: 3
+Chromosome 12 , Likelihood: 9,183673 % , Fitness: 2
+Chromosome 13 , Likelihood: 4,5918365 % , Fitness: 4
+Chromosome 14 , Likelihood: 9,183673 % , Fitness: 2
+Chromosome 15 , Likelihood: 9,183673 % , Fitness: 2
+Average fitness: 3,1875
+
+Generation number = 73
+Chromosome 1 , Likelihood: 8,695652 % , Fitness: 2
+Chromosome 2 , Likelihood: 5,7971015 % , Fitness: 3
+Chromosome 3 , Likelihood: 8,695652 % , Fitness: 2
+Chromosome 4 , Likelihood: 2,8985507 % , Fitness: 6
+Chromosome 5 , Likelihood: 4,347826 % , Fitness: 4
+Chromosome 6 , Likelihood: 4,347826 % , Fitness: 4
+Chromosome 7 , Likelihood: 4,347826 % , Fitness: 4
+Chromosome 8 , Likelihood: 4,347826 % , Fitness: 4
+Chromosome 9 , Likelihood: 8,695652 % , Fitness: 2
+Chromosome 10 , Likelihood: 8,695652 % , Fitness: 2
+Chromosome 11 , Likelihood: 4,347826 % , Fitness: 4
+Chromosome 12 , Likelihood: 8,695652 % , Fitness: 2
+Chromosome 13 , Likelihood: 8,695652 % , Fitness: 2
+Chromosome 14 , Likelihood: 8,695652 % , Fitness: 2
+Chromosome 15 , Likelihood: 8,695652 % , Fitness: 2
+Average fitness: 2,8125
+
+Generation number = 74
+Chromosome 1 , Likelihood: 4,878049 % , Fitness: 3
+Chromosome 2 , Likelihood: 7,317073 % , Fitness: 2
+Chromosome 3 , Likelihood: 7,317073 % , Fitness: 2
+Chromosome 4 , Likelihood: 7,317073 % , Fitness: 2
+Chromosome 5 , Likelihood: 7,317073 % , Fitness: 2
+Chromosome 6 , Likelihood: 7,317073 % , Fitness: 2
+Chromosome 7 , Likelihood: 7,317073 % , Fitness: 2
+Chromosome 8 , Likelihood: 7,317073 % , Fitness: 2
+Chromosome 9 , Likelihood: 7,317073 % , Fitness: 2
+Chromosome 10 , Likelihood: 3,6585364 % , Fitness: 4
+Chromosome 11 , Likelihood: 3,6585364 % , Fitness: 4
+Chromosome 12 , Likelihood: 7,317073 % , Fitness: 2
+Chromosome 13 , Likelihood: 7,317073 % , Fitness: 2
+Chromosome 14 , Likelihood: 7,317073 % , Fitness: 2
+Chromosome 15 , Likelihood: 7,317073 % , Fitness: 2
+Average fitness: 2,1875
+
+Generation number = 75
+Chromosome 1 , Likelihood: 8,021391 % , Fitness: 2
+Chromosome 2 , Likelihood: 5,347594 % , Fitness: 3
+Chromosome 3 , Likelihood: 8,021391 % , Fitness: 2
+Chromosome 4 , Likelihood: 8,021391 % , Fitness: 2
+Chromosome 5 , Likelihood: 8,021391 % , Fitness: 2
+Chromosome 6 , Likelihood: 8,021391 % , Fitness: 2
+Chromosome 7 , Likelihood: 8,021391 % , Fitness: 2
+Chromosome 8 , Likelihood: 8,021391 % , Fitness: 2
+Chromosome 9 , Likelihood: 3,2085564 % , Fitness: 5
+Chromosome 10 , Likelihood: 8,021391 % , Fitness: 2
+Chromosome 11 , Likelihood: 8,021391 % , Fitness: 2
+Chromosome 12 , Likelihood: 4,0106955 % , Fitness: 4
+Chromosome 13 , Likelihood: 8,021391 % , Fitness: 2
+Chromosome 14 , Likelihood: 4,0106955 % , Fitness: 4
+Chromosome 15 , Likelihood: 3,2085564 % , Fitness: 5
+Average fitness: 2,5625
+
+Generation number = 76
+Chromosome 1 , Likelihood: 10,343107 % , Fitness: 2
+Chromosome 2 , Likelihood: 2,298468 % , Fitness: 9
+Chromosome 3 , Likelihood: 10,343107 % , Fitness: 2
+Chromosome 4 , Likelihood: 10,343107 % , Fitness: 2
+Chromosome 5 , Likelihood: 10,343107 % , Fitness: 2
+Chromosome 6 , Likelihood: 1,8805649 % , Fitness: 11
+Chromosome 7 , Likelihood: 1,4775867 % , Fitness: 14
+Chromosome 8 , Likelihood: 10,343107 % , Fitness: 2
+Chromosome 9 , Likelihood: 10,343107 % , Fitness: 2
+Chromosome 10 , Likelihood: 5,1715536 % , Fitness: 4
+Chromosome 11 , Likelihood: 2,9551735 % , Fitness: 7
+Chromosome 12 , Likelihood: 10,343107 % , Fitness: 2
+Chromosome 13 , Likelihood: 1,5912473 % , Fitness: 13
+Chromosome 14 , Likelihood: 10,343107 % , Fitness: 2
+Chromosome 15 , Likelihood: 1,8805649 % , Fitness: 11
+Average fitness: 5,3125
+
+Generation number = 77
+Chromosome 1 , Likelihood: 7,734807 % , Fitness: 2
+Chromosome 2 , Likelihood: 3,8674035 % , Fitness: 4
+Chromosome 3 , Likelihood: 7,734807 % , Fitness: 2
+Chromosome 4 , Likelihood: 7,734807 % , Fitness: 2
+Chromosome 5 , Likelihood: 7,734807 % , Fitness: 2
+Chromosome 6 , Likelihood: 1,1049724 % , Fitness: 14
+Chromosome 7 , Likelihood: 7,734807 % , Fitness: 2
+Chromosome 8 , Likelihood: 7,734807 % , Fitness: 2
+Chromosome 9 , Likelihood: 2,2099447 % , Fitness: 7
+Chromosome 10 , Likelihood: 7,734807 % , Fitness: 2
+Chromosome 11 , Likelihood: 7,734807 % , Fitness: 2
+Chromosome 12 , Likelihood: 7,734807 % , Fitness: 2
+Chromosome 13 , Likelihood: 7,734807 % , Fitness: 2
+Chromosome 14 , Likelihood: 7,734807 % , Fitness: 2
+Chromosome 15 , Likelihood: 7,734807 % , Fitness: 2
+Average fitness: 3,0625
+
+Generation number = 78
+Chromosome 1 , Likelihood: 6,8965516 % , Fitness: 2
+Chromosome 2 , Likelihood: 6,8965516 % , Fitness: 2
+Chromosome 3 , Likelihood: 3,4482758 % , Fitness: 4
+Chromosome 4 , Likelihood: 6,8965516 % , Fitness: 2
+Chromosome 5 , Likelihood: 6,8965516 % , Fitness: 2
+Chromosome 6 , Likelihood: 6,8965516 % , Fitness: 2
+Chromosome 7 , Likelihood: 6,8965516 % , Fitness: 2
+Chromosome 8 , Likelihood: 6,8965516 % , Fitness: 2
+Chromosome 9 , Likelihood: 6,8965516 % , Fitness: 2
+Chromosome 10 , Likelihood: 6,8965516 % , Fitness: 2
+Chromosome 11 , Likelihood: 6,8965516 % , Fitness: 2
+Chromosome 12 , Likelihood: 6,8965516 % , Fitness: 2
+Chromosome 13 , Likelihood: 6,8965516 % , Fitness: 2
+Chromosome 14 , Likelihood: 6,8965516 % , Fitness: 2
+Chromosome 15 , Likelihood: 6,8965516 % , Fitness: 2
+Average fitness: 2
+
+Generation number = 79
+Chromosome 1 , Likelihood: 6,25 % , Fitness: 2
+Chromosome 2 , Likelihood: 12,5 % , Fitness: 1
+Chromosome 3 , Likelihood: 6,25 % , Fitness: 2
+Chromosome 4 , Likelihood: 6,25 % , Fitness: 2
+Chromosome 5 , Likelihood: 6,25 % , Fitness: 2
+Chromosome 6 , Likelihood: 6,25 % , Fitness: 2
+Chromosome 7 , Likelihood: 6,25 % , Fitness: 2
+Chromosome 8 , Likelihood: 6,25 % , Fitness: 2
+Chromosome 9 , Likelihood: 6,25 % , Fitness: 2
+Chromosome 10 , Likelihood: 6,25 % , Fitness: 2
+Chromosome 11 , Likelihood: 6,25 % , Fitness: 2
+Chromosome 12 , Likelihood: 6,25 % , Fitness: 2
+Chromosome 13 , Likelihood: 6,25 % , Fitness: 2
+Chromosome 14 , Likelihood: 6,25 % , Fitness: 2
+Chromosome 15 , Likelihood: 6,25 % , Fitness: 2
+Average fitness: 1,8125
+
+Generation number = 80
+Chromosome 1 , Likelihood: 5,7692304 % , Fitness: 2
+Chromosome 2 , Likelihood: 3,846154 % , Fitness: 3
+Chromosome 3 , Likelihood: 3,846154 % , Fitness: 3
+Chromosome 4 , Likelihood: 11,538461 % , Fitness: 1
+Chromosome 5 , Likelihood: 5,7692304 % , Fitness: 2
+Chromosome 6 , Likelihood: 11,538461 % , Fitness: 1
+Chromosome 7 , Likelihood: 5,7692304 % , Fitness: 2
+Chromosome 8 , Likelihood: 11,538461 % , Fitness: 1
+Chromosome 9 , Likelihood: 5,7692304 % , Fitness: 2
+Chromosome 10 , Likelihood: 5,7692304 % , Fitness: 2
+Chromosome 11 , Likelihood: 5,7692304 % , Fitness: 2
+Chromosome 12 , Likelihood: 5,7692304 % , Fitness: 2
+Chromosome 13 , Likelihood: 5,7692304 % , Fitness: 2
+Chromosome 14 , Likelihood: 5,7692304 % , Fitness: 2
+Chromosome 15 , Likelihood: 5,7692304 % , Fitness: 2
+Average fitness: 1,8125
+
+Generation number = 81
+Chromosome 1 , Likelihood: 6,4252934 % , Fitness: 2
+Chromosome 2 , Likelihood: 3,2126467 % , Fitness: 4
+Chromosome 3 , Likelihood: 6,4252934 % , Fitness: 2
+Chromosome 4 , Likelihood: 2,1417646 % , Fitness: 6
+Chromosome 5 , Likelihood: 12,850587 % , Fitness: 1
+Chromosome 6 , Likelihood: 12,850587 % , Fitness: 1
+Chromosome 7 , Likelihood: 6,4252934 % , Fitness: 2
+Chromosome 8 , Likelihood: 6,4252934 % , Fitness: 2
+Chromosome 9 , Likelihood: 1,8357981 % , Fitness: 7
+Chromosome 10 , Likelihood: 6,4252934 % , Fitness: 2
+Chromosome 11 , Likelihood: 12,850587 % , Fitness: 1
+Chromosome 12 , Likelihood: 6,4252934 % , Fitness: 2
+Chromosome 13 , Likelihood: 1,427843 % , Fitness: 9
+Chromosome 14 , Likelihood: 1,427843 % , Fitness: 9
+Chromosome 15 , Likelihood: 12,850587 % , Fitness: 1
+Average fitness: 3,1875
+
+Generation number = 82
+Chromosome 1 , Likelihood: 4,724409 % , Fitness: 2
+Chromosome 2 , Likelihood: 4,724409 % , Fitness: 2
+Chromosome 3 , Likelihood: 3,1496062 % , Fitness: 3
+Chromosome 4 , Likelihood: 9,448818 % , Fitness: 1
+Chromosome 5 , Likelihood: 9,448818 % , Fitness: 1
+Chromosome 6 , Likelihood: 4,724409 % , Fitness: 2
+Chromosome 7 , Likelihood: 9,448818 % , Fitness: 1
+Chromosome 8 , Likelihood: 4,724409 % , Fitness: 2
+Chromosome 9 , Likelihood: 4,724409 % , Fitness: 2
+Chromosome 10 , Likelihood: 9,448818 % , Fitness: 1
+Chromosome 11 , Likelihood: 9,448818 % , Fitness: 1
+Chromosome 12 , Likelihood: 9,448818 % , Fitness: 1
+Chromosome 13 , Likelihood: 4,724409 % , Fitness: 2
+Chromosome 14 , Likelihood: 9,448818 % , Fitness: 1
+Chromosome 15 , Likelihood: 2,3622046 % , Fitness: 4
+Average fitness: 1,625
+
+Generation number = 83
+Chromosome 1 , Likelihood: 7,8431377 % , Fitness: 1
+Chromosome 2 , Likelihood: 7,8431377 % , Fitness: 1
+Chromosome 3 , Likelihood: 3,9215689 % , Fitness: 2
+Chromosome 4 , Likelihood: 7,8431377 % , Fitness: 1
+Chromosome 5 , Likelihood: 3,9215689 % , Fitness: 2
+Chromosome 6 , Likelihood: 7,8431377 % , Fitness: 1
+Chromosome 7 , Likelihood: 7,8431377 % , Fitness: 1
+Chromosome 8 , Likelihood: 7,8431377 % , Fitness: 1
+Chromosome 9 , Likelihood: 7,8431377 % , Fitness: 1
+Chromosome 10 , Likelihood: 7,8431377 % , Fitness: 1
+Chromosome 11 , Likelihood: 7,8431377 % , Fitness: 1
+Chromosome 12 , Likelihood: 1,9607844 % , Fitness: 4
+Chromosome 13 , Likelihood: 3,9215689 % , Fitness: 2
+Chromosome 14 , Likelihood: 7,8431377 % , Fitness: 1
+Chromosome 15 , Likelihood: 7,8431377 % , Fitness: 1
+Average fitness: 1,3125
+
+Generation number = 84
+Chromosome 1 , Likelihood: 7,1428576 % , Fitness: 1
+Chromosome 2 , Likelihood: 7,1428576 % , Fitness: 1
+Chromosome 3 , Likelihood: 3,5714288 % , Fitness: 2
+Chromosome 4 , Likelihood: 7,1428576 % , Fitness: 1
+Chromosome 5 , Likelihood: 7,1428576 % , Fitness: 1
+Chromosome 6 , Likelihood: 7,1428576 % , Fitness: 1
+Chromosome 7 , Likelihood: 7,1428576 % , Fitness: 1
+Chromosome 8 , Likelihood: 7,1428576 % , Fitness: 1
+Chromosome 9 , Likelihood: 7,1428576 % , Fitness: 1
+Chromosome 10 , Likelihood: 7,1428576 % , Fitness: 1
+Chromosome 11 , Likelihood: 3,5714288 % , Fitness: 2
+Chromosome 12 , Likelihood: 7,1428576 % , Fitness: 1
+Chromosome 13 , Likelihood: 7,1428576 % , Fitness: 1
+Chromosome 14 , Likelihood: 7,1428576 % , Fitness: 1
+Chromosome 15 , Likelihood: 7,1428576 % , Fitness: 1
+Average fitness: 1,0625
+
+Generation number = 85
+Chromosome 1 , Likelihood: 3,4482758 % , Fitness: 2
+Chromosome 2 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 3 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 4 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 5 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 6 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 7 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 8 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 9 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 10 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 11 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 12 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 13 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 14 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 15 , Likelihood: 6,8965516 % , Fitness: 1
+Average fitness: 1
+
+Generation number = 86
+Chromosome 1 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 2 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 3 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 4 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 5 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 6 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 7 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 8 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 9 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 10 , Likelihood: 3,4482758 % , Fitness: 2
+Chromosome 11 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 12 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 13 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 14 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 15 , Likelihood: 6,8965516 % , Fitness: 1
+Average fitness: 1
+
+Generation number = 87
+Chromosome 1 , Likelihood: 8,605356 % , Fitness: 1
+Chromosome 2 , Likelihood: 8,605356 % , Fitness: 1
+Chromosome 3 , Likelihood: 1,0756695 % , Fitness: 8
+Chromosome 4 , Likelihood: 8,605356 % , Fitness: 1
+Chromosome 5 , Likelihood: 8,605356 % , Fitness: 1
+Chromosome 6 , Likelihood: 0,7823051 % , Fitness: 11
+Chromosome 7 , Likelihood: 8,605356 % , Fitness: 1
+Chromosome 8 , Likelihood: 8,605356 % , Fitness: 1
+Chromosome 9 , Likelihood: 8,605356 % , Fitness: 1
+Chromosome 10 , Likelihood: 8,605356 % , Fitness: 1
+Chromosome 11 , Likelihood: 0,6146683 % , Fitness: 14
+Chromosome 12 , Likelihood: 2,8684518 % , Fitness: 3
+Chromosome 13 , Likelihood: 8,605356 % , Fitness: 1
+Chromosome 14 , Likelihood: 8,605356 % , Fitness: 1
+Chromosome 15 , Likelihood: 8,605356 % , Fitness: 1
+Average fitness: 2,9375
+
+Generation number = 88
+Chromosome 1 , Likelihood: 7,737397 % , Fitness: 1
+Chromosome 2 , Likelihood: 7,737397 % , Fitness: 1
+Chromosome 3 , Likelihood: 7,737397 % , Fitness: 1
+Chromosome 4 , Likelihood: 7,737397 % , Fitness: 1
+Chromosome 5 , Likelihood: 7,737397 % , Fitness: 1
+Chromosome 6 , Likelihood: 2,5791326 % , Fitness: 3
+Chromosome 7 , Likelihood: 7,737397 % , Fitness: 1
+Chromosome 8 , Likelihood: 7,737397 % , Fitness: 1
+Chromosome 9 , Likelihood: 7,737397 % , Fitness: 1
+Chromosome 10 , Likelihood: 7,737397 % , Fitness: 1
+Chromosome 11 , Likelihood: 0,7033998 % , Fitness: 11
+Chromosome 12 , Likelihood: 7,737397 % , Fitness: 1
+Chromosome 13 , Likelihood: 7,737397 % , Fitness: 1
+Chromosome 14 , Likelihood: 7,737397 % , Fitness: 1
+Chromosome 15 , Likelihood: 3,8686986 % , Fitness: 2
+Average fitness: 1,75
+
+Generation number = 89
+Chromosome 1 , Likelihood: 2,4096384 % , Fitness: 3
+Chromosome 2 , Likelihood: 7,228915 % , Fitness: 1
+Chromosome 3 , Likelihood: 7,228915 % , Fitness: 1
+Chromosome 4 , Likelihood: 7,228915 % , Fitness: 1
+Chromosome 5 , Likelihood: 7,228915 % , Fitness: 1
+Chromosome 6 , Likelihood: 7,228915 % , Fitness: 1
+Chromosome 7 , Likelihood: 7,228915 % , Fitness: 1
+Chromosome 8 , Likelihood: 3,6144576 % , Fitness: 2
+Chromosome 9 , Likelihood: 7,228915 % , Fitness: 1
+Chromosome 10 , Likelihood: 7,228915 % , Fitness: 1
+Chromosome 11 , Likelihood: 7,228915 % , Fitness: 1
+Chromosome 12 , Likelihood: 7,228915 % , Fitness: 1
+Chromosome 13 , Likelihood: 7,228915 % , Fitness: 1
+Chromosome 14 , Likelihood: 7,228915 % , Fitness: 1
+Chromosome 15 , Likelihood: 7,228915 % , Fitness: 1
+Average fitness: 1,125
+
+Generation number = 90
+Chromosome 1 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 2 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 3 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 4 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 5 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 6 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 7 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 8 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 9 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 10 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 11 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 12 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 13 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 14 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 15 , Likelihood: 6,666667 % , Fitness: 1
+Average fitness: 0,9375
+
+Generation number = 91
+Chromosome 1 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 2 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 3 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 4 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 5 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 6 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 7 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 8 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 9 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 10 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 11 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 12 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 13 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 14 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 15 , Likelihood: 6,666667 % , Fitness: 1
+Average fitness: 0,9375
+
+Generation number = 92
+Chromosome 1 , Likelihood: 7,9260244 % , Fitness: 1
+Chromosome 2 , Likelihood: 7,9260244 % , Fitness: 1
+Chromosome 3 , Likelihood: 7,9260244 % , Fitness: 1
+Chromosome 4 , Likelihood: 7,9260244 % , Fitness: 1
+Chromosome 5 , Likelihood: 7,9260244 % , Fitness: 1
+Chromosome 6 , Likelihood: 7,9260244 % , Fitness: 1
+Chromosome 7 , Likelihood: 7,9260244 % , Fitness: 1
+Chromosome 8 , Likelihood: 1,5852048 % , Fitness: 5
+Chromosome 9 , Likelihood: 2,642008 % , Fitness: 3
+Chromosome 10 , Likelihood: 7,9260244 % , Fitness: 1
+Chromosome 11 , Likelihood: 7,9260244 % , Fitness: 1
+Chromosome 12 , Likelihood: 7,9260244 % , Fitness: 1
+Chromosome 13 , Likelihood: 7,9260244 % , Fitness: 1
+Chromosome 14 , Likelihood: 0,660502 % , Fitness: 12
+Chromosome 15 , Likelihood: 7,9260244 % , Fitness: 1
+Average fitness: 2
+
+Generation number = 93
+Chromosome 1 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 2 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 3 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 4 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 5 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 6 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 7 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 8 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 9 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 10 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 11 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 12 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 13 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 14 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 15 , Likelihood: 6,666667 % , Fitness: 1
+Average fitness: 0,9375
+
+Generation number = 94
+Chromosome 1 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 2 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 3 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 4 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 5 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 6 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 7 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 8 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 9 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 10 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 11 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 12 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 13 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 14 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 15 , Likelihood: 6,666667 % , Fitness: 1
+Average fitness: 0,9375
+
+Generation number = 95
+Chromosome 1 , Likelihood: 0,66445184 % , Fitness: 12
+Chromosome 2 , Likelihood: 7,9734216 % , Fitness: 1
+Chromosome 3 , Likelihood: 7,9734216 % , Fitness: 1
+Chromosome 4 , Likelihood: 7,9734216 % , Fitness: 1
+Chromosome 5 , Likelihood: 7,9734216 % , Fitness: 1
+Chromosome 6 , Likelihood: 7,9734216 % , Fitness: 1
+Chromosome 7 , Likelihood: 7,9734216 % , Fitness: 1
+Chromosome 8 , Likelihood: 0,9966777 % , Fitness: 8
+Chromosome 9 , Likelihood: 7,9734216 % , Fitness: 1
+Chromosome 10 , Likelihood: 2,6578074 % , Fitness: 3
+Chromosome 11 , Likelihood: 7,9734216 % , Fitness: 1
+Chromosome 12 , Likelihood: 7,9734216 % , Fitness: 1
+Chromosome 13 , Likelihood: 7,9734216 % , Fitness: 1
+Chromosome 14 , Likelihood: 7,9734216 % , Fitness: 1
+Chromosome 15 , Likelihood: 7,9734216 % , Fitness: 1
+Average fitness: 2,1875
+
+Generation number = 96
+Chromosome 1 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 2 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 3 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 4 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 5 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 6 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 7 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 8 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 9 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 10 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 11 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 12 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 13 , Likelihood: 3,4482758 % , Fitness: 2
+Chromosome 14 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 15 , Likelihood: 6,8965516 % , Fitness: 1
+Average fitness: 1
+
+Generation number = 97
+Chromosome 1 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 2 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 3 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 4 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 5 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 6 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 7 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 8 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 9 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 10 , Likelihood: 3,4482758 % , Fitness: 2
+Chromosome 11 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 12 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 13 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 14 , Likelihood: 6,8965516 % , Fitness: 1
+Chromosome 15 , Likelihood: 6,8965516 % , Fitness: 1
+Average fitness: 1
+
+Generation number = 98
+Chromosome 1 , Likelihood: 7,5726843 % , Fitness: 1
+Chromosome 2 , Likelihood: 7,5726843 % , Fitness: 1
+Chromosome 3 , Likelihood: 7,5726843 % , Fitness: 1
+Chromosome 4 , Likelihood: 1,0818121 % , Fitness: 7
+Chromosome 5 , Likelihood: 7,5726843 % , Fitness: 1
+Chromosome 6 , Likelihood: 7,5726843 % , Fitness: 1
+Chromosome 7 , Likelihood: 7,5726843 % , Fitness: 1
+Chromosome 8 , Likelihood: 7,5726843 % , Fitness: 1
+Chromosome 9 , Likelihood: 7,5726843 % , Fitness: 1
+Chromosome 10 , Likelihood: 7,5726843 % , Fitness: 1
+Chromosome 11 , Likelihood: 0,47329277 % , Fitness: 16
+Chromosome 12 , Likelihood: 7,5726843 % , Fitness: 1
+Chromosome 13 , Likelihood: 7,5726843 % , Fitness: 1
+Chromosome 14 , Likelihood: 7,5726843 % , Fitness: 1
+Chromosome 15 , Likelihood: 7,5726843 % , Fitness: 1
+Average fitness: 2,25
+
+Generation number = 99
+Chromosome 1 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 2 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 3 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 4 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 5 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 6 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 7 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 8 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 9 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 10 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 11 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 12 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 13 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 14 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 15 , Likelihood: 6,666667 % , Fitness: 1
+Average fitness: 0,9375
+
+Generation number = 100
+Chromosome 1 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 2 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 3 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 4 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 5 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 6 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 7 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 8 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 9 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 10 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 11 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 12 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 13 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 14 , Likelihood: 6,666667 % , Fitness: 1
+Chromosome 15 , Likelihood: 6,666667 % , Fitness: 1
+Average fitness: 0,9375
+
+Generation number = 101
+Chromosome 1 , Likelihood: 8,168028 % , Fitness: 1
+Chromosome 2 , Likelihood: 8,168028 % , Fitness: 1
+Chromosome 3 , Likelihood: 8,168028 % , Fitness: 1
+Chromosome 4 , Likelihood: 0,81680286 % , Fitness: 10
+Chromosome 5 , Likelihood: 8,168028 % , Fitness: 1
+Chromosome 6 , Likelihood: 1,1668612 % , Fitness: 7
+Chromosome 7 , Likelihood: 8,168028 % , Fitness: 1
+Chromosome 8 , Likelihood: 8,168028 % , Fitness: 1
+Chromosome 9 , Likelihood: 8,168028 % , Fitness: 1
+Chromosome 10 , Likelihood: 8,168028 % , Fitness: 1
+Chromosome 11 , Likelihood: 8,168028 % , Fitness: 1
+Chromosome 12 , Likelihood: 8,168028 % , Fitness: 1
+Chromosome 13 , Likelihood: 8,168028 % , Fitness: 1
+Chromosome 14 , Likelihood: 100 % , Fitness: 0 ANSWER FOUND!!!
+Chromosome 15 , Likelihood: 8,168028 % , Fitness: 1
+Average fitness: 1,8125
+
+Found answer:
+CS :
+ Monday :
+  8:30 - 9:50 : free
+  11:40 - 13:00 : free
+  13:30 - 14:50 : Practice, AI, Kirilov, Audience: 2, Group(s): CS4
+  15:00 - 16:20 : free
+  16:30 - 17:50 : Practice, Databases, Vasiliev, Audience: 1, Group(s): CS2
+  18:00 - 19:20 : free
+ Tuesday :
+  8:30 - 9:50 : Practice, Information retrieval, Kirilov, Audience: 5, Group(s): CS4
+  11:40 - 13:00 : Practice, Databases, Genadiev, Audience: 7, Group(s): CS2
+  13:30 - 14:50 : free
+  15:00 - 16:20 : Practice, AI, Ivanov, Audience: 5, Group(s): CS4
+  16:30 - 17:50 : Practice, Databases, Dmitrijev, Audience: 3, Group(s): CS4
+  18:00 - 19:20 : Practice, AI, Kirilov, Audience: 7, Group(s): CS3
+ Wednesday :
+  8:30 - 9:50 : free
+  11:40 - 13:00 : Practice, Databases, Vasiliev, Audience: 3, Group(s): CS1
+  13:30 - 14:50 : free
+  15:00 - 16:20 : free
+  16:30 - 17:50 : Practice, AI, Evgeniev, Audience: 2, Group(s): CS1
+  18:00 - 19:20 : free
+ Thursday :
+  8:30 - 9:50 : Practice, Information retrieval, Kirilov, Audience: 8, Group(s): CS4
+  11:40 - 13:00 : free
+  13:30 - 14:50 : free
+  15:00 - 16:20 : Lecture, Information retrieval, Ivanov, Audience: 7, Group(s): CS1, CS2, CS3, CS4, CS4
+  16:30 - 17:50 : free
+  18:00 - 19:20 : Practice, AI, Vasiliev, Audience: 1, Group(s): CS2
+ Friday :
+  8:30 - 9:50 : free
+  11:40 - 13:00 : Lecture, AI, Olegov, Audience: 4, Group(s): CS1, CS2, CS3, CS4, CS4
+  13:30 - 14:50 : free
+  15:00 - 16:20 : Practice, AI, Genadiev, Audience: 6, Group(s): CS2
+  16:30 - 17:50 : free
+  18:00 - 19:20 : Practice, Information retrieval, Petrov, Audience: 7, Group(s): CS1
+SE :
+ Monday :
+  8:30 - 9:50 : free
+  11:40 - 13:00 : free
+  13:30 - 14:50 : free
+  15:00 - 16:20 : Practice, Web programming, Olegov, Audience: 2, Group(s): SE3
+  16:30 - 17:50 : free
+  18:00 - 19:20 : Practice, OOP, Ivanov, Audience: 7, Group(s): SE1
+ Tuesday :
+  8:30 - 9:50 : Practice, Machine learning, Vasiliev, Audience: 6, Group(s): SE1
+  11:40 - 13:00 : Practice, Databases, Vasiliev, Audience: 8, Group(s): SE2
+  13:30 - 14:50 : Lecture, Databases, Petrov, Audience: 4, Group(s): SE1, SE2, SE3, SE4
+  15:00 - 16:20 : Lecture, Machine learning, Vasiliev, Audience: 7, Group(s): SE1, SE2, SE3, SE4
+  16:30 - 17:50 : free
+  18:00 - 19:20 : free
+ Wednesday :
+  8:30 - 9:50 : free
+  11:40 - 13:00 : free
+  13:30 - 14:50 : Practice, OOP, Ivanov, Audience: 4, Group(s): SE2
+  15:00 - 16:20 : Practice, Machine learning, Evgeniev, Audience: 3, Group(s): SE3
+  16:30 - 17:50 : Practice, Web programming, Andrejev, Audience: 9, Group(s): SE3
+  18:00 - 19:20 : Lecture, OOP, Andrejev, Audience: 4, Group(s): SE1, SE2, SE3, SE4
+ Thursday :
+  8:30 - 9:50 : free
+  11:40 - 13:00 : Lecture, Web programming, Kirilov, Audience: 2, Group(s): SE1, SE2, SE3, SE4
+  13:30 - 14:50 : free
+  15:00 - 16:20 : free
+  16:30 - 17:50 : free
+  18:00 - 19:20 : free
+ Friday :
+  8:30 - 9:50 : Practice, OOP, Andrejev, Audience: 1, Group(s): SE1
+  11:40 - 13:00 : Practice, Machine learning, Andrejev, Audience: 7, Group(s): SE1
+  13:30 - 14:50 : free
+  15:00 - 16:20 : free
+  16:30 - 17:50 : free
+  18:00 - 19:20 : free
+AP :
+ Monday :
+  8:30 - 9:50 : Lecture, Information retrieval, Ivanov, Audience: 2, Group(s): AP1, AP2, AP3
+  11:40 - 13:00 : free
+  13:30 - 14:50 : free
+  15:00 - 16:20 : free
+  16:30 - 17:50 : free
+  18:00 - 19:20 : Lecture, Databases, Petrov, Audience: 2, Group(s): AP1, AP2, AP3
+ Tuesday :
+  8:30 - 9:50 : free
+  11:40 - 13:00 : free
+  13:30 - 14:50 : Practice, Databases, Vasiliev, Audience: 7, Group(s): AP2
+  15:00 - 16:20 : Lecture, Databases, Petrov, Audience: 6, Group(s): AP1, AP2, AP3
+  16:30 - 17:50 : Lecture, AI, Olegov, Audience: 1, Group(s): AP1, AP2, AP3
+  18:00 - 19:20 : free
+ Wednesday :
+  8:30 - 9:50 : free
+  11:40 - 13:00 : free
+  13:30 - 14:50 : free
+  15:00 - 16:20 : free
+  16:30 - 17:50 : free
+  18:00 - 19:20 : free
+ Thursday :
+  8:30 - 9:50 : Practice, Databases, Evgeniev, Audience: 2, Group(s): AP1
+  11:40 - 13:00 : free
+  13:30 - 14:50 : Practice, Information retrieval, Petrov, Audience: 6, Group(s): AP3
+  15:00 - 16:20 : free
+  16:30 - 17:50 : Lecture, Databases, Petrov, Audience: 3, Group(s): AP1, AP2, AP3
+  18:00 - 19:20 : Practice, Databases, Petrov, Audience: 8, Group(s): AP2
+ Friday :
+  8:30 - 9:50 : free
+  11:40 - 13:00 : free
+  13:30 - 14:50 : free
+  15:00 - 16:20 : free
+  16:30 - 17:50 : Practice, OOP, Kirilov, Audience: 7, Group(s): AP2
+  18:00 - 19:20 : free

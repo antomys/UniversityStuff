@@ -1,0 +1,43 @@
+{
+    "Subject_lecturer": {
+        "Methods of system modelling": "Voloshuk",
+        "EEPM": "Korobova",
+        "Machine learning": "Ryabokon",
+        "Algorithms": "Taranukha",
+        "AI": "Bobyl",
+        "Enterpreneurship": "Somebody"
+    },
+    "Teacher": [ "Voloshuk", "Korobova", "Taranukha", "Bobyl" ],
+
+    "Audience": [ 1, 2],
+    "AudienceForLectures": [ 1 ],
+
+    "WorkingDays": [ "Monday", "Tuesday"],
+
+
+    "Subject": [ "Methods of system modelling", "EEPM", "Machine learning", "Algorithms", "AI", "Enterpreneurship" ],
+
+    "Specialty": [ "MI", "TK"],
+    "MI_groups": [ "MI1", "MI2" ],
+    "TK_groups": [ "TK1", "TK2" ],
+
+    "MI_subjects": [ "Methods of system modelling", "EEPM"],
+    "TK_subjects": [ "Methods of system modelling", "EEPM" ],
+
+    "Lessons_time": [ "8:30 - 9:50", "11:40 - 13:00", "13:30 - 14:50" ],
+
+    "MI1": [ "Student1", "Student2", "Student3" ],
+    "MI2": [ "Student4", "Student5" ],
+    "MI3": [ "Student6", "Student7", "Student8" ],
+    "MI4": [ "Student9", "Student10" ],
+
+    "TK1": [ "Student11", "Student12", "Student13" ],
+    "TK2": [ "Student14", "Student15" ],
+    "TK3": [ "Student16", "Student17", "Student18" ],
+    "TK4": [ "Student19", "Student20" ],
+
+    "AP1": [ "Student21", "Student22", "Student23" ],
+    "AP2": [ "Student24", "Student25" ],
+    "AP3": [ "Student26", "Student27", "Student28" ]
+
+}
