@@ -1,18 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Scheduling.Entities
+﻿namespace Scheduling.Entities
 {
-    class Subject
+    internal class Subject
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public int TimesPerWeek { get; set; }
-        public bool IsLab { get; set; }
-
         public Subject(int _Id, string _Name, int _TimesPerWeek, bool _IsLab)
         {
             Id = _Id;
@@ -20,5 +9,10 @@ namespace Scheduling.Entities
             TimesPerWeek = _TimesPerWeek;
             IsLab = _IsLab;
         }
+
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public int TimesPerWeek { get; set; }
+        public bool IsLab { get; set; }
     }
 }

@@ -1,19 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace Scheduling.Entities
 {
-    class Data
+    internal class Data
     {
-        public List<Group> Groups { get; set; }
-        public List<Room> Rooms { get; set; }
-        public List<Subject> Subjects { get; set; }
-        public List<Teacher> Teachers { get; set; }
-        public List<TimeSlot> TimeSlots { get; set; }
-
         public Data()
         {
             Groups = new List<Group>();
@@ -59,8 +49,12 @@ namespace Scheduling.Entities
             TimeSlots.Add(new TimeSlot(14, "Thu", "10:35-12:10"));
             TimeSlots.Add(new TimeSlot(15, "Thu", "12:20-13:55"));
             TimeSlots.Add(new TimeSlot(16, "Thu", "14:05-15:45"));
-
         }
 
+        public List<Group> Groups { get; set; }
+        public List<Room> Rooms { get; set; }
+        public List<Subject> Subjects { get; set; }
+        public List<Teacher> Teachers { get; set; }
+        public List<TimeSlot> TimeSlots { get; set; }
     }
 }

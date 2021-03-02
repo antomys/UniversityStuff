@@ -1,31 +1,29 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Scheduling.Entities;
 
 namespace Scheduling.Algorithm
 {
-    class Population
+    internal class Population
     {
-        public List<Tuple<Shedule, int>> shedules { get; set; }
-
         public Population()
         {
-            shedules = new List<Tuple<Shedule, int>>();
+            shedules = new List<Tuple<Timetable, int>>();
         }
 
         public Population(Data data, int PopulationSize, Random rand)
         {
-            shedules = new List<Tuple<Shedule, int>>();
+            shedules = new List<Tuple<Timetable, int>>();
 
-            for (int i = 0; i<PopulationSize; ++i)
+            for (var i = 0; i < PopulationSize; ++i)
             {
-                Shedule s = new Shedule(data, rand);
-                shedules.Add(new Tuple<Shedule, int>(s, s.GetConflictsCount()));
+                var s = new Timetable(data, rand);
+                shedules.Add(new Tuple<Timetable, int>(s, s.GetConflictsCount()));
             }
         }
+
+        public List<Tuple<Timetable, int>> shedules { get; set; }
 
         public void Sort()
         {
