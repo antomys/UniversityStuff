@@ -31,8 +31,8 @@ namespace TimetableCSP
 
         private const bool RANDOM_VARS_ORDER = false;
 
-        private const VarPickingHeuristic _pickingVarHeuristic = VarPickingHeuristic.NONE;
-        private const ValuePickingHeuristic _pickingValueHeuristic = ValuePickingHeuristic.NONE;
+        private const VarPickingHeuristic _pickingVarHeuristic = VarPickingHeuristic.LDH;
+        private const ValuePickingHeuristic _pickingValueHeuristic = ValuePickingHeuristic.LCV;
         private const FilteringHeuristic _filteringHeuristic = FilteringHeuristic.ForwardChecking;
         private int _allSteps;
         private int _backSteps;

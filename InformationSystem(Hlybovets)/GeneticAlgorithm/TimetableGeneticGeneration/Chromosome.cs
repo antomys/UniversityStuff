@@ -11,7 +11,7 @@ namespace TimetableGeneticGeneration
     {
         private Dictionary<String, WorkingWeek> _timetable;
 
-        private float _deviation = 0;  //deviation from normal timetable (if deviation is 0 that's a correct timetable)
+        private float _deviation = 0;  //if deviation is 0 that's a correct timetable
         private float _likelihood = 0;
 
         public float Deviation

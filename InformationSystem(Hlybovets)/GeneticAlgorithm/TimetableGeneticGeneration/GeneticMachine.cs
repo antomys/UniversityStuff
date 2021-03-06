@@ -36,7 +36,7 @@ namespace TimetableGeneticGeneration
 
         }
 
-        private void LoadStaticLimitations(String dataFilename)  //static limitations load here
+        private void LoadStaticLimitations(String dataFilename)  //static limitations
         {
             Utilities.LoadLectureAudiences(dataFilename);
             Utilities.LoadRequiredLessonsSet(dataFilename);
