@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="out1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Bluck/out/DFS.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bluck/out/Bluck.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bluck/out/parcs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

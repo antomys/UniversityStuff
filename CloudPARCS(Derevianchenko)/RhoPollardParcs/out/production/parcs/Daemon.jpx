@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--JBuilder XML Project-->
+<project>
+  <property category="debug.0" name="SmartStepRedefineClasses" value="0"/>
+  <property category="debug.0" name="SmartStepSkipStaticInitializers" value="0"/>
+  <property category="debug.0" name="SmartStepSkipSynthetics" value="0"/>
+  <property category="generalFormatting" name="continuationIndent" value="2"/>
+  <property category="generalFormatting" name="tabSize" value="2"/>
+  <property category="generalFormatting" name="useTabChar" value="1"/>
+  <property category="idl" name="ProcessIDL" value="false"/>
+  <property category="javaFormatting" name="alignMultilineParenthesis" value="0"/>
+  <property category="javaFormatting" name="spaceAfterTypecast" value="0"/>
+  <property category="javadoc" name="custom.tags.1" value="todo;a;To Do:"/>
+  <property category="optimize.0" name="OptimizableType" value="intuitive.ide.borland.jb10.ProfilerBootstrap"/>
+  <property category="optimize.0" name="oicc.FilterFile" value="C:\Diplombak\Daemon\Daemon.oif"/>
+  <property category="optimize.0" name="oipr.FilterFile" value="C:\Diplombak\Daemon\Daemon.oif"/>
+  <property category="runtime.0" name="BuildTargetOnRun" value="com.borland.jbuilder.build.ProjectBuilder$ProjectBuildAction;make"/>
+  <property category="runtime.0" name="ConfigurationName" value="Daemon Runtime Configuration1"/>
+  <property category="runtime.0" name="RunnableType" value="com.borland.jbuilder.runtime.ApplicationRunner"/>
+  <property category="runtime.0" name="application.class" value="Daemon"/>
+  <property category="runtime.0" name="custom.init_required" value="0"/>
+  <property category="runtime.0" name="custom.required.1" value="parcs"/>
+  <property category="serverservices" name="disabled.services" value="jdatastore;sqlj"/>
+  <property category="serverservices" name="single.server.name" value="Tomcat 4.0"/>
+  <property category="sys" name="AuthorLabel" value="@author"/>
+  <property category="sys" name="BackupPath" value="../bak"/>
+  <property category="sys" name="CheckStable" value="1"/>
+  <property category="sys" name="Company" value=""/>
+  <property category="sys" name="CompanyLabel" value="Company:"/>
+  <property category="sys" name="Copyright" value="Copyright (c) 2004"/>
+  <property category="sys" name="CopyrightLabel" value="Copyright:"/>
+  <property category="sys" name="DefaultPath" value="."/>
+  <property category="sys" name="Description" value=""/>
+  <property category="sys" name="DescriptionLabel" value="Description:"/>
+  <property category="sys" name="DocPath" value="../doc"/>
+  <property category="sys" name="ExcludeClassEnabled" value="0"/>
+  <property category="sys" name="IncludeTestPath" value="1"/>
+  <property category="sys" name="InstanceVisibility" value="2"/>
+  <property category="sys" name="JDK" value="java version 1.5.0_11-b03"/>
+  <property category="sys" name="JvmVersion" value="1.4"/>
+  <property category="sys" name="LastTag" value="0"/>
+  <property category="sys" name="Libraries" value="parcs"/>
+  <property category="sys" name="MakeStable" value="0"/>
+  <property category="sys" name="OutPath" value="."/>
+  <property category="sys" name="SourcePath" value=".;."/>
+  <property category="sys" name="TestPath" value="."/>
+  <property category="sys" name="Title" value=""/>
+  <property category="sys" name="TitleLabel" value="Title:"/>
+  <property category="sys" name="Version" value="1.0"/>
+  <property category="sys" name="VersionLabel" value="@version"/>
+  <property category="sys" name="WorkingDirectory" value="."/>
+  <property category="sys" name="enable.auto.packages" value="false"/>
+  <file path="Daemon.java"/>
+  <file path="Linpack.java"/>
+  <file path="server"/>
+  <file path="StreamClassLoader.java"/>
+  <file path="UDPServer.java"/>
+</project>

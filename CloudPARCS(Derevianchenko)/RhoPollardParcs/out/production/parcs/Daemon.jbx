@@ -1,0 +1,13 @@
+[PropertyInfo]
+acc,boolean,false,false, , ,false,<default>
+point_channels,HashMap,false,false, , ,false,<default>
+point_data,HashMap,false,false, , ,false,<default>
+pointsNum,int,false,false, , ,false,<default>
+quit,boolean,false,false, , ,false,<default>
+sock,Socket,false,false, , ,false,<default>
+ss,ServerSocket,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bluck/Bluck.iml" filepath="$PROJECT_DIR$/Bluck/Bluck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibon/Fibon.iml" filepath="$PROJECT_DIR$/Fibon/Fibon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parcs.iml" filepath="$PROJECT_DIR$/parcs.iml" />
+    </modules>
+  </component>
+</project>

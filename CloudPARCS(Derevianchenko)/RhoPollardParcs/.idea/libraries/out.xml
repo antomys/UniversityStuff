@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="out">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Fibon/out/parcs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fibon/out/Fibon.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

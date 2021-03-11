@@ -1,0 +1,148 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML><!--JBuilder QuickDoc-->
+<HEAD>
+<TITLE>Class ExampleFileFilter</TITLE><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+</HEAD>
+<BODY>
+
+<H2>
+<FONT SIZE="-1"></FONT>
+<BR>Class ExampleFileFilter</H2>
+<DL>
+<DT>public class <B>ExampleFileFilter</B><DT>extends FileFilter
+</DL>
+<DL><DD>A convenience implementation of FileFilter that filters out all files except for those type extensions that it knows about.<DL><DD></DD></DL></DD>
+</DL>
+<DL></DL>
+<TABLE BORDER="1" CELLPADDING="3" CELLSPACING="0" WIDTH="100%">
+<TR BGCOLOR="#CCCCFF"><TD COLSPAN=1><FONT SIZE="+2">
+<B>Constructor Detail</B>
+</FONT></TD></TR></TABLE>
+
+<H3>ExampleFileFilter</H3>
+<PRE>
+public <B>ExampleFileFilter</B>()</PRE>
+<DL><DD>Creates a file filter. If no filters are added, then all files are accepted.<DL><DD></DD></DL></DD>
+</DL>
+<DL><DT><B>See Also:</B><DD>#addExtension</DD>
+</DL>
+<HR>
+
+<H3>ExampleFileFilter</H3>
+<PRE>
+public <B>ExampleFileFilter</B>(String&nbsp;extension)</PRE>
+<DL><DD>Creates a file filter that accepts files with the given extension. Example: new ExampleFileFilter("jpg");<DL><DD></DD></DL></DD>
+</DL>
+<DL><DT><B>See Also:</B><DD>#addExtension</DD>
+</DL>
+<HR>
+
+<H3>ExampleFileFilter</H3>
+<PRE>
+public <B>ExampleFileFilter</B>(String&nbsp;extension,
+                         String&nbsp;description)</PRE>
+<DL><DD>Creates a file filter that accepts the given file type. Example: new ExampleFileFilter("jpg", "JPEG Image Images"); Note that the "." before the extension is not needed. If provided, it will be ignored.<DL><DD></DD></DL></DD>
+</DL>
+<DL><DT><B>See Also:</B><DD>#addExtension</DD>
+</DL>
+<HR>
+
+<H3>ExampleFileFilter</H3>
+<PRE>
+public <B>ExampleFileFilter</B>(String[]&nbsp;filters)</PRE>
+<DL><DD>Creates a file filter from the given string array. Example: new ExampleFileFilter(String {"gif", "jpg"}); Note that the "." before the extension is not needed adn will be ignored.<DL><DD></DD></DL></DD>
+</DL>
+<DL><DT><B>See Also:</B><DD>#addExtension</DD>
+</DL>
+<HR>
+
+<H3>ExampleFileFilter</H3>
+<PRE>
+public <B>ExampleFileFilter</B>(String[]&nbsp;filters,
+                         String&nbsp;description)</PRE>
+<DL><DD>Creates a file filter from the given string array and description. Example: new ExampleFileFilter(String {"gif", "jpg"}, "Gif and JPG Images"); Note that the "." before the extension is not needed and will be ignored.<DL><DD></DD></DL></DD>
+</DL>
+<DL><DT><B>See Also:</B><DD>#addExtension</DD>
+</DL>
+<HR>
+
+<TABLE BORDER="1" CELLPADDING="3" CELLSPACING="0" WIDTH="100%">
+<TR BGCOLOR="#CCCCFF"><TD COLSPAN=1><FONT SIZE="+2">
+<B>Method Detail</B>
+</FONT></TD></TR></TABLE>
+
+<H3>accept</H3>
+<PRE>
+public boolean <B>accept</B>(File&nbsp;f)</PRE>
+<DL><DD>Return true if this file should be shown in the directory pane, false if it shouldn't. Files that begin with "." are ignored.<DL><DD></DD></DL></DD>
+</DL>
+<DL><DT><B>See Also:</B><DD>#getExtension</DD>
+<DD>FileFilter#accepts</DD>
+</DL>
+<HR>
+
+<H3>getExtension</H3>
+<PRE>
+public String <B>getExtension</B>(File&nbsp;f)</PRE>
+<DL><DD>Return the extension portion of the file's name .<DL><DD></DD></DL></DD>
+</DL>
+<DL><DT><B>See Also:</B><DD>#getExtension</DD>
+<DD>FileFilter#accept</DD>
+</DL>
+<HR>
+
+<H3>addExtension</H3>
+<PRE>
+public void <B>addExtension</B>(String&nbsp;extension)</PRE>
+<DL><DD>Adds a filetype "dot" extension to filter against. For example: the following code will create a filter that filters out all files except those that end in ".jpg" and ".tif": ExampleFileFilter filter = new ExampleFileFilter(); filter.addExtension("jpg"); filter.addExtension("tif"); Note that the "." before the extension is not needed and will be ignored.<DL><DD></DD></DL></DD>
+</DL>
+<DL></DL>
+<HR>
+
+<H3>getDescription</H3>
+<PRE>
+public String <B>getDescription</B>()</PRE>
+<DL><DD>Returns the human readable description of this filter. For example: "JPEG and GIF Image Files (*.jpg, *.gif)"<DL><DD></DD></DL></DD>
+</DL>
+<DL><DT><B>See Also:</B><DD>setDescription</DD>
+<DD>setExtensionListInDescription</DD>
+<DD>isExtensionListInDescription</DD>
+<DD>FileFilter#getDescription</DD>
+</DL>
+<HR>
+
+<H3>setDescription</H3>
+<PRE>
+public void <B>setDescription</B>(String&nbsp;description)</PRE>
+<DL><DD>Sets the human readable description of this filter. For example: filter.setDescription("Gif and JPG Images");<DL><DD></DD></DL></DD>
+</DL>
+<DL><DT><B>See Also:</B><DD>setDescription</DD>
+<DD>setExtensionListInDescription</DD>
+<DD>isExtensionListInDescription</DD>
+</DL>
+<HR>
+
+<H3>setExtensionListInDescription</H3>
+<PRE>
+public void <B>setExtensionListInDescription</B>(boolean&nbsp;b)</PRE>
+<DL><DD>Determines whether the extension list (.jpg, .gif, etc) should show up in the human readable description. Only relevent if a description was provided in the constructor or using setDescription();<DL><DD></DD></DL></DD>
+</DL>
+<DL><DT><B>See Also:</B><DD>getDescription</DD>
+<DD>setDescription</DD>
+<DD>isExtensionListInDescription</DD>
+</DL>
+<HR>
+
+<H3>isExtensionListInDescription</H3>
+<PRE>
+public boolean <B>isExtensionListInDescription</B>()</PRE>
+<DL><DD>Returns whether the extension list (.jpg, .gif, etc) should show up in the human readable description. Only relevent if a description was provided in the constructor or using setDescription();<DL><DD></DD></DL></DD>
+</DL>
+<DL><DT><B>See Also:</B><DD>getDescription</DD>
+<DD>setDescription</DD>
+<DD>setExtensionListInDescription</DD>
+</DL>
+<HR>
+
+</BODY>
+</HTML>

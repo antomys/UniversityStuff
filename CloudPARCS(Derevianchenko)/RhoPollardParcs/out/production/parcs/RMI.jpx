@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--JBuilder XML Project-->
+<project>
+  <property category="generalFormatting" name="blockIndent" value="4"/>
+  <property category="generalFormatting" name="continuationIndent" value="8"/>
+  <property category="generalFormatting" name="tabSize" value="4"/>
+  <property category="generalFormatting" name="useTabChar" value="1"/>
+  <property category="idl" name="ProcessIDL" value="false"/>
+  <property category="javadoc" name="custom.tags.1" value="todo;a;To Do:"/>
+  <property category="personality" name="personality" value=""/>
+  <property category="runtime" name="ConfigurationCount" value="1"/>
+  <property category="runtime" name="DefaultConfiguration" value="1"/>
+  <property category="runtime.0" name="BuildTargetOnRun" value="com.borland.jbuilder.build.ProjectBuilder$ProjectBuildAction;make"/>
+  <property category="runtime.0" name="ConfigurationName" value="policy"/>
+  <property category="runtime.0" name="RunnableType" value="com.borland.jbuilder.runtime.ApplicationRunner"/>
+  <property category="runtime.0" name="application.vmparameters" value="-Djava.rmi.server.codebase=file:///C:\Diplombak\RMI\ -Djava.security.policy=policy"/>
+  <property category="runtime.1" name="BuildTargetOnRun" value="com.borland.jbuilder.build.ProjectBuilder$ProjectBuildAction;make"/>
+  <property category="runtime.1" name="ConfigurationName" value="notimeouts"/>
+  <property category="runtime.1" name="ExclusionFilter" value="3"/>
+  <property category="runtime.1" name="RunnableType" value="com.borland.jbuilder.runtime.ApplicationRunner"/>
+  <property category="runtime.1" name="application.class" value="ParcsLauncher"/>
+  <property category="runtime.1" name="application.parameters" value="-notimeouts"/>
+  <property category="serverservices" name="disabled.services" value="jdatastore;sqlj"/>
+  <property category="serverservices" name="single.server.name" value="Tomcat 4.0"/>
+  <property category="sys" name="AuthorLabel" value="@author"/>
+  <property category="sys" name="BackupPath" value="../bak"/>
+  <property category="sys" name="CheckStable" value="1"/>
+  <property category="sys" name="Company" value="\u041a\u041d\u0423 \u0456\u043c. \u0422. \u0428\u0435\u0432\u0447\u0435\u043d\u043a\u0430"/>
+  <property category="sys" name="CompanyLabel" value="Company:"/>
+  <property category="sys" name="Copyright" value="Copyright (c) 2003-2004"/>
+  <property category="sys" name="CopyrightLabel" value="Copyright:"/>
+  <property category="sys" name="DefaultPath" value="."/>
+  <property category="sys" name="Description" value="\u0421\u0438\u0441\u0442\u0435\u043c\u0430 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u043d\u044b\u0445 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u0439 \u041f\u0410\u0420\u041a\u0421 \u0434\u043b\u044f \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u044b\u0445 \u0441\u0435\u0442\u0435\u0439"/>
+  <property category="sys" name="DescriptionLabel" value="Description:"/>
+  <property category="sys" name="DocPath" value="../doc"/>
+  <property category="sys" name="ExcludeClassEnabled" value="0"/>
+  <property category="sys" name="IncludeTestPath" value="1"/>
+  <property category="sys" name="InstanceVisibility" value="2"/>
+  <property category="sys" name="JDK" value="java version 1.5.0_11-b03"/>
+  <property category="sys" name="JvmVersion" value="1.4"/>
+  <property category="sys" name="LastTag" value="0"/>
+  <property category="sys" name="Libraries" value="../parcs/parcs.jpx"/>
+  <property category="sys" name="MakeStable" value="0"/>
+  <property category="sys" name="OutPath" value="."/>
+  <property category="sys" name="SourcePath" value="."/>
+  <property category="sys" name="TestPath" value="."/>
+  <property category="sys" name="Title" value="ParcsNet"/>
+  <property category="sys" name="TitleLabel" value="Title:"/>
+  <property category="sys" name="Version" value="1.0"/>
+  <property category="sys" name="VersionLabel" value="@version"/>
+  <property category="sys" name="WorkingDirectory" value="."/>
+  <property category="sys" name="enable.auto.packages" value="false"/>
+  <file path="ParcsClient.java"/>
+  <file path="ParcsLauncher.java"/>
+  <file path="ParcsLauncherInt.java"/>
+  <file path="ParcsLauncherObj.java">
+    <property category="generated" name="JavaSoft.rmic.0" value="ParcsLauncherObj_Stub.java"/>
+    <property category="idl" name="GenerateRMI" value="true"/>
+    <property category="idl" name="OtherRMIOptions" value="-v1.2"/>
+  </file>
+  <file path="policy"/>
+</project>
