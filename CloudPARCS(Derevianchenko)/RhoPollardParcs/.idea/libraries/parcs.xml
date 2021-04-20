@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="parcs">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/parcs.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
