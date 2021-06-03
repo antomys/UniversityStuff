@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProgLanguages>
+	<ProgLanguage
+		LanguageName = "C++"
+		ReleaseYear = "1985"
+		Authors = "Bjarne Stroustrup"
+		TypeOfLanguage = "Compiled"
+		AbstractionLevel = "Low"
+		CommonlyUsedFor = "Backend and desktop"
+	>
+	</ProgLanguage>
+	<ProgLanguage
+		 LanguageName =  "Java"
+		 ReleaseYear = "1991"
+		 Authors = "James Gosling, Mike Sheridan, and Patrick Naughton"
+		 TypeOfLanguage = "Compiled and interpreted"
+		 AbstractionLevel = "Medium"
+		 CommonlyUsedFor = "Backend and desktop"
+	>
+	</ProgLanguage>
+	<ProgLanguage
+		 LanguageName = "C#"
+		 ReleaseYear = "2000"
+		 Authors= "Anders Hejlsberg and Microsoft team"
+		 TypeOfLanguage = "Compiled and interpreted"
+		 AbstractionLevel = "Medium"
+		 CommonlyUsedFor ="Backend and desktop"
+	>
+	</ProgLanguage>
+	<ProgLanguage
+		 LanguageName = "JS"
+		 ReleaseYear = "2000"
+		 Authors = "Brendan Eich and NetScape team"
+		 TypeOfLanguage = "Interpreted"
+		 AbstractionLevel =  "High"
+		 CommonlyUsedFor = "Frontend"
+	>
+	</ProgLanguage>
+	<ProgLanguage
+		 LanguageName = "Python"
+		 ReleaseYear = "1991"
+		 Authors = "Guido van Rossum"
+		 TypeOfLanguage = "Interpreted"
+		 AbstractionLevel = "High"
+		 CommonlyUsedFor = "Backend and scientific research"
+	>
+	</ProgLanguage>
+</ProgLanguages>
