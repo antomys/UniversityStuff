@@ -1,0 +1,84 @@
+﻿<Page x:Class="TetrisAi.GamePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="700"
+      Title="GAME_PAGE">
+
+    <Grid x:Name="Root">
+        <Button x:Name="Pause" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Background="{x:Null}" BorderBrush="{x:Null}" Click="Pause_Click" IsTabStop="False">
+            <StackPanel Orientation="Horizontal" Width="Auto" HorizontalAlignment="Left">
+                <Image Source="Source/back_button.png" Margin="0,0,0,0" Width="30" Height="30" />
+            </StackPanel>
+        </Button>
+        <Button x:Name="SoundButton" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" Background="{x:Null}" BorderBrush="{x:Null}" Click="Sound_Click" IsTabStop="False">
+            <StackPanel Orientation="Horizontal" Width="Auto" HorizontalAlignment="Left">
+                <Image x:Name="SoundSource" Source="Source/sound_button.png" Margin="0,0,0,0" Width="30" Height="30" />
+            </StackPanel>
+        </Button>
+        <Button x:Name="EyeButton" HorizontalAlignment="Left" Margin="599,475,0,0" VerticalAlignment="Top" Background="{x:Null}" BorderBrush="{x:Null}" Click="Eye_Click" Height="53" Width="53" IsTabStop="False">
+            <StackPanel Orientation="Horizontal" Width="Auto" HorizontalAlignment="Left">
+                <Image x:Name="EyeImage" Source="Source/OpenEye.png" Margin="0,0,0,0" Width="43" Height="43" />
+            </StackPanel>
+        </Button>
+        <Button x:Name="GuideButton" HorizontalAlignment="Left" Margin="10,92,0,0" VerticalAlignment="Top" Background="{x:Null}" BorderBrush="{x:Null}" Click="Guide_Click" IsTabStop="False">
+            <StackPanel Orientation="Horizontal" Width="Auto" HorizontalAlignment="Left">
+                <Image x:Name="GuideIcon" Source="Source/Guide.png" Margin="0,0,0,0" Width="30" Height="30" />
+            </StackPanel>
+        </Button>
+        <Canvas x:Name="Canvas" HorizontalAlignment="Left" Height="19" Margin="50,10,0,0" VerticalAlignment="Top" Width="20"/>
+        <TextBlock HorizontalAlignment="Left" Margin="290,95,0,0" TextWrapping="Wrap" Text="NEXT" VerticalAlignment="Top" FontSize="22" TextAlignment="Center" Width="55"/>
+        <TextBlock HorizontalAlignment="Left" Margin="290,26,0,0" TextWrapping="Wrap" Text="Score" VerticalAlignment="Top" FontSize="22" TextAlignment="Center"/>
+        <TextBlock x:Name="Score" HorizontalAlignment="Left" Margin="290,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="22" Width="55" Height="34" TextAlignment="Center"><Run Text="0"/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="390,95,0,0" TextWrapping="Wrap" Text="NEXT" VerticalAlignment="Top" FontSize="22" TextAlignment="Center" Width="55"/>
+        <TextBlock HorizontalAlignment="Left" Margin="390,26,0,0" TextWrapping="Wrap" Text="Score" VerticalAlignment="Top" FontSize="22" TextAlignment="Center"/>
+        <TextBlock x:Name="Score2" HorizontalAlignment="Left" Margin="390,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="22" Width="55" Height="34" TextAlignment="Center"><Run Text="0"/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="_1p_a" HorizontalAlignment="Left" Margin="299,315,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="60" Height="17"/>
+        <TextBlock x:Name="_1p_b" HorizontalAlignment="Left" Margin="299,347,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="60" Height="17"/>
+        <TextBlock x:Name="_1p_c" HorizontalAlignment="Left" Margin="299,380,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="60" Height="17"><Run Text=""/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="_1p_d" HorizontalAlignment="Left" Margin="299,417,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="60" Height="17"><Run Text=""/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="_2p_a" HorizontalAlignment="Left" Margin="391,315,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="54" Height="17"><Run Text=""/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="_2p_b" HorizontalAlignment="Left" Margin="391,347,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="54" Height="17"/>
+        <TextBlock x:Name="_2p_c" HorizontalAlignment="Left" Margin="391,380,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="54" Height="17"><Run Text=""/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="_2p_d" HorizontalAlignment="Left" Margin="391,417,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="54" Height="17"><Run Text=""/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="Gamecount" HorizontalAlignment="Left" Margin="425,492,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="22" Width="138" Height="34" TextAlignment="Center"/>
+        <TextBlock HorizontalAlignment="Left" Margin="102,475,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="15" Height="17"><Run Text="a"/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="102,492,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="15" Height="17" Text="b"/>
+        <TextBlock HorizontalAlignment="Left" Margin="102,509,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="15" Height="17"><Run Text="c"/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="102,526,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="15" Height="17"><Run Text="d"/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="one1" HorizontalAlignment="Left" Margin="127,475,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="50" Height="17"><Run Text="a"/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="one2" HorizontalAlignment="Left" Margin="127,492,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="50" Height="17" Text="b"/>
+        <TextBlock x:Name="one3" HorizontalAlignment="Left" Margin="127,509,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="50" Height="17"><Run Text="c"/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="one4" HorizontalAlignment="Left" Margin="127,526,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="50" Height="17"><Run Text="d"/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="two1" HorizontalAlignment="Left" Margin="182,475,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="50" Height="17"><Run Text="a"/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="two2" HorizontalAlignment="Left" Margin="182,492,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="50" Height="17" Text="b"/>
+        <TextBlock x:Name="two3" HorizontalAlignment="Left" Margin="182,509,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="50" Height="17"><Run Text="c"/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="two4" HorizontalAlignment="Left" Margin="182,526,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="50" Height="17"><Run Text="d"/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="three1" HorizontalAlignment="Left" Margin="238,475,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="50" Height="17"><Run Text="a"/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="three2" HorizontalAlignment="Left" Margin="238,492,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="50" Height="17" Text="b"/>
+        <TextBlock x:Name="three3" HorizontalAlignment="Left" Margin="238,509,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="50" Height="17"><Run Text="c"/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="three4" HorizontalAlignment="Left" Margin="238,526,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="50" Height="17"><Run Text="d"/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="four1" HorizontalAlignment="Left" Margin="293,475,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="50" Height="17"><Run Text="a"/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="four2" HorizontalAlignment="Left" Margin="293,492,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="50" Height="17" Text="b"/>
+        <TextBlock x:Name="four3" HorizontalAlignment="Left" Margin="293,509,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="50" Height="17"><Run Text="c"/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="four4" HorizontalAlignment="Left" Margin="293,526,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="50" Height="17"><Run Text="d"/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="five1" HorizontalAlignment="Left" Margin="349,475,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="49" Height="17"><Run Text="a"/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="five2" HorizontalAlignment="Left" Margin="349,492,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="49" Height="17" Text="b"/>
+        <TextBlock x:Name="five3" HorizontalAlignment="Left" Margin="349,509,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="49" Height="17"><Run Text="c"/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="five4" HorizontalAlignment="Left" Margin="349,526,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="49" Height="17"><Run Text="d"/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="one0" HorizontalAlignment="Left" Margin="127,458,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="50" Height="17" Text="0"/>
+        <TextBlock x:Name="two0" HorizontalAlignment="Left" Margin="182,458,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="50" Height="17" Text="0"/>
+        <TextBlock x:Name="three0" HorizontalAlignment="Left" Margin="238,458,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="50" Height="17" Text="0"/>
+        <TextBlock x:Name="four0" HorizontalAlignment="Left" Margin="293,458,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="50" Height="17" Text="0"/>
+        <TextBlock x:Name="five0" HorizontalAlignment="Left" Margin="349,458,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="48" Height="17" Text="5"/>
+        <TextBlock HorizontalAlignment="Left" Margin="425,458,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="22" Width="138" Height="34" TextAlignment="Center" Text="Generations"/>
+        <TextBlock HorizontalAlignment="Left" Margin="76,459,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="10" TextAlignment="Center" Width="67" Height="17" Text="Number of successful Gens"/>
+        <TextBlock HorizontalAlignment="Left" Margin="285,223,0,0" TextWrapping="Wrap" Text="LEVEL" VerticalAlignment="Top" FontSize="22" TextAlignment="Center" Width="64" Height="33"/>
+        <TextBlock HorizontalAlignment="Left" Margin="386,223,0,0" TextWrapping="Wrap" Text="LEVEL" VerticalAlignment="Top" FontSize="22" TextAlignment="Center" Width="64" Height="33"/>
+        <TextBlock x:Name="level1" HorizontalAlignment="Left" Margin="285,267,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="22" TextAlignment="Center" Width="64" Height="33"/>
+        <TextBlock x:Name="level2" HorizontalAlignment="Left" Margin="386,267,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="22" TextAlignment="Center" Width="64" Height="33"/>
+
+    </Grid>
+</Page>

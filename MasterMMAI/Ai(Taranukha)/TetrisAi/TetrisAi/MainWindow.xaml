@@ -1,0 +1,13 @@
+﻿<Window x:Class="TetrisAi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Tetris Ai" ResizeMode="NoResize" Background="White" KeyDown="OnKeyDown" KeyUp="OnKeyUp" MinWidth="400" MinHeight="500" Width="400" Height="500" WindowStartupLocation="CenterScreen" IsTabStop="False">
+    <Grid x:Name="Root">
+        <Frame x:Name="Frame" Source="/Main_Menu.xaml" NavigationUIVisibility="Hidden" Focusable="False" IsTabStop="False"/>
+        <MediaElement x:Name="MediaElement" HorizontalAlignment="Left" Height="100" Margin="267,340,0,0" VerticalAlignment="Top" Width="100" Source="Source/[SHANA]Tetris_theme.mp4"/>
+    </Grid>
+
+</Window>

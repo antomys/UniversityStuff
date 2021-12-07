@@ -1,0 +1,15 @@
+﻿<Page x:Class="TetrisAi.Menu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="400"
+      Title="Menu">
+
+    <Grid>
+        <Button x:Name="Start" Content="Start" HorizontalAlignment="Center" Margin="0,237,0,0" VerticalAlignment="Top" Width="128" Height="85" Background="#FFDDDDDD" Foreground="Black" Click="Start_Click" IsTabStop="False"/>
+        <Button x:Name="Exit" Content="Exit" HorizontalAlignment="Center" Margin="0,362,0,0" VerticalAlignment="Top" Width="128" Height="51" Click="Exit_Click" IsTabStop="False"/>
+        <TextBlock x:Name="TextBlock" HorizontalAlignment="Center" Margin="0,90,0,0" TextWrapping="Wrap" Text="TETRIS" VerticalAlignment="Top" FontSize="50"/>
+    </Grid>
+</Page>
