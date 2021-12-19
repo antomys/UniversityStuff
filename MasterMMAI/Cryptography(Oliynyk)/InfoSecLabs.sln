@@ -1,22 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1", "AES-Kalyna-master\Lab1\Lab1.csproj", "{E9CE46BA-406D-402D-9DA7-53C13A9EDE67}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1", "AES-Kalyna\Lab1\Lab1.csproj", "{E9CE46BA-406D-402D-9DA7-53C13A9EDE67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "AES-Kalyna-master\UnitTestProject\UnitTestProject.csproj", "{EEB6B88B-DECC-43C9-B1FE-0BBC00FA388B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1UnitTestProject", "AES-Kalyna\Lab1UnitTestProject\Lab1UnitTestProject.csproj", "{EEB6B88B-DECC-43C9-B1FE-0BBC00FA388B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2", "RC4_Salsa20_AESModes-master\Lab2\Lab2.csproj", "{BB71162B-D1BC-4218-93DB-77F463090413}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2", "RC4_Salsa20_AESModes\Lab2\Lab2.csproj", "{BB71162B-D1BC-4218-93DB-77F463090413}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmark", "RC4_Salsa20_AESModes-master\Benchmark\Benchmark.csproj", "{DD44ACB1-136D-4A36-B338-C16BBAB70018}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2Benchmark", "RC4_Salsa20_AESModes\Lab2Benchmark\Lab2Benchmark.csproj", "{DD44ACB1-136D-4A36-B338-C16BBAB70018}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleForTests", "RC4_Salsa20_AESModes-master\ConsoleForTests\ConsoleForTests.csproj", "{CDD141E5-A427-4B7D-A0AC-6DF8C7831DF4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2ConsoleForTests", "RC4_Salsa20_AESModes\Lab2ConsoleForTests\Lab2ConsoleForTests.csproj", "{CDD141E5-A427-4B7D-A0AC-6DF8C7831DF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3", "cryptolab3-master\Lab3\Lab3.csproj", "{84A5716D-3DF2-42CE-A4CF-828661DB8916}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3", "cryptolab3\Lab3\Lab3.csproj", "{84A5716D-3DF2-42CE-A4CF-828661DB8916}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleForTests", "cryptolab3-master\ConsoleForTests\ConsoleForTests.csproj", "{6F3E81E7-10EC-4CEA-91FB-784D89047EA9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3ConsoleForTests", "cryptolab3\Lab3ConsoleForTests\Lab3ConsoleForTests.csproj", "{6F3E81E7-10EC-4CEA-91FB-784D89047EA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4", "cryptolab4-master\Lab4\Lab4.csproj", "{58926D55-CBAC-49CC-87C0-455C6D277947}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4", "cryptolab4\Lab4\Lab4.csproj", "{58926D55-CBAC-49CC-87C0-455C6D277947}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleForTests", "cryptolab4-master\ConsoleForTests\ConsoleForTests.csproj", "{F63926F8-C8FC-4502-98C0-2E7245CDC0A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4ConsoleForTests", "cryptolab4\Lab4ConsoleForTests\Lab4ConsoleForTests.csproj", "{F63926F8-C8FC-4502-98C0-2E7245CDC0A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5EllipticCurves", "Lab5EllipticCurves\Lab5EllipticCurves.csproj", "{6B93F69B-9767-4E69-BA30-7256DFB51057}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,5 +64,9 @@ Global
 		{F63926F8-C8FC-4502-98C0-2E7245CDC0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F63926F8-C8FC-4502-98C0-2E7245CDC0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F63926F8-C8FC-4502-98C0-2E7245CDC0A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B93F69B-9767-4E69-BA30-7256DFB51057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B93F69B-9767-4E69-BA30-7256DFB51057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B93F69B-9767-4E69-BA30-7256DFB51057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B93F69B-9767-4E69-BA30-7256DFB51057}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
