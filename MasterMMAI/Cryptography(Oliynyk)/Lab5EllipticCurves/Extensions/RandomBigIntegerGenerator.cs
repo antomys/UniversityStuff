@@ -1,7 +1,7 @@
 ﻿using System.Numerics;
 using System.Security.Cryptography;
 
-namespace Lab5EllipticCurves
+namespace Lab5EllipticCurves.Extensions
 {
     internal class RandomBigIntegerGenerator : IDisposable
     {

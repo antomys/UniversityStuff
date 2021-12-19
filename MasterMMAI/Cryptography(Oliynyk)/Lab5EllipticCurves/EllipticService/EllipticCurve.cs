@@ -1,8 +1,10 @@
 ﻿using System.Numerics;
+using Lab5EllipticCurves.EllipticService.Interfaces;
+using Lab5EllipticCurves.Extensions;
 
-namespace Lab5EllipticCurves
+namespace Lab5EllipticCurves.EllipticService
 {
-    public class EllipticCurve
+    public class EllipticCurve : IEllipticCurve
     {
         private EllipticCurvePoint _basePoint;
 

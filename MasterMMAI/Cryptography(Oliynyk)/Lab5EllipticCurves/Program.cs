@@ -1,6 +1,9 @@
 ﻿using System.Globalization;
 using System.Numerics;
 using System.Text;
+using Lab5EllipticCurves.EllipticService;
+using Lab5EllipticCurves.EllipticService.Interfaces;
+using Lab5EllipticCurves.Kupyna;
 
 namespace Lab5EllipticCurves
 {
@@ -20,7 +23,7 @@ namespace Lab5EllipticCurves
 
             var curve = new EllipticCurve(a, b, p, n, 367);
 
-            var context = new EllipticCurveContext(curve);
+            IEllipticCurveContext context = new EllipticCurveContext(curve);
 
             Console.WriteLine($"Generator point:\nX = {curve.BasePoint.X}\nY = {curve.BasePoint.Y}");
             var (privateKey, publicKey) = context.GenerateKeyPair();
@@ -28,14 +31,17 @@ namespace Lab5EllipticCurves
             Console.WriteLine($"Public Key:\nX = {publicKey.X}\nY = {publicKey.Y}");
             Console.WriteLine($"Is valid public key: {context.IsValidPublicKey(publicKey)}");
             Console.WriteLine($"Is valid private key: {context.IsValidPrivateKey(privateKey, publicKey)}");
-
+            Console.WriteLine('\n');
+            
             using var hashFunction = new KupynaHash(256);
             
-            const string msg = "Transfer 1 dollar";
-            const string fake = "Transfer 1000 dollars";
+            const string msg = "Hello from true message";
+            const string fake = "Hello from fake message";
             
             var msgBytes = Encoding.ASCII.GetBytes(msg);
             var fakeBytes = Encoding.ASCII.GetBytes(fake);
+            
+            Console.WriteLine('\n');
             Console.WriteLine($"Message to sign: {msg}");
             var (r, s) = context.SignMessage(msgBytes, privateKey, publicKey, hashFunction);
 

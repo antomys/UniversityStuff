@@ -1,4 +1,4 @@
-﻿namespace Lab5EllipticCurves
+﻿namespace Lab5EllipticCurves.Kupyna
 {
     public static class KupynaTransformation
     {

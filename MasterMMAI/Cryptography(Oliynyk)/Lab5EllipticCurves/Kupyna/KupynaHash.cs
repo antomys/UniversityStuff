@@ -1,7 +1,7 @@
 ﻿using System.Security.Cryptography;
-using static Lab5EllipticCurves.KupynaTransformation;
+using static Lab5EllipticCurves.Kupyna.KupynaTransformation;
 
-namespace Lab5EllipticCurves
+namespace Lab5EllipticCurves.Kupyna
 {
     public class KupynaHash : HashAlgorithm
     {
@@ -162,9 +162,9 @@ namespace Lab5EllipticCurves
                 state[j, i] ^= (byte) (temp1[j, i] ^ temp2[j, i]);
         }
 
-        private static void P(byte[] data, byte[,] state)
+        private static void P(IReadOnlyCollection<byte> data, byte[,] state)
         {
-            var rounds = data.Length * 8 <= 256 ? 10 : 14;
+            var rounds = data.Count * 8 <= 256 ? 10 : 14;
             for (var i = 0; i < rounds; ++i)
             {
                 AddRoundConstantQ(state, i);
@@ -174,9 +174,9 @@ namespace Lab5EllipticCurves
             }
         }
 
-        private static void Q(byte[] data, byte[,] state)
+        private static void Q(IReadOnlyCollection<byte> data, byte[,] state)
         {
-            var rounds = data.Length * 8 <= 256 ? 10 : 14;
+            var rounds = data.Count * 8 <= 256 ? 10 : 14;
             for (var i = 0; i < rounds; ++i)
             {
                 AddRoundConstantP(state, i);

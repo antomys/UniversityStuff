@@ -1,6 +1,6 @@
 ﻿using System.Numerics;
 
-namespace Lab5EllipticCurves
+namespace Lab5EllipticCurves.Extensions
 {
     public static class BigIntegerExtensions
     {
