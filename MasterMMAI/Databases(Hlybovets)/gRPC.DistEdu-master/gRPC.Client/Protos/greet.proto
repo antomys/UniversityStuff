@@ -1,0 +1,38 @@
+syntax = "proto3";
+option csharp_namespace = "gRPC.Client";
+
+import "google/protobuf/timestamp.proto";
+
+// The greeting service definition.
+service GreetService {
+
+  // Sends a greeting
+  rpc ProcessRequest(ProductRequest) returns (ProductsFullResponse);
+
+  rpc ActualizeData (Product) returns (ProductsResponse);
+}
+
+message Void {}
+
+message Product{
+  string productName = 1;
+  string productId = 2;
+  google.protobuf.Timestamp addTime = 3;
+}
+
+message ProductRequest{
+  string command = 1;
+  bool pushToKafka = 2;
+  Product product = 3;
+}
+
+message ProductsFullResponse{
+  Product product = 1;
+  bool isPushedToKafka = 2;
+  bool isProcessed = 3;
+}
+
+message ProductsResponse{
+  string productName = 1;
+  bool isProcessed = 2;
+}

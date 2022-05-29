@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistEduDatabases2", "DistEduDatabases2\DistEduDatabases2.csproj", "{3B5CD4C2-3D5F-4595-B9F6-464DD2913D24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistEduDatabases2.Common", "DistEduDatabases2.Common\DistEduDatabases2.Common.csproj", "{95B242DF-6BB0-4D00-94C6-94F29C200EFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistEduDatabases2.Relational", "DistEduDatabases2.Relational\DistEduDatabases2.Relational.csproj", "{58ADE07A-9CAF-4A23-B470-A09D5BAF3F60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistEduDatabases2.Mongo", "DistEduDatabases2.Mongo\DistEduDatabases2.Mongo.csproj", "{F2097457-3F98-4FD7-B093-910768C40054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistEduDatabases2.Neo4j", "DistEduDatabases2.Neo4j\DistEduDatabases2.Neo4j.csproj", "{13819961-A67E-4EBE-825D-6F271B1A14F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B5CD4C2-3D5F-4595-B9F6-464DD2913D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5CD4C2-3D5F-4595-B9F6-464DD2913D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5CD4C2-3D5F-4595-B9F6-464DD2913D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5CD4C2-3D5F-4595-B9F6-464DD2913D24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95B242DF-6BB0-4D00-94C6-94F29C200EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B242DF-6BB0-4D00-94C6-94F29C200EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B242DF-6BB0-4D00-94C6-94F29C200EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B242DF-6BB0-4D00-94C6-94F29C200EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58ADE07A-9CAF-4A23-B470-A09D5BAF3F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58ADE07A-9CAF-4A23-B470-A09D5BAF3F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58ADE07A-9CAF-4A23-B470-A09D5BAF3F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58ADE07A-9CAF-4A23-B470-A09D5BAF3F60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2097457-3F98-4FD7-B093-910768C40054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2097457-3F98-4FD7-B093-910768C40054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2097457-3F98-4FD7-B093-910768C40054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2097457-3F98-4FD7-B093-910768C40054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13819961-A67E-4EBE-825D-6F271B1A14F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13819961-A67E-4EBE-825D-6F271B1A14F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13819961-A67E-4EBE-825D-6F271B1A14F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13819961-A67E-4EBE-825D-6F271B1A14F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
