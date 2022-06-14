@@ -1,8 +1,0 @@
-/* AUTOMATICALLY GENERATED ON Tue Feb 03 18:17:48 EET 2004*/
-/* DO NOT EDIT */
-
-grant {
-//  permission java.security.AllPermission;
-  permission java.net.SocketPermission "localhost:1024-65535","connect,accept,resolve";
-};
-

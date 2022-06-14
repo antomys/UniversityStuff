@@ -1,1 +1,0 @@
-java.exe -cp .;.. -Xbootclasspath/a:.. -jar Series.jar 
