@@ -1,0 +1,9 @@
+<suite name="Test-method Suite" parallel="methods" thread-count="2" >
+<test name="Test-method test" group-by-instances="true">
+    <classes>
+        <class name="ParallelClassesTestSecond"/>
+        <class name="ParallelMethodTest" />
+
+    </classes>
+</test>
+</suite>
